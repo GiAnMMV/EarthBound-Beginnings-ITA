@@ -2,17 +2,17 @@
 Fan Italian translation of EarthBound Beginnings
 
 The text box contains max 22 characters in a line.
-Every overworld sentence begins with "*" and the following lines with a space " ".
-Newlines are represented by the hash "#".
-Pauses by "_".
-The string ends where the characters "|" or "§" appear.
+Every overworld sentence begins with `*` and the following lines with a space " ".
+Newlines are represented by the hash `#`.
+Pauses by `_`.<br />
+The string ends where the characters `|` or `§` appear.
 
 Example:
-*Hi, how are you# today?#_*Fine, hopefully!#|
+```*Hi, how are you# today?#_*Fine, hopefully!#|```<br />
 Result:
-*Hi, how are you
+```*Hi, how are you
  today?
-*Fine, hopefully!
+*Fine, hopefully!```
 
 SPECIAL COMBINATIONS:
 ---
