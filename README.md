@@ -17,7 +17,7 @@ Result:
 SPECIAL COMBINATIONS:
 ---
 These combinations are read by the game as variables, then remember to treat them as if they were at their maximum length, written in brackets:
-¹÷[ => Ninten (7)
+ ¹÷[ => Ninten (7)
 ¹£@ => Party Leader (7)
 ¹x[ => Lloyd (7)
 ¹8[ => Ana (7)
