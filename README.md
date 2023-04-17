@@ -7,9 +7,9 @@ Newlines are represented by the hash `#`.
 Pauses by `_`.<br />
 The string ends where the characters `|` or `§` appear.
 
-Example:
+Example:<br />
 ```*Hi, how are you# today?#_*Fine, hopefully!#|```<br />
-Result:
+Result:<br />
 ```*Hi, how are you
  today?
 *Fine, hopefully!```
