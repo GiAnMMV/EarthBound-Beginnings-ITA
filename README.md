@@ -13,14 +13,8 @@ The string ends where the characters `|` or `§` appear.<br>
 *Hi, how are you# today?#_*Fine, hopefully!#|
 ```
 **Result:**
-```
-+----------------------+
-|*Hi, how are you      |
-| today?               |
-|*Fine, hopefully!     |
-|                      |
-+----------------------+
-```
+![image](https://user-images.githubusercontent.com/131027007/232634204-facfef4d-b0ef-4e70-906e-5c63ae1fd3c3.png)
+
 ### SPECIAL COMBINATIONS
 These combinations are read by the game as variables, then remember to treat them as if they were at their maximum length, written in brackets:<br />
 ` ¹÷[ ` => Ninten (7)<br />
