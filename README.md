@@ -7,7 +7,7 @@ Newlines are represented by the hash "#".
 Pauses by "_".
 The string ends where the characters "|" or "§" appear.
 
-EXAMPLE:
+-Example:
 ----------------------
 *Hi, how are you# today?#_*Fine, hopefully!#|
 ----------------------
@@ -16,7 +16,7 @@ Result:
  today?
 *Fine, hopefully!
 
-SPECIAL COMBINATIONS
+SPECIAL COMBINATIONS:
 These combinations are read by the game as variables, then remember to treat them as if they were at their maximum length, written in brackets:
 ¹÷[ => Ninten (7)
 ¹£@ => Party Leader (7)
