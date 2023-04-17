@@ -15,14 +15,9 @@ The string ends where the characters `|` or `§` appear.<br>
 **Result:**
 ```
 +----------------------+
-|                      |
 |*Hi, how are you      |
-|                      |
 | today?               |
-|                      |
 |*Fine, hopefully!     |
-|                      |
-|                      |
 |                      |
 +----------------------+
 ```
