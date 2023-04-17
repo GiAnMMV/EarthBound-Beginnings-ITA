@@ -35,4 +35,4 @@ These combinations are read by the game as variables, then remember to treat the
 
 ITEMS/PSI/ENEMIES/LOCATIONS
 ---
-All the lines in items.txt must can't be longer than 11 characters, "|" doesn't count.
+All the lines in `items.txt` can't be longer than 11 characters, "|" doesn't count.
