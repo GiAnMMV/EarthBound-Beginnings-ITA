@@ -15,7 +15,6 @@ Result:
  today?
 *Fine, hopefully!
 ```
-
 SPECIAL COMBINATIONS:
 ---
 These combinations are read by the game as variables, then remember to treat them as if they were at their maximum length, written in brackets:
@@ -38,3 +37,7 @@ These combinations are read by the game as variables, then remember to treat the
 ITEMS/PSI/ENEMIES/LOCATIONS
 ---
 All the lines in `items.txt` can't be longer than 11 characters, "|" doesn't count.
+
+BATTLE TEXT
+---
+The battle text uses different formatting rules: sometimes it's just plain text without `*`s and other times it is indentated by one space at every line.
