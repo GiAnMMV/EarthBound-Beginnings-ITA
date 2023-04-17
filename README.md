@@ -1,23 +1,25 @@
 # EarthBound-Beginnings-ITA
-Fan Italian translation of EarthBound Beginnings
+Fan Italian translation of EarthBound Beginnings (Mother 3).
 
-The text box contains max 22 characters in a line.
-Every overworld sentence begins with `*` and the following lines with a space " ".
-Newlines are represented by the hash `#`.
-Pauses by `_`.<br />
-The string ends where the characters `|` or `§` appear.
+## ORIGINAL README
+The text box contains max 22 characters in a line.<br>
+Every overworld sentence begins with `*` and the following lines with a space ` `.<br>
+Newlines are represented by the hash `#`.<br>
+Pauses by `_`.<br>
+The string ends where the characters `|` or `§` appear.<br>
 
-Example:
-```*Hi, how are you# today?#_*Fine, hopefully!#|```<br />
-Result:
+**Example:**
+```
+*Hi, how are you# today?#_*Fine, hopefully!#|
+```
+**Result:**
 ```
 *Hi, how are you
  today?
 *Fine, hopefully!
 ```
 
-SPECIAL COMBINATIONS:
----
+### SPECIAL COMBINATIONS:
 These combinations are read by the game as variables, then remember to treat them as if they were at their maximum length, written in brackets:
 ` ¹÷[ ` => Ninten (7)<br />
 ` ¹£@ ` => Party Leader (7)<br />
@@ -35,6 +37,5 @@ These combinations are read by the game as variables, then remember to treat the
 ` ¹°[ ` => Player Name (17)<br />
 ` ³ ` followed by 4 characters => Number (5)
 
-ITEMS/PSI/ENEMIES/LOCATIONS
----
-All the lines in `items.txt` can't be longer than 11 characters, "|" doesn't count.
+### ITEMS/PSI/ENEMIES/LOCATIONS
+All the lines in `items.txt` can't be longer than 11 characters, `|` doesn't count.
