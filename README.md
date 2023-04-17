@@ -17,20 +17,20 @@ Result:
 SPECIAL COMBINATIONS:
 ---
 These combinations are read by the game as variables, then remember to treat them as if they were at their maximum length, written in brackets:
-` ¹÷[ ` => Ninten (7)
-` ¹£@ ` => Party Leader (7)
-` ¹x[ ` => Lloyd (7)
-` ¹8[ ` => Ana (7)
-` ¹¡] ` => Teddy (7)
-`` ¹|` `` => Complement (7)
-`` ¹°` `` => Subject (7)
-` ¹Ì× ` => Pizza (11)
-`` ¹%` `` => Item (11)
-`` ¹⁴` `` => Object (11)
-` ¹É& ` => Target (11)
-` ¹à& ` => Enemy (11)
-` ¹®& ` => ?? (11)
-` ¹°[ ` => Player Name (17)
+` ¹÷[ ` => Ninten (7)<br />
+` ¹£@ ` => Party Leader (7)<br />
+` ¹x[ ` => Lloyd (7)<br />
+` ¹8[ ` => Ana (7)<br />
+` ¹¡] ` => Teddy (7)<br />
+`` ¹|` `` => Complement (7)<br />
+`` ¹°` `` => Subject (7)<br />
+` ¹Ì× ` => Pizza (11)<br />
+`` ¹%` `` => Item (11)<br />
+`` ¹⁴` `` => Object (11)<br />
+` ¹É& ` => Target (11)<br />
+` ¹à& ` => Enemy (11)<br />
+` ¹®& ` => ?? (11)<br />
+` ¹°[ ` => Player Name (17)<br />
 ` ³ ` followed by 4 characters => Number (5)
 
 ITEMS/PSI/ENEMIES/LOCATIONS
