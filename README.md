@@ -22,7 +22,7 @@ The string ends where the characters `|` or `§` appear.<br>
 +----------------------+
 ```
 ### SPECIAL COMBINATIONS
-These combinations are read by the game as variables, then remember to treat them as if they were at their maximum length, written in brackets:
+These combinations are read by the game as variables, then remember to treat them as if they were at their maximum length, written in brackets:<br />
 ` ¹÷[ ` => Ninten (7)<br />
 ` ¹£@ ` => Party Leader (7)<br />
 ` ¹x[ ` => Lloyd (7)<br />
