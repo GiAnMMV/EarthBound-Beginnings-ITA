@@ -14,9 +14,17 @@ The string ends where the characters `|` or `§` appear.<br>
 ```
 **Result:**
 ```
-*Hi, how are you
- today?
-*Fine, hopefully!
+╔══════════════════════╗
+║                      ║
+║*Hi, how are you      ║
+║                      ║
+║ today?               ║
+║                      ║
+║*Fine, hopefully!     ║
+║                      ║
+║                      ║
+║                      ║
+╚══════════════════════╝
 ```
 ### SPECIAL COMBINATIONS:
 These combinations are read by the game as variables, then remember to treat them as if they were at their maximum length, written in brackets:
