@@ -1,0 +1,262 @@
+|
+Big Bag|
+Phone Card|
+Crumbs|
+Repel Ring|
+ButterKnife|
+Surv.Knife|
+Sword|
+Katana|
+Stun Gun|
+Air Gun|
+Plastic Bat|
+Wooden Bat|
+AluminumBat|
+Hank's Bat|
+Frying Pan|
+NonstickPan|
+IronSkillet|
+Slingshot|
+Boomerang|
+Insecticide|
+Super Spray|
+Flea Bag|
+WordsO'Love|
+Swear Words|
+StkyMachine|
+Flashdark|
+StoneOrigin|
+PoisnNeedle|
+Fl Thrower|
+Bomb|
+Super Bomb|
+Laser Beam|
+Plasma Beam|
+Rope|
+Peace Coin|
+ProtectCoin|
+Magic Coin|
+Brass Ring|
+Silver Ring|
+Gold Ring|
+H2o Pendant|
+FirePendant|
+EarthPendnt|
+Sea Pendant|
+OrangeJuice|
+FrenchFries|
+Magic Herb|
+Hamburger|
+SportsDrink|
+LifeUpCream|
+AsthmaSpray|
+Antidote|
+Mouthwash|
+berry Tofu|
+Bread|
+Noble Seed|
+PSI Stone|
+MagicRibbon|
+Magic Candy|
+QuickCapsul|
+Wisdom Caps|
+PhysicalCap|
+ForceCapsul|
+FightCapsul|
+BasementKey|
+Zoo Key|
+Ghost Key|
+GGF's Diary|
+Pass|
+Ticket|
+CanaryChick|
+BottlRocket|
+Hat|
+Dentures|
+Ticket Stub|
+IC-chip|
+Ocarina|
+FranklnBdge|
+FrndshpRing|
+Onyx Hook|
+Last Weapon|
+Ruler|
+Cash Card|
+Red Weed|
+Bullhorn|
+Map|
+Debug|
+FlightplanA|
+FlightplanB|
+FlightplanC|
+Hint 1|
+Hint 2|
+Hint 3|
+Real Rocket|
+TimeMachine|
+MyHome|
+Podunk|
+Merrysville|
+Reindeer|
+Spookane|
+Snowman|
+Youngtown|
+Ellay|
+Union|
+Telepathy|
+Teleport|
+LifeUp α|
+LifeUp β|
+LifeUp τ|
+LifeUp π|
+LifeUp Ω|
+Healing α|
+Healing β|
+Healing τ|
+Healing π|
+SuprHealing|
+PSIShield α|
+PSIShield β|
+PowerShield|
+BrainShock|
+BrainCyclon|
+Hypnosis|
+Paralysis|
+Darkness|
+PSI-Magnet|
+Shield-Off|
+PSI-Block|
+OffenseUp|
+DefenseUp α|
+DefenseUp β|
+QuickUp|
+Def.Down α|
+Def.Down β|
+4th-D Slip|
+PK Freeze α|
+PK Freeze β|
+PK Freeze τ|
+PK Freeze Ω|
+PK Fire α|
+PK Fire β|
+PK Fire τ|
+PK Fire Ω|
+PK Beam α|
+PK Beam β|
+PK Beam τ|
+PK Beam Ω|
+PK Thunderα|
+PK Thunderβ|
+PK Thunderτ|
+Faintd|
+ Stone|
+Parlzd|
+Asleep|
+Confsd|
+Puzzld|
+Poison|
+  Cold|
+BigWoodoh|
+Dragon|
+R7038|
+Elephant|
+Bear|
+Big Foot|
+Mad Truck|
+Old Robot|
+Megaborg|
+Gargoyle|
+Gabilan|
+Gorilla|
+Bison|
+Tiger|
+Mad Car|
+Raeb Yddet|
+Magic Snail|
+Titanees|
+Giegue|
+Eagle|
+Wolf|
+Seagull|
+Alligator|
+EnergyRobot|
+The Fish|
+Fugitive|
+B.B.'s Boss|
+Barbot|
+Nancy|
+Starman|
+Ullrich|
+Cerebrum|
+Mook|
+Armor|
+Woodoh|
+Wally|
+The Hippie|
+Bag Lady|
+B.B. Gang|
+Dr.Distorto|
+Gang Zombie|
+PseudoZombi|
+Crow|
+Snake|
+Hyena|
+Cougar|
+Centipede|
+Dust Ball|
+Fly|
+Spider|
+Scorpion|
+Rope|
+Fire Ball|
+Watcher|
+Groucho|
+Ghost|
+Lil Saucer|
+Mr. Bat|
+Starman Jr.|
+Skunk|
+Shroudley|
+Rat|
+Bomber|
+Doll|
+Lamp|
+BionicCenti|
+BionicScorp|
+Red Snake|
+Lone Wolf|
+Polar Bear|
+Rattlesnake|
+Tarantula|
+Crocodile|
+Buffalo|
+Bionic Bat|
+Stray Dog|
+Psycho Car|
+PsychoTruck|
+ManiacTruck|
+Alarm Ghost|
+Foureyes|
+Dadseyes|
+Momseyes|
+Sky Yddet|
+Giga Borg|
+Omega Borg|
+Scrapper|
+UltraBarbot|
+OmegaSaucer|
+Kelly|
+Star Miner|
+SuperEnergy|
+Juana|
+BlueStarman|
+Rockoyle|
+Titanian|
+Oh-Mook|
+Zombie|
+NastyZombie|
+Silver Wolf|
+R7037|
+GrizzlyBear|
+R7038XX|
+LastStarman|

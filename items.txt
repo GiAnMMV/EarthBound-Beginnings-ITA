@@ -1,0 +1,262 @@
+|
+SaccaGrande|
+SchedaTele.|
+Briciole|
+Anel.Repel.|
+Colt.Burro|
+Coltel.Sop.|
+Spada|
+Katana|
+Pist.Stord.|
+PistolaAria|
+MazzaPlast.|
+Mazza Legno|
+MazzaAllum.|
+MazzaDiHank|
+Padella|
+Pad.Antiad.|
+Padel.Ferro|
+Fionda|
+Boomerang|
+Insetticida|
+Super Spray|
+Sacco Pulci|
+ParoleDolci|
+Parolacce|
+Macch.Ades.|
+Torcia Buia|
+PietraOrig.|
+AgoAvvelen.|
+Lanciafiam.|
+Bomba|
+Super Bomba|
+RaggioLaser|
+Ragg.Plasma|
+Corda|
+Moneta Pace|
+Mon.Protez.|
+Mon.Magica|
+Anel.Ottone|
+Anel.Argent|
+Anello Oro|
+CiondoloH2o|
+Ciond.Fuoco|
+Ciond.Terra|
+Ciond. Mare|
+Suc.Arancia|
+Pat. Fritte|
+ErbeMagiche|
+Hamburger|
+BibitaSport|
+Pomata Vita|
+Spray Asma|
+Antidoto|
+Collutorio|
+TofuFragola|
+Pane|
+Nobile Seme|
+Pietra PSI|
+Fioc.Magico|
+CaramMagica|
+Past.Rapida|
+Past.Saggia|
+Past.Fisica|
+Past.Forte|
+Past.Lotta|
+ChiaveCant.|
+Chiave Zoo|
+ChiaveF.sma|
+DiarioBnon.|
+Lasciapass.|
+Biglietto|
+Canar.Pulc.|
+Razzetto|
+Cappello|
+Dentiera|
+Matr.Bigl.|
+Circuito|
+Ocarina|
+M.Franklin|
+Anel.Amiciz|
+Becco Onice|
+Arma Finale|
+Righello|
+CartaDebito|
+Erba Rossa|
+Megafono|
+Mappa|
+Debug|
+PianoVolo A|
+PianoVolo B|
+PianoVolo C|
+Indizio 1|
+Indizio 2|
+Indizio 3|
+Razzo Vero|
+Macch.Tempo|
+CasaMia|
+Sperduzia|
+Auguronia|
+Renna|
+Spettropoli|
+PupazzoNeve|
+Bambinia|
+Ennea|
+Unità|
+Telepatia|
+Teletrasp.|
+Più Vita α|
+Più Vita β|
+Più Vita τ|
+Più Vita π|
+Più Vita Ω|
+Cura α|
+Cura β|
+Cura τ|
+Cura π|
+Super Cura|
+Scudo PSI α|
+Scudo PSI β|
+ScudoFisico|
+CerebroShok|
+CerebroCaos|
+Ipnosi|
+Paralisi|
+Oscurità|
+Magnete PSI|
+Rompi Scudo|
+Blocco PSI|
+Più Attacco|
+PiùDifesa α|
+PiùDifesa β|
+PiùVelocità|
+MenoDif. α|
+MenoDif. β|
+Fuga 4aDim.|
+PK Gelo α|
+PK Gelo β|
+PK Gelo τ|
+PK Gelo Ω|
+PK Fuoco α|
+PK Fuoco β|
+PK Fuoco τ|
+PK Fuoco Ω|
+PK Raggio α|
+PK Raggio β|
+PK Raggio τ|
+PK Raggio Ω|
+PK Tuono α|
+PK Tuono β|
+PK Tuono τ|
+Svenut|
+Pietra|
+Prlzzt|
+Addorm|
+Confus|
+Perpls|
+Veleno|
+Raffrd|
+GranLegnoso|
+Drago|
+R7038|
+Elefante|
+Orso|
+Piedone|
+CamionMatto|
+RobotAntico|
+Megabot|
+Gargolla|
+Gabilan|
+Gorilla|
+Bufalo|
+Tigre|
+Auto Matta|
+8ihccarso|
+SerpeMagica|
+Gigantico|
+Giegue|
+Aquila|
+Lupo|
+Gabbiano|
+Alligatore|
+ElettroBot|
+Il Pesce|
+Fuggiasco|
+Capo BlaBla|
+Barbot|
+Nancy|
+Astruomo|
+Ullrich|
+Encefalo|
+Mucco|
+Armatura|
+Legnoso|
+Wally|
+FiglioFiori|
+Signora|
+Banda B.B.|
+Dr.Distorto|
+ZombiMaf.so|
+PseudoZombi|
+Corvo|
+Serpente|
+Iena|
+Puma|
+Centopiedi|
+PolvereViva|
+Mosca|
+Ragno|
+Scorpione|
+Corda|
+PallaFuoco|
+Osservatore|
+Groucho|
+Fantasma|
+Piccolo UFO|
+MrPPstrello|
+AstruomoJr.|
+Puzzola|
+ZombiVelato|
+Ratto|
+Bombardiere|
+Bambola|
+Lampada|
+100PiediBot|
+ScorpioBot|
+Serpe Rossa|
+L.Solitario|
+Orso Polare|
+S. Sonagli|
+Tarantola|
+Coccodrillo|
+Bisonte|
+PPstrellBot|
+C. Randagio|
+Auto Folle|
+CamionFolle|
+CamionPazzo|
+F.smallerta|
+Quattrocchi|
+Papocchi|
+Mammocchi|
+Ottesro|
+GigaBot|
+OmegaBot|
+Rottame|
+UltraBarbot|
+Omega UFO|
+Kelly|
+Minatore|
+MegaElettro|
+Juana|
+AstruomoBlu|
+Roccolla|
+Gigantiano|
+RestaDMucco|
+Zombi|
+ZombiBrutto|
+Lupo Grigio|
+R7037|
+OrsoGrizzly|
+R7038XX|
+FinalA.uomo|
