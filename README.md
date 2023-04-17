@@ -7,16 +7,15 @@ Newlines are represented by the hash "#".
 Pauses by "_".
 The string ends where the characters "|" or "§" appear.
 
--Example:
-----------------------
+Example:
 *Hi, how are you# today?#_*Fine, hopefully!#|
-----------------------
 Result:
 *Hi, how are you
  today?
 *Fine, hopefully!
 
 SPECIAL COMBINATIONS:
+---
 These combinations are read by the game as variables, then remember to treat them as if they were at their maximum length, written in brackets:
 ¹÷[ => Ninten (7)
 ¹£@ => Party Leader (7)
@@ -35,4 +34,5 @@ These combinations are read by the game as variables, then remember to treat the
 ³ followed by 4 characters => Number (5)
 
 ITEMS/PSI/ENEMIES/LOCATIONS
+---
 All the lines in items.txt must can't be longer than 11 characters, "|" doesn't count.
