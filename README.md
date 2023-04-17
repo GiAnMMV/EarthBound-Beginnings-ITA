@@ -30,7 +30,7 @@ These combinations are read by the game as variables, then remember to treat the
 ` ¹¡] ` => Teddy (7)<br />
 `` ¹|` `` => Complement (7)<br />
 `` ¹°` `` => Subject (7)<br />
-` ¹Ì× ` => Pizza (11)<br />
+` ¹Ì× ` => Favorite Food (11)<br />
 `` ¹%` `` => Item (11)<br />
 `` ¹⁴` `` => Object (11)<br />
 ` ¹É& ` => Target (12)<br />
