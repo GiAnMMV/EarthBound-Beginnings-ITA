@@ -27,8 +27,8 @@ These combinations are read by the game as variables, then remember to treat the
 ` ¹Ì× ` => Pizza (11)<br />
 `` ¹%` `` => Item (11)<br />
 `` ¹⁴` `` => Object (11)<br />
-` ¹É& ` => Target (11)<br />
-` ¹à& ` => Enemy (11)<br />
+` ¹É& ` => Target (12)<br />
+` ¹à& ` => Enemy (12)<br />
 ` ¹®& ` => ?? (11)<br />
 ` ¹°[ ` => Player Name (17)<br />
 ` ³ ` followed by 4 characters => Number (5)
