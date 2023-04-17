@@ -1,5 +1,5 @@
 # EarthBound-Beginnings-ITA
-Fan Italian translation of EarthBound Beginnings (Mother 3).
+Fan Italian translation of EarthBound Beginnings (MOTHER).
 
 ## ORIGINAL README
 The text box contains max 22 characters in a line.<br>
