@@ -10,9 +10,11 @@ The string ends where the characters `|` or `§` appear.
 Example:
 ```*Hi, how are you# today?#_*Fine, hopefully!#|```<br />
 Result:
-```*Hi, how are you```
-``` today?```
-```*Fine, hopefully!```
+```
+*Hi, how are you
+ today?
+*Fine, hopefully!
+```
 
 SPECIAL COMBINATIONS:
 ---
