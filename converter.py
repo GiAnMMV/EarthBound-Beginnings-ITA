@@ -4,7 +4,7 @@ f = open(rom_name,'rb')
 rom = f.read()
 f.close()
 
-f = open('table2.tbl','r',encoding='utf-8')
+f = open('table.tbl','r',encoding='utf-8')
 table = [line[:-1] for line in f.readlines()]
 f.close()
 
