@@ -1055,7 +1055,7 @@ Continuous attack!|
 ¹à& scratched#¹É&!|
 ¹à& charged#at ¹É&!|
   ⓪①②③④⑤⑥⑦⑧|
- ¹É& suffered# damage of ³®&§|.|
+ ¹É& suffered# ³®&§| damage.|
 #       YOU WIN!#|
 #You lost the battle.#|
  Defeated# ¹É&!|
