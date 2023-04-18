@@ -1,7 +1,7 @@
 |
 Errore di sistema!!!#|
 *Fratellone, ho tanta# paura! La lampada# sembra viva!#|
-*Oh, cielo!# Casa nostra cade a# pezzi, fratellone!#|
+*Oh, cielo!# La nostra casa cade# a pezzi, fratellone!#|
 *Buaaah!#|
 *Tieni un po' di# succo, fratellone.#_*Avrai sete,# immagino.#|
 *Che paura!!# La bambola si# muove da sola!#|
@@ -9,10 +9,10 @@ Errore di sistema!!!#|
 *No, io sono Mimmie,# non scambiarmi# per Minnie.#|
 *¹÷[.# Stai bene?#_*Santi numi!# Che succede a# casa nostra?#_*Vorrei che tuo# padre fosse qui.# Credo...#|
 *Figlio mio, sei# più coraggioso di# quanto pensassi.#_*Non posso lasciarti# partire a stomaco# vuoto.#|
-*Oh, qualcuno ti# ha ferito.#|
+*Oh, sei ferito.#|
 *Beh, al prossimo# livello# mancano...#|
 *Nel caso avessi# ancora voglia di# ¹Ì×,# torna pure.#|
-*Beh...# A quanto pare la# nostra casa è# infestata.#_*Non so di# preciso come...#_*Ma il tuo# bisnonno ha# studiato PSI.#_*Potresti trovare# qualcosa di utile# in cantina.#_*Ma ho lasciato la# Chiave della Cantina# da qualche parte...#_*...non ricordo dove,# di preciso...#_*Comunque, figliolo,# sei la mia unica# speranza.#_*È ora che tu parta# per una piccola# avventura,#_*e che esplori le# potenzialità dei# tuoi poteri.#_*I poteri non vanno# presi con leggerezza.#_*Metticela tutta,# ¹÷[!!#_*Ma ricorda anche di# tornare a trovare# la tua famiglia.#_*Ciao.#_*Oh... telefonami e# mi assicurerò di#_*SALVAre i tuoi# progressi.#_*Chiamami per# qualunque cosa.#|
+*Beh...# A quanto pare la# nostra casa è# infestata.#_*Non so di# preciso come...#_*Ma il tuo# bisnonno ha# studiato PSI.#_*Potresti trovare# qualcosa di utile# in cantina.#_*Ma ho lasciato la# Chiave della Cantina# da qualche parte...#_*...non ricordo dove,# di preciso...#_*Comunque, figliolo,# sei la mia unica# speranza.#_*È ora che tu parta# per una piccola# avventura,#_*e che esplori il# potenziale dei# tuoi poteri.#_*I poteri non vanno# presi con leggerezza.#_*Metticela tutta,# ¹÷[!!#_*Ma ricorda anche di# tornare a trovare# la tua famiglia.#_*Ciao.#_*Oh... telefonami e# mi assicurerò di# SALVAre i tuoi# progressi.#_*Chiamami per# qualunque cosa.#|
 *Tac.#|
 *Pronto? Sono Papà.#|
 *Ho trasferito# $³=[_|# nel tuo conto.#_*Sottraendo le# tue spese,#_*il saldo ammonta# a $³+[_|.#_*Spendi i tuoi soldi# con saggezza.#|
@@ -36,68 +36,68 @@ Errore di sistema!!!#|
 *È stato terribile...#|
 *Zombi!#|
 *Ah-ah...# Diventerai uno# Zombiiii!#|
-*Di certo qualcuno# ha il controllo# dei morti.#|
-*Sei stato bravo,# giovine.#|
+*Qualcuno deve# avere il controllo# dei morti.#|
+*Sei stato bravo,# giovanotto.#|
 *Gli zombi potrebbero# essere in qualunque# parte del paese.#|
-*Quel Canarino# Pulcino viene dal# Villaggio Canarino?#|
+*Quel pulcino di# canarino viene dal# Villaggio Canarino?#|
 *Uhm.#|
-*I pulcini del# Villaggio Canarino# hanno delle voci# incantevoli.#|
-*Il gentiluomo del# Villaggio Canarino# è il mio idolo.#|
-*Il Sindaco è in# cerca di un uomo# coraggioso.#|
-*Qualcuno ha salvato# la ragazzina che# vagava nel cimitero,# alla fine?#|
-*Vuoi...# Davvero vuoi andare# al cimitero?#|
-*E io che ti# credevo un bambino# ragionevole.#|
-*Gli animali sono# impazziti e fuori# controllo.#_*I morti sono# diventati zombi e#_*si sono messi ad# attaccare la gente.#_*Cosa possiamo fare?#|
-*You are super!#|
-*Did a poltergeist# visit your house?#_*It tore mine apart.#|
-*The animals went# mad and began to# escape,#_*so the Zoo was# locked.#|
-*To EAT, you'll# find Bread stale,#_*but, with its# Crumbs you can# mark your trail.#_*Do you think I# talk too much?# Well do I?#|
-*Citizen, I know# you would like to# help your town.#|
-*Well...# A child has strayed# into the cemetery.#_*And...# I'm up for re-# election soon.#_*You must help!# Please help me!#|
-*Oh!?# You will go there# and save her?#|
-*Is she the lost# girl, Pippi?#_*Well that's just# great.#_*I knew that you# could fulfill your# civic duty.#_*Applause,# applause...#_*Now pretty Pippi,# don't forget...#_*to tell your Mom# that the Mayor# saved you.#_*Here, I will give# ¹£@ a prize of# ³ª|§|.#|
-*By the way hero,#_*maybe you'd like# to go see what's# up at the Zoo?#|
-*Yes, you'll go?# Great, great# great!#_*Now make sure to# get a Key from my# assistant, Abbott.#|
-*This Key will open# the Zoo's gate.# Now don't lose it.#|
-*Return her to me# alive, and surely# I'll be a hero...#_*Er, umh, I mean# you'll be a hero.#|
-*Why if it's not# our hero ¹£@,#_*You have tiger# droppings on your# clothes.#_*Ha-ha, just# joking. Now run# along kid.#|
-*I've heard a# rumor about a# wonder girl.#_*She will help you# on your trip.#|
-*Zoo Keys are a# dime a dozen,# have another.#|
-*Look for yourself,# all the animals# have escaped.#|
-*Only this Canary# Chick is left.# Want to buy it?#|
-*Well, how about# $³ª|§|?#|
-*OK kid, it's a# free country, you# know.#|
-*Take care of it.# Come see us again!#|
-*If it's free, do# you want it?# Then take it!#|
-*How's the Canary?#|
-*I think something# is controlling# the animals.#|
-*Ah... cute pets# aren't they?#|
-*Hmmm.#|
-*You stupid jerk!#|
-*How may I help?# Do you have some-# thing to return?#|
-*Wait.. A voice is# speaking into# ¹£@'s mind.#|
-*Good.#|
-*Thank you for# shopping with us# today.#|
-*It's convenient that# the cash machine is#_*next to the# Service Counter,#_*but, why should I# care. I don't have a# card for it.#|
-*It's fine weather# today.# But, I don't care.#|
-*Wow! That Canary# is the baby of# singing Laura.#_*Will you return her# baby to her.#|
-*Wait...#_*You just missed# something very# important.#|
-*Where is Laura?...#|
-*Laura remembered# her song, and began# to sing once more.#_*Did you learn# the melody?#|
-*That's no good.#|
-*The truth is...# There is power in# song.#|
-*Hi! I am Pippi,# and I'm lost.#_*What a brave# boy you are to# have found me.#|
-*Don't get so# swell headed.# Ha-ha-ha.#|
-*You're brave. I# hope we can meet# again sometime.#|
-*I'm so happy!  To# show my gratitude# take my gift.#_*This shiny Badge# will guard you.# Keep it!#|
-*You probably# already have# someone special,#|
-*Now, it's time to# say good-bye.#_*Please come by my# house, I'll be# waiting there to#_*see you again.# By the way...#_*Do you think my# hair needs# styling?#|
-*You didn't have to# answer, cutie.#|
+*I pulcini al# Villaggio Canarino# hanno delle voci# incantevoli.#|
+*Il signore del# Villaggio Canarino# è il mio idolo.#|
+*Il Sindaco sta# cercando un uomo# audace e impavido.#|
+*La bambina che# si è smarrita nel#_*cimitero è # stata salvata?#|
+*Stai...# S-stai veramente# andando al cimitero?#|
+*Pensavo che fossi# un bimbo sensibile.#|
+*Gli animali sembrano# impazziti, sono# fuori controllo.#_*I morti sono diventati# zombi ed hanno# attaccato la gente.#_*Che possiamo fare?#|
+*Sei magnifico!#|
+*Per caso uno spettro# è venuto a casa tua?#_*A me l'ha distrutta.#|
+*Gli animali sono# impazziti e stanno# scappando,#_*per cui lo Zoo# è stato chiuso.#|
+*C'è del pane raffermo# se vuoi MANGIARE,#_*ma, usando le sue# Briciole puoi segnare# il tuo sentiero.#_*Dici che sto# parlando troppo?# Allora?#|
+*Cittadini, so# che vorreste soltanto# aiutare la città.#|
+*Dunque...# Un bimbo si è# perso nel cimitero.#_*Ed io...# candidando per le# prossime elezioni.#_*Devi aiutarmi!# Ti prego!#|
+*Uh!?# Andrai lì# per salvarla?#|
+*Ma lei è la ragazza# perduta, Pippi?#_*Beh ma è# favoloso.#_*Sapevo che avresti# compiuto il tuo# dovere da cittadino.#_*Applausi,# applausi...#_*Ora piccola Pippi,# non dimenticare...#_*di dire a mamma# che il Sindaco# ti ha salvata.#_*Tieni, ti do# ¹£@ un premio di# ³ª|§|.#|
+*A proposito, eroe,#_*forse ti piacerebbe# andare a vedere# che succede allo Zoo?#|
+*Sì, ci andrai?# Fantastico, fantastico# fantastico!#_*Assicurati di prendere# una chiave dal mio# assistente, Abbott.#|
+*Questa chiave aprirà il# cancello dello zoo.# Non perderla.#|
+*Restituiscimela viva,# e sicuramente# sarò un eroe...#_*Ehm, umh, voglio dire# sarai un eroe.#|
+*Perché se non è il# nostro eroe ¹£@,#_*Hai dello sterco di# tigre sui tuoi# vestiti?#_*Ha-ha, sto solo# scherzando. Adesso vai# ragazzo.#|
+*Ho sentito delle# voci su una# ragazza prodigiosa.#_*Ti aiuterà# nel tuo viaggio.#|
+*Le chiavi dello Zoo# te le tirano dietro,# prendine un'altra.#|
+*Dai un'occhiata,# tutti gli animali# sono scappati.#|
+*È rimasto solo questo# pulcino di canarino.# Vuoi comprarlo?#|
+*Uhm, che ne dici di# $³ª|§|?#|
+*OK ragazzo, siamo# in un paese libero,# no?#|
+*Prenditene cura.# Torna a trovarci!#|
+*Se è gratis,# lo vuoi?# E prenditelo!#|
+*Come sta il canarino?#|
+*Credo che qualcosa# stia controllando# gli animali.#|
+*Ah... che animaletti# adorabili, vero?#|
+*Mmmm.#|
+*Pezzo di idiota!#|
+*Come posso aiutarti?# Hai qualcosa# da restituire?#|
+*Aspetta.. Una voce sta# parlando nella# mente di ¹£@.#|
+*Bene.#|
+*Grazie per# i vostri acquisti# con noi.#|
+*Com'è comodo che# lo sportello Bancomat#_*sia qui accanto# al bancone, ma perché#_*dovrebbe interessarmi?# Non ho nemmeno una# carta da usare.#|
+*Oggi il cielo# è sereno.# Però, non m'importa.#|
+*Ooh! Quel canarino# è il pulcino di# Laura cantante.#_*Le ridarai il# suo piccolo?#|
+*Momento...#_*Ti sei appena perso# qualcosa di molto# importante.#|
+*Dov'è Laura?...#|
+*Laura si ricordò# la sua canzone, ed iniziò# a cantarla nuovamente.#_*Hai appreso# la melodia?#|
+*Non ci siamo.#|
+*Il fatto è che...# c'è del potere# nella canzone.#|
+*Ciao! Io sono Pippi,# e mi sono smarrita.#_*Sei stato molto# coraggioso a# ritrovarmi.#|
+*Non darti tutte# queste arie.# Ha-ha-ha.#|
+*Sei coraggioso.# speriamo di# incontrarci ancora.#|
+*Sono così felice!  Per# ringraziarti prendi# questo regalo.#_*Un emblema che# ti proteggerà.# Ecco, tieni!#|
+*Probabilmente# hai già# qualcuno di speciale,#|
+*È giunta l'ora# di salutarci.#_*Passa a trovarmi# qualche volta, non# vedo l'ora#_*di rivederti.# Ad ogni modo...#_*Pensi che io# debba rifarmi# l'acconciatura?#|
+*YNon serviva che# tu rispondessi, tesoro.#|
 *EEE, EE EEK,# EEK EEK!#|
-*¹£@ felt this# question enter # his mind.#_*”Who has lost# his tail?”#|
-*My! What strange# clothing you wear!#_*Surely monsters# will come after# those clothes!!#|
-*Are you bothered that# unhappiness and#_*misfortune search# you out?#|
-*If you desire to# never find# trouble...#_*STAY HOME!!#|
+*¹£@ ha sentito questa# questa domanda# nella sua mente.#_*”Chi si è perso# la sua coda?”#|
+*Cielo! che strani# vestiti che indossi!#_*Di certo i mostri# daranno la caccia# a questi indumenti!!#|
+*Ti disturba che# la tristezza#_*e la disgrazia ti# cerchino di continuo?#|
+*Se non desideri# trovarti mai# nei guai...#_*RESTA A CASA!!#|
 *Is that right?# Trouble searches# after you?#_*Hmm, that's too# bad.#|
 *Then, you admit I# have good taste.#_*Huh?# You want a cool# nickname, too?#|
 *OK, I've got it!# From now on, you# are Noodlenoggin!#_*Sounds pretty# cool, doesn't it?#|
