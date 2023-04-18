@@ -1,4 +1,4 @@
-# EarthBound-Beginnings-ITA
+# EarthBound Beginnings ITA
 Fan Italian translation of EarthBound Beginnings (MOTHER).
 
 ## ORIGINAL README
