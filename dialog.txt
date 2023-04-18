@@ -1048,14 +1048,14 @@ The strongest of#the Starmen.|
 °^«² ¿°^»² ¿|
 ¹à&#si avvicina!|
 ¹à& attacca!|
-¹à& ha sparato#dal suo cannone!|
+¹à& ha#sparato dal suo#cannone!|
  ¹É& ha# schivato rapidamente.|
 Attacco ripetuto!|
 ¹à& ha morso#¹É&!|
 ¹à& ha#graffiato ¹É&!|
 ¹à& ha#caricato ¹É&!|
   ⓪①②③④⑤⑥⑦⑧|
- ¹É& ha subito# ³®&§| di danno.|
+ ¹É& ha# subìto ³®&§| di danno.|
 #       VITTORIA!#|
 #Hai perso la#battaglia.#|
  Defeated# ¹É&!|
