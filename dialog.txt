@@ -1048,6 +1048,7 @@ The strongest of#the Starmen.|
 °^«² ¿°^»² ¿|
 ¹à&#si avvicina!|
 ¹à& attacca!|
+Attacco di ¹à&!|
 ¹à& ha#sparato dal suo#cannone!|
  ¹É& ha# schivato rapidamente.|
 Attacco ripetuto!|
@@ -1055,7 +1056,7 @@ Attacco ripetuto!|
 ¹à& ha#graffiato ¹É&!|
 ¹à& ha#caricato ¹É&!|
   ⓪①②③④⑤⑥⑦⑧|
- ¹É& ha# subìto ³®&§| di danno.|
+ ¹É& ha# subìto ³®&§|# di danno.|
 #       VITTORIA!#|
 #Hai perso la#battaglia.#|
  Defeated# ¹É&!|
@@ -1110,7 +1111,7 @@ The tank is broken.|
  However, no one came# to assist.|
  Silence...|
  ¹É& joined# in the battle!|
-¹à& è#scappato!|
+¹à& è#scappato/a!|
 ...Ma non ha#funzionato.|
 ¹à&#tripped and fell.|
 ¹à& can't#move.|
@@ -1164,8 +1165,8 @@ The tank is broken.|
 ¹à& used#the Wicked Seed!|
 ¹à& used a#paralizing gas!|
  ¹®& turned# into a stone.|
- ¹É& è# tornato in sé!|
- ¹É& si è# calmato!|
+ ¹É& è# tornato/a in sé!|
+ ¹É& si è# calmato/a!|
  ¹É& was# beaten!|
  ¹É& was# destroyed!|
  ¹É& has# returned to dust!|
