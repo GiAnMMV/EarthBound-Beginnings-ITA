@@ -192,7 +192,7 @@ Mucco|
 Armatura|
 Legnoso|
 Wally|
-FiglioFiori|
+L'Hippie|
 Signora|
 Banda B.B.|
 Dr.Distorto|
@@ -259,4 +259,4 @@ Lupo Grigio|
 R7037|
 OrsoGrizzly|
 R7038XX|
-FinalA.uomo|
+Ult. A.uomo|
