@@ -784,7 +784,7 @@ Errore di sistema!!!#|
 *¹°` ha# equipaggiato# ¹⁴`.#|
 *¹°` non può# equipaggiare# ¹⁴`.#|
 *¹°` ha buttato# via ¹⁴`.#|
-*Non buttare# via ¹⁴`.#|
+*Meglio non buttar# via ¹⁴`.#|
 *¹°` ha passato# ¹⁴` a# ¹|`.#|
 *Non puoi dar via# ¹⁴`.#|
 *¹|` non può# portare altro.#|
