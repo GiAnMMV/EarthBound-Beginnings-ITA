@@ -9,10 +9,10 @@ Errore di sistema!!!#|
 *No, io sono Mimmie,# non scambiarmi# per Minnie.#|
 *¹÷[.# Stai bene?#_*Santi numi!# Che succede a# casa nostra?#_*Vorrei che tuo# padre fosse qui.# Credo...#|
 *Figlio mio, sei# più coraggioso di# quanto pensassi.#_*Non posso lasciarti# partire a stomaco# vuoto.#|
-*Oh, sei ferito.#|
+*Oh, qualcuno ti# ha ferito.#|
 *Beh, al prossimo# livello# mancano...#|
 *Nel caso avessi# ancora voglia di# ¹Ì×,# torna pure.#|
-*Beh...# A quanto pare la# nostra casa è# infestata.#_*Non so di# preciso come...#_*Ma il tuo# bisnonno ha# studiato PSI.#_*Potresti trovare# qualcosa di utile# in cantina.#_*Ma ho lasciato la# Chiave della Cantina# da qualche parte...#_*...non ricordo dove,# di preciso...#_*Comunque, figliolo,# sei la mia unica# speranza.#_*È ora che tu parta# per una piccola# avventura,#_*e che esplori il# potenziale dei# tuoi poteri.#_*I poteri non vanno# presi con leggerezza.#_*Metticela tutta,# ¹÷[!!#_*Ma ricorda anche di# tornare a trovare# la tua famiglia.#_*Ciao.#_*Oh... telefonami e# mi assicurerò di# SALVAre i tuoi# progressi.#_*Chiamami per# qualunque cosa.#|
+*Beh...# A quanto pare la# nostra casa è# infestata.#_*Non so di# preciso come...#_*Ma il tuo# bisnonno ha# studiato PSI.#_*Potresti trovare# qualcosa di utile# in cantina.#_*Ma ho lasciato la# Chiave della Cantina# da qualche parte...#_*...non ricordo dove,# di preciso...#_*Comunque, figliolo,# sei la mia unica# speranza.#_*È ora che tu parta# per una piccola# avventura,#_*e che esplori le# potenzialità dei# tuoi poteri.#_*I poteri non vanno# presi con leggerezza.#_*Metticela tutta,# ¹÷[!!#_*Ma ricorda anche di# tornare a trovare# la tua famiglia.#_*Ciao.#_*Oh... telefonami e# mi assicurerò di#_*SALVAre i tuoi# progressi.#_*Chiamami per# qualunque cosa.#|
 *Tac.#|
 *Pronto? Sono Papà.#|
 *Ho trasferito# $³=[_|# nel tuo conto.#_*Sottraendo le# tue spese,#_*il saldo ammonta# a $³+[_|.#_*Spendi i tuoi soldi# con saggezza.#|
@@ -48,10 +48,10 @@ Errore di sistema!!!#|
 *Stai...# S-stai veramente# andando al cimitero?#|
 *Pensavo che fossi# un bimbo ragionevole.#|
 *Gli animali sembrano# impazziti, sono# fuori controllo.#_*I morti sono diventati# zombi e stanno# attaccando la gente.#_*Che possiamo fare?#|
-*Sei magnifico!#|
+*Sei grandioso!#|
 *Per caso uno spettro# è venuto a casa tua?#_*A me l'ha distrutta.#|
 *Gli animali sono# impazziti e stanno# scappando,#_*per cui lo Zoo# è stato chiuso.#|
-*C'è del pane raffermo# se vuoi MANGIAre,#_*ma usando le sue# Briciole puoi segnare# il tuo sentiero.#_*Dici che sto# parlando troppo?# E allora?#|
+*C'è del pane raffermo# se vuoi MANGIAre,#_*ma usando le sue# Briciole puoi segnare# il tuo sentiero.#_*Dici che sto# parlando troppo?# È così?#|
 *Cittadino, so# che vorresti soltanto# aiutare la città.#|
 *Dunque...# Un bimbo si è# perso nel cimitero.#_*Ed io...# candidando per le# prossime elezioni.#_*Devi aiutarmi!# Ti prego!#|
 *Uh!?# Andrai lì# per salvarla?#|
@@ -64,9 +64,9 @@ Errore di sistema!!!#|
 *Ho sentito delle# voci su una# ragazza prodigiosa.#_*Ti aiuterà# nel tuo viaggio.#|
 *Le chiavi dello Zoo# te le tirano dietro,# prendine un'altra.#|
 *Dai un'occhiata,# tutti gli animali# sono scappati.#|
-*È rimasto solo questo# pulcino di canarino.# Vuoi comprarlo?#|
+*È rimasto solo questo# Pulcino di Canarino.# Vuoi comprarlo?#|
 *Uhm, che ne dici di# $³ª|§|?#|
-*OK ragazzo, siamo# in un paese libero,# no?#|
+*OK ragazzo, siamo# in un paese libero,# d'altronde.#|
 *Prenditene cura.# Torna a trovarci!#|
 *Se è gratis,# lo vuoi?# E prenditelo!#|
 *Come sta il canarino?#|
@@ -93,12 +93,12 @@ Errore di sistema!!!#|
 *Probabilmente# hai già# qualcuno di speciale,#|
 *È giunta l'ora# di salutarci.#_*Passa a trovarmi# qualche volta, non# vedo l'ora#_*di rivederti.# Ad ogni modo...#_*Pensi che io# debba rifarmi# l'acconciatura?#|
 *Non serviva che# tu rispondessi, tesoro.#|
-*EEE, EE EEK,# EEK EEK!#|
+*IIH, UH-UHH, UH-AHH!#|
 *¹£@ ha sentito# questa domanda# nella sua mente.#_*”Chi si è perso# la coda?”#|
 *Cielo! Che strani# vestiti che indossi!#_*Di certo i mostri ti# daranno la caccia con# quegli indumenti!!#|
-*Ti disturba che# la tristezza#_*e la disgrazia ti# cerchino di continuo?#|
+*Sei turbato di# essere perseguitato#_*dalla disgrazia# e dallo sconforto?#|
 *Se desideri non# trovarti mai# nei guai...#_*RESTATENE A CASA!!#|
-*È vero?# I problemi# ti inseguono?#_*Mmh, che cosa# brutta.#|
+*È vero?# I problemi# ti inseguono?#_*Mmh, che# peccato.#|
 *Allora, ammetti che# ho un buon gusto.#_*Come?# Vuoi anche tu# un soprannome fico?#|
 *OK, I've got it!# From now on, you# are Noodlenoggin!#_*Sounds pretty# cool, doesn't it?#|
 *Is that right?# That's too bad.#|
