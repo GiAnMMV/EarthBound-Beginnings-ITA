@@ -1048,7 +1048,6 @@ The strongest of#the Starmen.|
 °^«² ¿°^»² ¿|
 ¹à&#si avvicina!|
 ¹à& attacca!|
-Attacco di ¹à&!|
 ¹à& ha#sparato dal suo#cannone!|
  ¹É& ha# schivato rapidamente.|
 Attacco ripetuto!|
