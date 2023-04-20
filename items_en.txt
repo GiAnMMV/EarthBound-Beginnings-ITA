@@ -107,12 +107,12 @@ Telepathy|
 Teleport|
 LifeUp α|
 LifeUp β|
-LifeUp τ|
+LifeUp γ|
 LifeUp π|
 LifeUp Ω|
 Healing α|
 Healing β|
-Healing τ|
+Healing γ|
 Healing π|
 SuprHealing|
 PSIShield α|
@@ -135,19 +135,19 @@ Def.Down β|
 4th-D Slip|
 PK Freeze α|
 PK Freeze β|
-PK Freeze τ|
+PK Freeze γ|
 PK Freeze Ω|
 PK Fire α|
 PK Fire β|
-PK Fire τ|
+PK Fire γ|
 PK Fire Ω|
 PK Beam α|
 PK Beam β|
-PK Beam τ|
+PK Beam γ|
 PK Beam Ω|
 PK Thunderα|
 PK Thunderβ|
-PK Thunderτ|
+PK Thunderγ|
 Faintd|
  Stone|
 Parlzd|
