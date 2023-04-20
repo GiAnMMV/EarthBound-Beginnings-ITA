@@ -107,12 +107,12 @@ Telepatia|
 Teletrasp.|
 Più Vita α|
 Più Vita β|
-Più Vita τ|
+Più Vita γ|
 Più Vita π|
 Più Vita Ω|
 Cura α|
 Cura β|
-Cura τ|
+Cura γ|
 Cura π|
 Super Cura|
 Scudo PSI α|
@@ -135,19 +135,19 @@ MenoDif. β|
 Fuga 4aDim.|
 PK Gelo α|
 PK Gelo β|
-PK Gelo τ|
+PK Gelo γ|
 PK Gelo Ω|
 PK Fuoco α|
 PK Fuoco β|
-PK Fuoco τ|
+PK Fuoco γ|
 PK Fuoco Ω|
 PK Raggio α|
 PK Raggio β|
-PK Raggio τ|
+PK Raggio γ|
 PK Raggio Ω|
 PK Tuono α|
 PK Tuono β|
-PK Tuono τ|
+PK Tuono γ|
 Svenut|
 Pietra|
 Prlzzt|
