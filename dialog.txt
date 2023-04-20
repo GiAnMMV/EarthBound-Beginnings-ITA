@@ -1250,7 +1250,7 @@ ZAP!!!|
 *¹|` became# softened.#|
 *The Ocarina# played on and on...#|
 *Did you hear it?#|
-*Questo posto non è# sulla mappa.|
+*Questo posto non è# sulla mappa.#|
 *¹£@ checked# the map.#|
 *Stopped by some# mysterious force.#|
 *The Repel Ring# has lost its# mysterious power.#|
