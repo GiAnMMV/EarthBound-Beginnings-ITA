@@ -10,6 +10,14 @@ f = open('items.txt','r',encoding='utf-8')
 strings = [line[:-1] for line in f.readlines()]
 f.close()
 
+f = open('items_en.txt','r',encoding='utf-8')
+strings_en = [line[:-1] for line in f.readlines()]
+f.close()
+
+for n in range(len(strings)):
+        if strings[n] == '':
+                strings[n] = strings_en[n]
+
 strings_len = [0]
 for n in range(1,len(strings)):
 	strings_len.append(len(strings[n-1]) + strings_len[n-1])
