@@ -22,7 +22,7 @@ Insetticida|
 Super Spray|
 Sacco Pulci|
 ParoleDolci|
-Parolacce|
+Parole Dure|
 Macch.Ades.|
 Torcia Buia|
 PietraOrig.|
@@ -58,11 +58,11 @@ Nobile Seme|
 Pietra PSI|
 Fioc.Magico|
 CaramMagica|
-Past.Rapida|
-Past.Saggia|
-Past.Fisica|
-Past.Forte|
-Past.Lotta|
+Pill.Rapida|
+Pill.Saggia|
+Pill.Fisica|
+Pill.Forte|
+Pil.Combat.|
 ChiaveCant.|
 Chiave Zoo|
 ChiaveF.sma|
