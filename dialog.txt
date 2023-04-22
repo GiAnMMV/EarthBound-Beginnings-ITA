@@ -15,7 +15,7 @@ Errore di sistema!!!#|
 *Beh...# A quanto pare la# nostra casa è# infestata.#_*Non so di# preciso come...#_*Ma il tuo# bisnonno ha# studiato PSI.#_*Potresti trovare# qualcosa di utile# in cantina.#_*Ma ho lasciato la# Chiave della Cantina# da qualche parte...#_*...non ricordo dove,# di preciso...#_*Comunque, figliolo,# sei la mia unica# speranza.#_*È ora che tu parta# per una piccola# avventura,#_*e che esplori le# potenzialità dei# tuoi poteri.#_*I poteri non vanno# presi con leggerezza.#_*Metticela tutta,# ¹÷[!!#_*Ma ricorda anche di# tornare a trovare# la tua famiglia.#_*Ciao.#_*Oh... telefonami e# mi assicurerò di#_*SALVAre i tuoi# progressi.#_*Chiamami per# qualunque cosa.#|
 *Tac.#|
 *Pronto? Sono Papà.#|
-*Ho trasferito# $³=[_|# nel tuo conto.#_*Sottraendo le# tue spese,#_*il saldo ammonta# a $³+[_|.#_*Spendi i tuoi soldi# con saggezza.#|
+*Ho trasferito# $³=[_|# sul tuo conto.#_*Sottraendo le# tue spese,#_*il saldo ammonta# a $³+[_|.#_*Spendi i tuoi soldi# con saggezza.#|
 *Forse non è affar# mio, figliolo, ma# che ne dici di# fare una pausa?#|
 *Capisco.# Meglio SALVAre i# tuoi progressi.#|
 *Capisco.# La Terra è in grave# pericolo, d'altronde.#|
@@ -48,612 +48,612 @@ Errore di sistema!!!#|
 *Vuoi...# Davvero vuoi andare# al cimitero?#|
 *E io che ti# credevo un bambino# ragionevole.#|
 *Gli animali sono# impazziti e fuori# controllo.#_*I morti sono# diventati zombi e#_*si sono messi ad# attaccare la gente.#_*Cosa possiamo fare?#|
-*You are super!#|
-*Did a poltergeist# visit your house?#_*It tore mine apart.#|
-*The animals went# mad and began to# escape,#_*so the Zoo was# locked.#|
-*To EAT, you'll# find Bread stale,#_*but, with its# Crumbs you can# mark your trail.#_*Do you think I# talk too much?# Well do I?#|
-*Citizen, I know# you would like to# help your town.#|
-*Well...# A child has strayed# into the cemetery.#_*And...# I'm up for re-# election soon.#_*You must help!# Please help me!#|
-*Oh!?# You will go there# and save her?#|
-*Is she the lost# girl, Pippi?#_*Well that's just# great.#_*I knew that you# could fulfill your# civic duty.#_*Applause,# applause...#_*Now pretty Pippi,# don't forget...#_*to tell your Mom# that the Mayor# saved you.#_*Here, I will give# ¹£@ a prize of# ³ª|§|.#|
-*By the way hero,#_*maybe you'd like# to go see what's# up at the Zoo?#|
-*Yes, you'll go?# Great, great# great!#_*Now make sure to# get a Key from my# assistant, Abbott.#|
-*This Key will open# the Zoo's gate.# Now don't lose it.#|
-*Return her to me# alive, and surely# I'll be a hero...#_*Er, umh, I mean# you'll be a hero.#|
-*Why if it's not# our hero ¹£@,#_*You have tiger# droppings on your# clothes.#_*Ha-ha, just# joking. Now run# along kid.#|
-*I've heard a# rumor about a# wonder girl.#_*She will help you# on your trip.#|
-*Zoo Keys are a# dime a dozen,# have another.#|
-*Look for yourself,# all the animals# have escaped.#|
-*Only this Canary# Chick is left.# Want to buy it?#|
-*Well, how about# $³ª|§|?#|
-*OK kid, it's a# free country, you# know.#|
-*Take care of it.# Come see us again!#|
-*If it's free, do# you want it?# Then take it!#|
-*How's the Canary?#|
-*I think something# is controlling# the animals.#|
-*Ah... cute pets# aren't they?#|
-*Hmmm.#|
-*You stupid jerk!#|
-*How may I help?# Do you have some-# thing to return?#|
-*Wait.. A voice is# speaking into# ¹£@'s mind.#|
-*Good.#|
-*Thank you for# shopping with us# today.#|
-*It's convenient that# the cash machine is#_*next to the# Service Counter,#_*but, why should I# care. I don't have a# card for it.#|
-*It's fine weather# today.# But, I don't care.#|
-*Wow! That Canary# is the baby of# singing Laura.#_*Will you return her# baby to her.#|
-*Wait...#_*You just missed# something very# important.#|
-*Where is Laura?...#|
-*Laura remembered# her song, and began# to sing once more.#_*Did you learn# the melody?#|
-*That's no good.#|
-*The truth is...# There is power in# song.#|
-*Hi! I am Pippi,# and I'm lost.#_*What a brave# boy you are to# have found me.#|
-*Don't get so# swell headed.# Ha-ha-ha.#|
-*You're brave. I# hope we can meet# again sometime.#|
-*I'm so happy!  To# show my gratitude# take my gift.#_*This shiny Badge# will guard you.# Keep it!#|
-*You probably# already have# someone special,#|
-*Now, it's time to# say good-bye.#_*Please come by my# house, I'll be# waiting there to#_*see you again.# By the way...#_*Do you think my# hair needs# styling?#|
-*You didn't have to# answer, cutie.#|
-*IIH, UH-UHH, UH-AHH!#|
-*¹£@ felt this# question enter # his mind.#_*”Who has lost# his tail?”#|
-*My! What strange# clothing you wear!#_*Surely monsters# will come after# those clothes!!#|
-*Are you bothered that# unhappiness and#_*misfortune search# you out?#|
-*If you desire to# never find# trouble...#_*STAY HOME!!#|
-*Is that right?# Trouble searches# after you?#_*Hmm, that's too# bad.#|
-*Then, you admit I# have good taste.#_*Huh?# You want a cool# nickname, too?#|
-*OK, I've got it!# From now on, you# are Noodlenoggin!#_*Sounds pretty# cool, doesn't it?#|
-*Is that right?# That's too bad.#|
-*Hello, there!# Noodlenoggin# ¹£@.#|
-*Have you ever met# the man who practices# philosophy?#|
-*He is so good at# nicknaming.#_*He uses such...# good taste in it.#|
-*In the first# place, if we# have not met#_*we cannot part!#|
-*Have you met a man# who says, that you# cannot part,#_*with someone you# have not met?#|
-*I tend to think# the same way, too.#|
-*You should meet# him.#|
-*I regained my# strength at Queen# Mary's fountain.#|
-*The bad thing# about Queen Mary's# fountain is...#_*that it is so far# away, and so hard# to find.#|
-*I am taking this# broken earring to# the fountain.#_*I'll bet it'll# change into a# magic earring.#|
-*The mysterious# sound of the# fountain soothes.#|
-*More to the south.# Are you lost?#_*Sorry...I was# directing you to# the rest room.#_*Queen Mary's# Fountain is west# of the castle.#|
-*I bent my spoon# and it's hard to# use like this.#_*Do you think# somehow you could# fix it for me?#|
-*Please fix it# right away.#_*(¹÷[ fixed# the spoon with# PSI-Power.)#_*Thanks a million!# Munch, munch...#_*Hey, would you# like to spend# the night here?#|
-*Why not? You can# fix it without any# physical effort!#|
-*You're a strange# person...#_*but for some# reason, I like# you.#|
-*That's good.#|
-*Boo hoo hoo... You# should accept# kindness graciously.#|
-*Oh, traveller! Why# don't you enjoy a# meal at our house?#_*Well.... Today's# special. Can you# guess what it is?#|
-*Why not!? You sound# so suspicious!#|
-*Yes, it's # ¹Ì×.#_*I knew you liked# ¹Ì×. Do you# want some?#|
-*This was to be a# musical instrument# store,#_*but the Ocarina# that we ordered# never arrived.#_*So I've given up.#|
-*Is that so?#|
-*Thanks. Your bed# is ready. Please# sleep well.#|
-*Please feel free# to use our bed# anytime.#|
-*Stranger, I can# tell you're not# from this place.#|
-*The Ocarina of# Hope is finally# completed.#_*Its melody# can now flow out# from it.#_*Do you want it?#|
-*You're a pretty# straight looking# dude, Go ahead.#_*Ha ha ha.#|
-*It's quite obvious# that you want it.# Ha ha ha.#_*Go ahead, take it.#|
-*Hey, kid! # How are you doing?#|
-*There is no exit# from a place like# Magicant.#_*Ha ha ha...#|
-*Outside?# A world outside?# What do you mean?#|
-*I am so embarrassed!# I wish I could # crawl into a hole.#|
-*I am the# Mysterious# Goods-Keeper.#_*You have a need?#|
-*I am the# Mysterious# Mimicker.#|
-*There are a great# many holes east of# town.#_*The sound of# another world can# be heard from one.#|
-*Pull out a Red# Weed and place it# into the fountain,#_*it will turn into# the Magic Herb.#|
-*Would you like me# to give you the# Big Bag?#|
-*Can I borrow your# Cash Card for a# while?#|
-*It holds 30# Magic Herbs.#|
-*Thank you,# sure, sure I'll# return it to you.#_*I thought that# it looked pretty# cool.#|
-*You don't trust# anyone.#_*That may be a good# attitude,# possibly...#|
-*Oh that's right, I# have to return# your Cash Card!#|
-*The Queen isn't# feeling very well.#|
-*Suspicious man....# I'll let you pass,#_*if you solve this# riddle...#|
-*That's right.# The answer is# ”two alligators”.#_*Although I haven't# come up with the# riddle yet.#|
-*See you later!#|
-*I wish I could# hear the Queen# sing again.#|
-*Hello! I didn't hear# you come in.#_*That guitar playing# is so loud...#_*I can't even# think.#_*What? I was# playing the guitar# myself!?#_*I should have# known.#_*..........#_*The story I tell# to you now# is a real secret.#_*When you become# really strong,# come see me.#_*You had better# write this down so# you don't forget.#_*I know if I don't# write things down,# I forget.#|
-*You tried to# ignore me, didn't# you?#_*I'm so lonesome# out here, all by# myself.#_*I will do# anything I can.# Here!#|
-*How happy I am# that you came to# see me.#_*I know what you# would like me to# do. Here!#|
-*Listen to my song!# Oh music-loving# adventurer ¹£@!#_*Why do you cry,# oh Cupid-Doll?#_*Canary sings# so sadly.#_*Monkey sings,# Piano plays,#_*maybe there# is a ghost?#_*Desert Cactus# so alone,#_*every night# his sad, sad tone.#_*The Dragon sleeps,# the note remains.#_*Eve's last song# has no refrain.#_*On the Mount# named Itoi,#_*you must climb# high young boy.#_*See the XX Stone,# for the last tone,#_*then do not leave# Queen Mary alone!#_*La la lullaby...# Strange lullaby...#_*Bye bye bye...# Good-bye.#_*Sure is a nice# song, isn't it?#|
-*Deep in the woods,# is a guitar player# who is a hermit.#_*Not that bad# looking of a# man...#_*Best of all,# he's quite a poet.#|
-*Someone told me# about a man that#_*everyone forgot# about. But, I don't# remember who.#|
-*Believe it or not,# I am a Healer.#_*I can charge your# PP, and can cure# stone-illness.#|
-*...I thought so...#|
-*Don't carry so much# money with you.#|
-*Of course I am a# non-singing# monkey.#_*Normal monkeys# don't sing.# So, any questions?#|
-*Anyhow...# questions are so# ridiculous.#|
-*Good, I worried# that you would ask# a difficult one.#_*You look so much# like Queen Mary.#_*I wonder why?#|
-*I just had to tell# you about it as# soon as I saw you.#_*The rails are# fixed, and the# train is on time.#|
-*I wish I could go# into the castle to# see Queen Mary.#|
-*Queen Mary often# has nightmares.#_*As if scolding a# naughty child,# she cries out,#_*”I am scared!# I am scared!”#_*And then she# starts to sing...# just a little bit.#_*Then she forgets# the tune, and# wakes in a sweat.#_*I wonder what sad# experience has done# this to Queen Mary?#|
-*I only give this# to girls.#|
-*Zzzzzzzzzzzz...#|
-*You liar!#|
-*All of us know you# don't belong here,#_*but we consider# you one of us.#_*With the Onyx# Hook, you can warp# back here anytime.#|
-*Promise me, that# if you need help,# you will return.#_*Everyone loves# you, ¹£@.#|
-*Welcome, ¹£@.#_*Here in Magicant,# everyone is your# friend.#_*You can have as# much as you like,#_*of whatever you# want.#_*What? You want to# listen to my song?#_*Sorry, I don't# know why, but I# just can't sing.#_*I beg you to learn# the melody. It is# only 8 notes long.#_*When you learn# them all, return# and sing for me.#_*If I only could# hear that song...#|
-*......#|
-*Please SING to me# the melodies that# you have learned.#|
-*Yes...# that's right.# That is the song.#|
-*Oh! Giegue!#|
-*In a bad dream,# Magicant vanished# into thin air.#_*My heart is still# pounding so hard.#|
-*Yes, I am the cat# who swims on the# ground.#_*Guess what is in# my hand.#|
-*Do you know what I# have in my hand?#_*That is right.# A Ribbon...#_*This Magic Ribbon# will give# strength...#|
-*Magic Ribbons are# only for girls.#|
-*I am a Swimming# cat.#_*Have you heard of# a Magic Candy that# gives strength#_*and power to a# helpless child?#|
-*I see, but you are# not helpless, so# you don't need it.#|
-*The boy with# glasses can surely# use the Candy.#|
-*Was the Candy# good?#|
-*If you need the# benevolent# old man,#_*go to Queen Mary's# Fountain for his# help.#_*He will hear your# soulful cry and# come to help.#_*Soulful cry,# remember,# soulful cry!#|
-*(The crowd becomes# restless and# upset.)#_*What in the world# is that stone with# a hat on!#|
-*Did you call me# up?#|
-*Is that right?# Bye!#|
-*You need money,# don't you?#|
-*Has it been helpful# to you?#|
-*Well, your balance# is $³+[_|.#_*How much do you# want to withdraw?#|
-*Here...# Take it with you.#|
-*Ouch, there is not# that much money left# in your account.#|
-*I am a forgotten# man. I'm not# really here.#_*You didn't have to# notice me....#_*Please ignore me.#|
-*I am a man who# does not exist.#_*You talk so# kindly, I don't# know what to do.#_*If I miss people,# I cannot live# alone anymore.#|
-*My conversation# is always a# monologue.#_*I've been alone# from the moment# I was born...#|
-*Lucky, unlucky...# It makes no# difference to me.#_*Sometimes, even# breathing becomes# too much.#|
-*Why do you insist# on talking to me?#_*Are you a# forgotten# man, too?#|
-*Don't give me that# garbage. Just# leave me alone.#|
-*That's right.# That is right,# right?#_*Go ahead, ignore# me, like everyone# else.#|
-*That's right.# Thank you.#|
-*Your load is too# great for more.# Why not come back?#|
-*I heard about some# weird things over# in Podunk.#|
-*Heard a zombie was# kidnapped...#_*animals roamed the# city streets...#_*all kinds of crazy# stuff.#|
-*Welcome to# Merrysville!!#_*Cheap, fast# and handsome.#_*The best doctor is# Old Sawbones# Benny.#_*Take advantage of# specially priced# treatments now!!#_*Whether dead or# alive, protect# your life.#|
-*First show# me your money. Then# I'll treat you.#_*Well... # In your case,# I'll have to bill#_*$³ª|§| for# your treatment.#_*This special price# was set just for you.#|
-*Thanks for the# $³ª|§|.#_*You'are now cured.#_*Go get hurt again# and come back# soon.  He-he-hee!#|
-*Fine, die all on# your own. I'll# phone a mortician.#|
-*Until the curfew# is lifted, no one# can cross.#_*That is by order# of the Town Mayor.#_*Psst...# by the way kid,#_*they might let you# cross the bridge# northeast of The Zoo.#|
-*What happened to# school? You have# school, don't you?#|
-*I got this from# Duncan's factory# in the north.#|
-*This factory is# Mr. Duncan's# private property.#_*Let's see your# Pass!#|
-*This Pass has# expired. You must# have stolen it!#_*Suspicious# creature.#_*Look me# in the eye!!#|
-*An awful creature# beat me up.#_*If you're going to# the station, watch# out!#|
-*I heard the curfew# in Podunk has been# lifted.#_*You know what that# means, don't you?#_*We can cross the# bridge once more!#|
-*I was picking# on that weakling,# ¹x[.#_*But he got away.#|
-*Hey, ¹x[!# You weakling!#|
-*We've been picking# on that weakling# ¹x[, right?#|
-*Just teasing.#|
-*I saw ¹x[# steal explosives!!#_*I'm afraid of what# Mr. Teacher will# say.#|
-*Your glasses have# slipped off your# nose.#|
-*I am Suzy. I'm# Miss Merrysville.#_*Aren't I gorgeous?#|
-*You look cute too.#|
-*You are ugly!# You remind me of a# noodlenoggin!#|
-*It's too bad that# the door to the# roof is locked.#_ Maybe you'd like# to join me...#_*I was going to# sneak out and play# with my Game Boy.#|
-*You don't talk# very much, do you?#|
-*The gym teacher# made me do extra# push-ups again.#_*I'd rather do sit-# ups though.#|
-*How can you get# lost in a# schoolyard?#_*I just can't# believe it.#|
-*Of course the door# to the roof is# locked!#_*We can't have# students sneaking# out to play games,#_*when they should# be studying, you# know!#|
-*Then, when she# does get up,# she goes shopping.#_*Luckily, I hid the# credit cards from# that woman!#_*Don't you think# she's a terrible# wife.#|
-*Kids don't know# the sorrows of# real life...#|
-*How dare you talk# about my wife# like that, scram!#|
-*When she was# young, she was# very pretty,#_*come to think of it,# she's not that# bad after all.#_*Would you like some# tea?#|
-*You are a pretty# good kid.#_*You say you need# to go up to the# roof? Follow me.#|
-*When you're old# you'll wish that# young punks#_*would respect you!#|
-*That's dangerous,# what are doing# with that thing?#_*I will keep this# for you.#|
-*Please, please# have some tea.#|
-*Don't run in# the hall!#|
-*Wait a minute, I# don't belive I've# seen you before.#_*You must not be# from around here,# are you?#|
-*I see. Just don't# run in the hall.#|
-*Show me what# you have.#_*You don't have# anything dangerous,# do you?#|
-*Who are you?!# I won't come out.#_*If I do, everyone# will pick on me.#|
-*You want to be# my friend?#_*Don't tell anyone,# but I stole some# explosives.#|
-*I'm coming out# now.#|
-*Hi, I am ¹x[.# I wanted to fly# the Bottle Rockets#_*that the Sweet-# Little Factory# was producing.#|
-*You must be tired.# Why don't you stay# here tonight?#|
-*Wow!  This Bottle# Rocket is sure to# cause a bang.#_*We may be able to# make some more on# our own.#_*Come with me# to the lab.#|
-*(¹x[) Aim on# the rock...# OK! 1-2-3 Fire!!#|
-*(¹x[) Now it is# the weakling's turn.#_*You stay here and# wait!#|
-*I'm the Mysterious# Teacher. Secretly# I live here.#_*I need money for# research. Care to# buy an invention?#|
-*Well, please take# a look at the# price list.#|
-*You must have some# money for candy,# or such, eh?#|
-*Please drop in# anytime,#_*I'm always working# on a new invention.#|
-*I haven't made any# progress since# your last visit.#_*Would you like to# look at the old# list?#|
-*I heard on the# radio that it's a# mess everywhere.#_*At all costs I# will protect this# station.#|
-*Well, I don't know# how far the train# goes through,#_*but, you need# a ticket to ride.# Care to buy one?#|
-*(¹£@'s weapon# was confiscated.)#|
-*Then, it's# ³ª|§|# dollars.#|
-*Hey, that Hat# you're carrying# looks just like#_*the one that# ¹8[ of Snowman# lost.#_*If you return it# to her, she just# may reward you.#|
-*May you live a# long life.#|
-*I was on my way to# Youngtown to look# for my wife.#_*But, without the# train running, how# can I get there?#|
-*Go ahead, poke# your nose into# other people's#_*business. It's# what makes playing# the game so fun.#|
-*Here it is!#|
-*Did you see the# man with the slick# mustache?#|
-*Must have lost# him. Couldn't help# it...#_*Anyhow, I must go# check for parking# violations now.#|
-*He's a swindler!# Please let me know# if you see him.#|
-*Hey Kid!# Just hold onto# this money for me.#_*Don't tell the# cops or anyone# about it!#|
-*Don't run away# with it!#|
-*Just do what I# tell you!#|
-*Leave me alone!# Can't you see I'm# incognito?#|
-*Have you seen the# woman with a big# belly?#|
-*Must have lost# her. Couldn't# help it...#_*Anyway, I'm going# to check for# speeders instead.#|
-*She ate# 5 ¹Ì×s,#_*then ran away# without paying.#_*If you see her,# let me know!#|
-*Oh, I'm so full!!#|
-*This town has# become dangerous!#_*But it's still a# much better place# than Ellay.#|
-*Oh yeah?# Are you ready?# All-right!!#|
-*Hey!!# Wanna hear my# song!?#|
-*Fine, be that way.#|
-*It's time to say# good-bye...#|
-*Did you hear the# Dragon's lullaby?#|
-*Somewhere in the# town of# Spookane...#_*I heard that# there's a#_*gh...#_*gho..#_*ghost..# Ghost house!!#_*Don't you ever# dare to go there!!#|
-*Give me something.# Whatever it is,# just give it to me.#_*Gimme gimme.#_*Please, give me.#_*Why won't you give# it to me? I said# please?#|
-*I promise, I'll# give you something# in return.#|
-*I'm thinking of# something nice# to give you.#|
-*What are you going# to give me?#|
-*Thanks a lot.# To show my# gratitude I'll#_*give you this# Flea Bag.# Please take it.#|
-*There's a flu going# around here.# Cough, cough.#|
-*High in the# mountains, lives# an old man.#_*Legends say he# hasn't had a cold# in 300 years.#|
-*Mmm, hmm meh heh,# hmm, heh mehah,# hmmm, heh hmmumm!#|
-*I can't understand# a word the old man# says either.#|
-*So nice to have my# Dentures back once# more. Your reward?#_*With you I'll# share my secret to# long, long, life.#_*Gargle often.# Gargle proud.# Gargle strong.#_*And if you catch a# cold, gargling# will help.#_*Here is a Mouth-# wash I concocted# myself. Take it!#|
-*Mouthwash again?# Here it is.# Go ahead, take it.#_*But, I have to# charge you# $³ª|§| this time.#_*Gargle gargle# gargle... Splash!#|
-*I heard someone# died from a cold.# Just a cold!#|
-*Have you heard# that their is# a ghost house# in Spookane?#|
-*I heard a spooky# tale about that# vacant house...#_*they say that the# piano still plays# a haunting melody.#|
-*Hey kid, what you# don't know will# never hurt you!#|
-*Ahh - Ha ha ha...#|
-*Nobody's here.# Hee hee hee...#|
-*This is your worst# nightmare. You# cannot get away!#_*Hee hee hee...#|
-*T U R N  B A C K#|
-*Aaagghhhhhhhhhh....#|
-*You'll never make# it...# Hee hee hee hee.#|
-*I'm just an# ordinary mouse.#_*The room with# the piano...# Hee hee hee...#|
-*The owners of the# ghost house were the# Rosemarys.#|
-*A ghost appeared# at my house too.#_*But, he didn't# stay long.#_*He thought my room# was too small.#|
-*I'm not a resident# of this town. I# am your assistant.#_*Maybe you forgot# to write something# down?#_*I will sell you a# hint for only# ³ª|§| dollars?#|
-*Oh, you don't need# anyone's help, do# you?#_*Fine and dandy,# you can color me# gone.#|
-*I can sell only 3# hints. Discover# the rest youself.#|
-*I am the only# clown in# Spookane.#_*Everyone else is# so serious.#|
-*Truth is, by# nature I'm not a# jolly guy.#|
-*Is that right?#_*I may be the true# pessimist myself.#|
-*My house is filled# with monsters,# mostly ghosts.#_*That's why we live# life in the great# outdoors now.#|
-*(¹x[) Your# Bottle Rocket and# my...#_*great, isn't it...# Whaaaaat!?#|
-*Oh, the darkness# is so thick...#_*Can't see you very# well.. #_*But could it# be?...#_*Is it the little# girl from Snowman?#_*¹8[, I believe# it was...#_*Brace yourself,# your mom is locked# in a room in back.#_*Do not try to# rescue us now.#_*First, the# Mother Ship must# be destroyed.#|
-*Oops! It's gone# into orbit.#_*A success...#_*sort of.#|
-*Oh, you are such# a charming boy...#_*Just looking at# you makes me feel# so confident.#_*I'm sure you'll# bring that house# into control.#_*Here is the Key to# it.#|
-*Hi there, my name# is ¹÷[.#_*It used to be# Buggerror# Rosemary.#|
-*¹÷[!# Get your grubby# little...#_*No cutie, I was# talking to my boy.#|
-*The ghosts aren't# gone yet, but...#_*what a brave boy# you are!#_*I've renamed my# son ¹÷[,# after you.#|
-*This is Snowman# Terminal.#|
-*I heard everyone# in Youngtown has# disappeared.#|
-*Mom left for# Youngtown.#_*We haven't heard# from her for days# now.#_*Dad and I are# going there to# look for her.#|
-*Have you been to# the ghost house# in Spookane?#|
-*Later you can tell# me the whole# story...#_*I love to listen# to horror stories.#|
-*I don't want you to# go, but do so if you# must.#|
-*It's freezing here# in Snowman.#_*Don't catch your# death of cold.#_*Brush your teeth,# too.#_*Hack hack wheez...#|
-*Life is a game.# But sometimes you# have to rest.#|
-*¹8[ hasn't been# to school lately,# I'm so worried.#|
-*I'm concerned# about ¹8[.#_*I am so worried I# can't sleep.#|
-*You don't have# enough money.#|
-*Oh my, your nose# is running.#|
-*Excuse me, I need# to see the person# playing this game.#|
-*I have some very# important things# to talk about.#|
-*Hello there...#_*I appreciate your# kindness to# ¹÷[.#_*I am the boy's# Dad...#_*Could you please# let me know your# name?#_*Thank you for your# cooperation.#|
-*Thank you for# spending your time# with me.#_*I too have urgent# things to do, so# I'd better go now.#|
-*Are you ¹£@?#|
-*Don't get silly on# me now.#|
-*I must go on a# trip to find my Mom,# and...#_*I needed your# help...#_*So I've been# waiting for you,# ¹£@.#_*First let's go see# what is happening# in Youngtown.#|
-*You have appeared.# Just like in my# dream...#_*The boy in my# dream looked just# like you.#|
-*¹÷[....# Please stay with# me.#|
-*No!!# Stay with me,# Please!...#|
-*Silence falls...# Would you like to# dance?#|
-*You're right.# Now isn't the time.# I wasn't thinking.#|
-*¹÷[?...# Do you love me?#|
-*What's the matter,# ¹x[?#|
-*The Dragon sleeps.#_*¹£@'s Psychic# Power is short of# waking the Dragon.#|
-*Feeling ¹£@'s# presence, the# Dragon awoke.#_*You must defeat# me to earn my# musical note.#|
-*My daughter,# ¹8[ has never# been a brave girl,#_*but, she is kind# of heart, and has# a secret strength.#|
-*I know success# will be yours in# the end.#_*Surely, our pleas# will be heard in# the near future.#_*For now, just have# a peaceful sleep.#|
-*¹£@ found a# Pass that someone# had left behind.#|
-*They climbed# into the rocket.#|
-*My grandfather# lives in Yucca# Desert.#_*If you see him,# please say hello# for me.#|
-*I am just a pile# of bones now.#_*I used to be a# nice guy before.#_*So, don't worry, I# won't attack you.#|
-*I could make a# good signpost,# don't you think?#|
-*Conversing with a# corpse? What a# brave kid!#|
-*I'm the bones of a# camel.#_*Want to know how to# walk when in the# desert?#|
-*Move your left# foot before your# right foot sinks.#_*Move your right# foot before your# left foot sinks.#_*It took me 100# years to figure# that out.#|
-*I'd very much like# to tell you.#_*Wouldn't you like# to know?#|
-*Yucca Desert is# the most boring# part of this game.#_*But, stay on your# toes, this desert# has been mined.#|
-*See the Yucca# Desert.#_*Charter flights# available by# arrangement.#|
-*During the last# war, I laid mines# in this desert.#_*I removed all but# one of them, so# watch your step.#|
-*Oh, you want a# ride on the plane?#|
-*The airfare is# $³ª|§| for that# flight.#_*Save your Ticket# Stubs.#_*After you get 10# stubs, you can# take the tank.#_*You look so happy# about that.# Ha ha ha...#|
-*Well, it is quite# expensive...# I don't blame you.#|
-*Great! I see you# saved 10 stubs.# Take my tank.#_*You sure look# happy.# Ha ha ha...#|
-*You broke my tank,# it was my most# prized possession.#_*Now you'll have to# pay $³ª|§| for the# repairs.#_*Will you make# restitution right# now?#|
-*Thank you,# and good-bye.#|
-*I am so angry.# Arrrrrrrrr!!#|
-*Where is my Mommy?# Where is my Daddy?#|
-*Halt, who goes# there?#|
-*Suspicious guys.# I will stop you.# Arrghh!#|
-*Something's very# strange with the# Garrickson baby.#_*Something very# strange indeed.#|
-*Well...# 2 plus 3 equals 5,# 8 minus 4 equals 4.#_*I study# all the time.#|
-*Mom!!# I miss you!!!#|
-*Dad!!# I miss you!!!#|
-*A big ship from# the sky took Mom# and Dad away.#|
-*I like it without# the grown-ups# around.#_ Sure I do.# Sob, sob...#|
-*Please hold me!#|
-*Hold me, too!#|
-*Hold me!#|
-*Please bring back# our Mom and Dad.# Please, I beg you.#|
-*Oh, yes.  My name# is Tom Garrickson.#_*I like to# introduce myself.# It's my hobby.#|
-*Mom told me this# baby has mystic# power.#|
-*Goo gaa...#|
-*Yes, even though# my body is that of# a baby,#_*like you, I# possess psychic# abilities.#_*I know the power# of Teleportation.#_*Use this power to# return to a place# you've been to.#_*(The baby taught# them his power of# Teleportation)#|
-*I heard my Dad's# voice coming from# the mountains.#_*But the mountains# are beyond the# town of Ellay.#_*It's so far away# I can't make that# journey.#|
-*Wait a minute...# You can't carry it,# so you can't have it.#|
-*Time has passed,# you are more# experienced and#_*hopefully a little# wiser, but you are# still just a kid.#|
-*You must watch out# around here.# Hee....#|
-*The B.B. Gang# members are really# terrible...#|
-*We call Bla-Bla# Gang members, B.B.# Gangs for short.#|
-*Hey you! You are# not a Bla-Bla, are# you?#|
-*The black clouds# that hang over# the mountains...#_*They're making# all the towns-# people crazy.#|
-*Hey, you two there.# Sweethearts, huh!?#|
-*Love and peace,# yeah!#|
-*Love burns deep in# your heart, right?#|
-*I've got a Ticket# to the Live-Show.#_*You know the Store# is all sold out.#_*But I could part# with this one for# only $³ª|§|?#|
-*Here it is! No,# don't go to the# Store now.#|
-*Stingy kids...#|
-*It's a secret...# Promise not to say# that I told you?#|
-*The Bla-Bla Boss,# ¹¡]'s real name# is...#_ ¹¡] Junior, the# 3rd.# Ha.#_*But, it's only a# rumor, though.#|
-*You'll be the one# who regrets it for# sure.#|
-*Don't peek in the# back room. You'll# catch it for sure.#|
-*Wow, you're so# cute. Can I buy# you a drink?#|
-*You afraid of the# cops?# Come on!#|
-*No more drinks on my# bill.#|
-*Now you know you# did a bad thing?#|
-*If you promise you# won't do it again,# you can go home.#_*You leave that# dangerous weapon# here though.#|
-*Sorry, you must# stay another night# and cool your jets.#|
-*Hee hee hee...# I finally got a# ¹%`!#_*Wanna buy it for# only $³ª|§|?#|
-*Not enough money.# Boo hoo hoo.# Ha, ha, ha...#|
-*¹¡]'s parents# were killed by# mountain creatures.#_*Before that, he# was a gentle kid.#|
-*I wish ¹¡]# would go back to# the way he was.#|
-*You want to sing# too?#|
-*Then go ahead# and jam, dudes!#|
-*You're shy!#|
-*¹8[ girl!!# Well, I saw your# name on your hat.#|
-*The girl was so# cute.#|
-*Thank you for# your nice song.#_*By the way, you# guys beat up on my# friends.#|
-*I'll smash you!#|
-*I know you did it!#|
-*Aha ha ha... # You are quite a# guy.#_*Your name is# ¹÷[?#_*Let's call it a# draw then...# Umm...#_*I seek vengeance# for my parents. To# the mountains!!#|
-*¹÷[, please# accept my help.#|
-*¹£@ USEd the# Telephone Card.#|
-*I'm sure we'll# make a good team.# Let's get going!#|
-*Please...# I'll be a great# help to you.#|
-*Hello...# It's Dad.#_*I really don't# want to butt in# now, but...#_*What are you# waiting for!??#_*Push the 'A'# button at once!#|
-*You there,# the one with the# glasses...#_*You're not so good# at fighting, are# you?#_*Rest here while I# borrow your Goods.# OK?#|
-*Brute strength is# not enough to beat# them.#_*I know now that# peace can be# brought back to us.#_*I believe.#|
-*(¹¡])# Why are you two# blushing?#_*Let's hurry up# and get out of# here!#|
-*This is my dressing# room, please get# out!!#|
-*I am ¹x['s# father.#_*I think ¹÷['s# Dad asked,#_*but you told him# your name?#|
-*OK, that's fine.#_*Please look after# ¹x[. He is a# real weakling...#|
-*Let me register# your name once# more.#|
-*To the Harbor# before Mt. Itoi.#_*I mean it.#|
-*Have you ever# tasted Strawberry# Tofu?#|
-*If you find some,# buy some for me,# please.#_*I'll trade# something nice# in return.#|
-*No way to buy# things like that# in this place.#|
-*Oh!  This is# Strawberry Tofu!# Thank you!#_*Here's something# nice for you in# return.#|
-*You ever get hurt,# come to my place.#_*I have food,# medicine, and a# bed you can use.#|
-*Hey! ¹x[!...#_*Now is the time# you must fight# for yourself.#|
-*Come on, children,# what do you need?#|
-*MY NAME IS EVE.#_ I HAVE BEEN#_ WAITING FOR YOU.#_*MY CREATOR WAS#_ GEORGE...#_*HE WAS TAKEN TO#_ THE END OF THE#_ UNIVERSE...#_*THEN BROUGHT BACK#_ LATER.#_*I AM HERE TO#_ PROTECT YOU.#_*THAT IS MY PURPOSE.#|
-*Those bags must# weigh heavy on# your shoulders.#|
-*¹÷[! ¹÷[!..#_*You seem to be worn# out from fighting.# One more time?#|
-*With his strength# regained...#_*¹÷[ returned# once more to the# fighting scene.#_*Do your best,# ¹÷[!#|
-*¹÷[ realized# that it had only# been a bad dream.#_*Do your best,# ¹÷[!#|
-*To whom?#|
-*Your load is too# heavy. Hand it to# someone else?#|
-*Please come again# to pick up the# rest of the Goods.#|
-*Are you ¹÷['s# friend?#_*I see...# But I can't give# you ¹÷['s Goods.#|
-*Did that weakling# ¹x[ run away# from you?#|
-*  Welcome to#     Podunk#|
-*     City Zoo#  Superintendent's#       Office#|
-*    Ocean View#  Tourists Welcome#|
-*There is no one# here by that# description, but...#|
-*When placed in the# fountain,#_*the Red Weed became# Magic Herb.#|
-*Where do you think# you can find such# a man!#|
-*This is ¹%`,# right? Thank you.# It's a big help.#|
-*Now entering the# Mislay Triangle.# Watch out!#|
-*Someone lost his# Dentures right# under the sign!#|
-*I see...# You don't feel so# well. Wait...#|
-*Please come to# my lab.#|
-*Il fenomeno ha# smesso.# Per il momento...#|
-*Here, let me show# you how. Just take# this switch and...#_*Oh no!# I pushed it by# mistake!#|
-*I'll cook# ¹Ì×.#_*Eat your dinner,# and rest for the# night.#|
-*Oh, what can I do?# What should I do?#_*Where can I go?# Who can I see?#_*What should I do?# What should I do?#_*My little Pippi is# gone.#_*If you're going to# Podunk...#_*Please tell the# Mayor.#_*Oh me, oh my!#|
-*Which one?#|
-*I'll give you# $³ª|§| for# ¹%`.#_*Is that alright?#|
-*Finding the entry# in Great-Grand# Father's Diary,#_*¹£@ read out# loud...#_*The forgotten one# of the ship that# sails the cosmos.#|
-*I know you're# lying. I can see# right through you.#|
-*(A dull roar begins# to rise from the# crowd)#_*We paid to see a# trio!# There aren't three#_*performers here!# Grumble grumble...#|
-*Which one would# you like me to# keep?#|
-*The Dragon was in# a deep, deep,# sleep.#|
-*What can I do# for you?#|
-*Yes, I will keep# ¹%` with# utmost care.#_*Anything else you# want me to keep?#|
-*See you later, and# brother...# You take care!#|
-*You want to take# ¹%`?#_*OK! Anything else# you'd like to take# with you?#|
-*There was a rock-# slide near Union# Station.#_*The train can't get# through until it# has been removed.#|
-*You mean# ¹%`?#|
-*I am afraid you# can't carry# anything more.#|
-*Oh?  You don't# seem to have# enough money.#|
-*Oh?  You seem to# have too much to# carry.#|
-*You don't have# enough money. Come# back when you do.#|
-*Good bye!# Be careful.#|
-*You can't carry# anything more. # See you later...#|
-*Here is your# medicine.#|
-*Hope you sleep# well.#|
-*How much would you# like to withdraw?#|
-*How much would you# like to deposit?#|
-*Now, let's go back# to town.#|
-*Sorry, but I am# afraid you can't# carry all of them.#|
-*You can't carry it?# What a shame!#|
-*If you can't carry# it, come back some# other time.#|
-*Which flightplan# would you like?#|
-*I can't talk very# well without my# Dentures.#|
-*No, that's not# quite enough.#|
-*Having a tough# time?# I'm so worried.#|
-*Good luck!#|
-*Who's the boss?# I'll teach him# a lesson!#|
-*The Bla-Bla Gang# members are doing# just fine.#|
-*Don't try to make# me mad.#|
-*¹£@ picked up# the Pass.#|
-*Hmm...# You don't have# enough money.#|
-*Let's see... # It seems that your# load is too heavy.#|
-*I am Able, the # Doctor's assistant.#_*I too would like# to taste# Strawberry Tofu.#|
-*Thank you, It# looks so good!#_*I'll share some# important# information.#_*Near the summit of# Mount Itoi...#_*Deep in the lake,# there lies a# fantastic robot.#_*I think it still# works.#|
-*I look just like# Able, but I am# Baker.#_*I also want to try# Strawberry Tofu.#|
-*Oh! I'm so happy.# Take these Swear# Words with you.#|
-  LifeUp   Sleep|
-*Load is too heavy?# Remember to come# back and get it.#|
-*You came to get# the Big Bag?# My gift to you.#|
-*I give you the# Big Bag.# A gift for you.#|
-*It's not that big# of a problem.#_*My wife is a# bigger problem.#_*She doesn't get# out of bed#_*until after noon# each day.#_*She won't even# pack me a brown# bag lunch!#_*Isn't that just# horrible.#|
-*Oh! no!# ¹8[ has fainted!#|
-*Thank you for being# so nice. # My gratitude...#_*I'll be wagering on# your success.#|
-*I am Laura.#|
-*What a surprise!# Our hero ¹÷[# returning alone!#_*Won't you stop and# rest for a while?#|
-*Little girl! This# is no place for a# child like you.#|
-*Hello, ¹£@!# How are you doing?#|
-*Good morning!# Did you have a# good night's rest?#|
-*Please come again.# Promise me you'll# come again!#|
-*Good morning!#|
-*Most monkeys here# will lie to you.# Beware!#|
-*Huh what?# Do I look like a# monkey?#|
-*...I'm really a# raccoon pretending# to be a monkey.#|
-*You have good# eyesight.# Hats off to you...#|
-*Cool down dude...# Are you so serious# all the time?#|
-*Well man...# It's like you don't# know when to quit.#_*Take a rest bud...#|
-*Good to hear it.# It's just a game!#|
-*You caught up with# me. I'll admit# that's something.#_*Here I'll give you# something nice.#|
-*Turn right, then# left, to find# something nice.#|
-*It's so quiet here,# but too quiet for# me, I think.#|
-*Just walk straight!# Find truth at the# end of the path.#|
-*I am a lady...# Don't talk to me# so casually.#|
-*The truth is...# I am a man.#|
-*La la la, la la ...# Never mind, this# song is not yours.#|
-*How long did it# take you to get# here?#|
-*I've got a good# story to tell you.# Want to hear it?#|
-*Well...# You should be nice# to friends.#_*That's all I've got# to say.#|
-*Have you no# intellectual# ambitions?#|
-*Don't go any# farther inside!#|
-*I don't trust# these monkeys. # They're all liars.#_*By the way, go# right, left, left# and right.#|
-*Retreat!# And if you don't# want to...#_*Go back!#_*Oh, never mind.# Go forward!#|
-*In the town by the# sea, you'll meet a# new friend.#|
-*I am a quiet# monkey.#_*I don't talk much.#_*you see...#_*............#|
-*Oh ¹8[ baby,# Hubba hubba,# what a dish.#|
-*Don't believe that# all monkeys are# liars.#_*That's nothing but# a lie.#|
-*I'm the boss# monkey.#_*I'm really annoyed# that the others# tell so many lies.#_*Go straight ahead,# You'll find an# exit to your right.#|
-*A big mistake...# I really shouldn't# have come here.#|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Bene, il tuo saldo# è di $³+[_|.#_*Quanto vuoi# prelevare?#|
+
+*Ahi, non ci sono# tutti quei soldi# sul tuo conto.#|
+*Io sono un uomo# dimenticato. Non# sono davvero qui.#_*Non dovevi notarmi...#_*Meglio se mi ignori# e basta.#|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *Aiuto!#|
-*Telephone!# ¹÷[, please get# it!#|
-*I am Abbott, not# the Town Mayor,# but his assistant.#_*Mr. Mayor is over# there.#|
-*I'll share the# secret with you# later.#|
-*You come to stay# the night again?#|
-*Oh, traveller!#|
-*The ghost house is# not a place for# slaying monsters.#_*There is a...# melody, hee-hee,# a haunting melody.#_*Hee-hee-hee.#|
-*I believe that# ¹8[ may still# be found somewhere.#|
-*You're under age.# I have to take you# in to headquarters.#|
-*I heard you# stepped on the# landmine.#_*I stepped in dog# crap once myself.#_*Tell you some-# thing else kid...#_*I didn't like it# very much either!#|
-*I heard that you# stepped in dog# crap in Yucca?#_*That wasn't very# cool buddy.#|
-*”Certificate”#_*¹°[#_*We acknowledge the# fact that you did# step on the mine#_*in the Yucca# Desert.#_*Keep this place to# yourself, please.#_*signed...# Shigesato Itoi.#|
-*Had a good sleep?# Have a nice trip!#|
-*Oh! not visiting a# patient?#_*If you are the# patient, please go# to the back room.#|
-*Sorry, no patient# here by that name.#|
-*This year's flu is# go bad. I lost so# much weight.#|
-*I don't have a# cold.# Cough, cough, hack.#_*I'm just talking# to myself.# Cough, hack hack.#|
-*Whenever you get# tired, just drop# by our Inn.#|
-*Hi ¹£@, I'll# catch you later,#_*I'm a little busy# right now.#|
-*A restaurant, rant,# rant, rant...# Happy restaurant,#_*rant, rant, rant...# Are you happy?#|
-*All restaurant# owners love# musicals!#|
-*I think ¹Ì×# is delicious, too.#|
-*The Hotel in this# town isn't any # better than the#_*one in Podunk,# and yet it# is so expensive...#|
-*The room rate at# this Hotel is so# inexpensive...#_*And that's not# where it stops# being cheap either.#|
-*Big rocks block# the railroad. The# train cannot pass.#|
-*You can converse# with animals.#_*Tell you a secret.# Why don't you# CHECK me out?#_*Bow wow!#|
-*You don't have# enough money.# Sorry, come again.#|
-*Can I help you?# Please use this# menu.#|
-*Thank you very much.# One ¹%`# to go, please!#|
-*He may not come# again...#|
-*Hope you enjoy# yourself here.#|
-*Hey, waiter...# I'm still waiting# for some service.#|
-*I want to try# ¹Ì×.#|
-*I'd like to stop# the zombies evil# ways, but...#_*They do not listen# to me, or won't# even talk to me...#_*Now I am too# scared to leave# this place.#|
-*It's me Pippi!# We meet once more# ¹£@!#_*Don't say anything,# but I didn't tell# my Mom I came here.#|
-*My!# You are that# snot-nosed ¹£@#_*who sat next# to me in# kindergarten!#|
-*It's cash, then# carry 'round here# boy...#_*It's not that I# don't trust you,# but...#|
-*You seem to have# quite an appetite.#|
-*The trains have# stopped. The# track was ruined.#_*It's the end of# the world, and you# just ask questions.#_*Stop asking so# many questions or# I'll start to cry.#|
-*Don't stop...# Keep on walking!#|
-*You look like you've# been through a lot.#_*Take your time,# think about# what you've done.#|
-*I've heard about# your wonderful# adventures.#_*You are so brave,# aren't you?#|
-*The Canary Village# is northwest from# here.#_*It's a nice place# to visit and# admission is free!#|
-*The receptionist at# City Hall is so# gorgeous.#|
-*Hey ¹÷[, how's# your asthma?#_*Mine has gotten# better,#_*but car exhausts# still sets it off.#|
-*I told my kid to# study, then play# Nintendo games.#_*Those are the# rules around my# house!#|
-*You look so happy# all of the time!#|
-*Duncan Enterprises# plans to build a# strip-joint here.#_*No one in town# likes the idea of# that at all!#|
-*I'd like to be a# doctor, and help# sick people...#_*and make lots of# money doing it.#|
-*Really? This is# a respectable# survey...#|
-*Get to school!# You are a school# boy, aren't you?#|
-*How can we get the# big rocks off the# railroad tracks?#_*I'll bet the Mayor# leaves them there# 'til election time.#|
-*I've heard that in# Duncan's# Factory up north,#_*they've started# building huge# rockets.#|
-*Don't take me for# an ordinary man.#_*Although I am an# ordinary man.#|
-*I think...# I think...#_*The rockslide on# the railroad# tracks...#_*Could be blown up# with a Duncan# Factory Rocket.#|
-*My husband is an# important man at# Twinkle School.#_*He never eats# lunch.#|
-*Have you been to# Sweet's Little# Factory?#|
-*I've heard many# scary monsters# lurk outside town.#_*I'm so afraid that# they'll take my# money away.#|
-*Laa, la laaa....# Dandelion seeds fly# up to the sky,# laa, la laaa...#_*I love music# most of all.#|
-*The janitor has# the key to the# roof.#_*But he wouldn't# give it to me.#|
-*The old man on# the mountain is so# generous...#_*He'll give you# as much as you can# possibly carry.#|
-*I remember walking# through the tunnel# when I was young.#_*I went to see what# was on the other# side.#|
-*This is a# residential area,# please keep quiet.#|
-*Have you ever# thrown food out# into the field?#_*Well, it's a game,# but it is pretty# wasteful.#|
-*Gasp!! You# startled me.#_*For college credit# I study indoor# architecture.#_*That's the whole# truth, and nothing# but the truth!!#|
-*I wish that I had# a bicycle.#|
-*You thought I was# going to beg for# food, didn't you?#_*I wouldn't do that,# even though I am# ever so hungry.#|
-*I love life in the# city!#_*I look so great in# cute dresses!#|
-*I don't believe in# Psychic Powers.#|
-*I am a man whose# existence does not# matter.#_*My importance is# so small,#_*that I may not# be missed should# I disappear.#|
-*I love this town!# I wouldn't be# caught dead in#_*Spookane! Ha ha!#|
-*Would you like to# make a donation to# my charitable fund?#|
-*The store will buy# good medicine for# good money.#|
-*I'm the jolly# postman,# laa laaa, la la.#_*Have you heard# the Rosemarys# new address?#_*La la la laaa.#|
-*Tell the postman# who seeks the# forwarding address,#_*that the# Rosemarys have# moved far away.#_*La la la laaa.#|
-*I don't like the# little Rosemary# girl!#|
-*The streets are# filled with# monsters,#_*the people have# run away.#|
-*What do you want?#|
-*I am a clairvoyant# still in training.#_*However this much I# can see...#_*You shall return# again to Union# Station.#_*Although I'm not# completely sure.#|
-*¹8['s house is# a chateau, not a# mansion.#_*But, I'll bet you# already knew that.#|
-*There is a chateau# in the mountains# to the east.#_*Cough cough# cough cough...#|
-*You kids are crazy.# Running around with# just T-shirts on.#_*Cough cough# cough cough...#|
-*Please say hello to# the camel's bones in# Yucca Desert.#_*I knew that camel# once upon a time.#|
-*Small wounds can# be treated here,#_*but real sickness# must be treated in# the hospital.#|
-*I think ¹x[# will grow up and# be a computer# engineer.#|
-*Keep quiet in the# library!#_*Ahh--choo!!#|
-*You think I'm the# world's greatest# fisherman?#_*Well, not quite# that great. But,# if you've a moment,#_*let me tell you# some of my fishing# stories.#|
-*You're in the way,# kid!#|
-*Hey!#|
-*I may have low HP,# but I'm gonna do# my best!#|
-*If I fight with# you....#_*I will surely be a# loser.#|
-*I am a strong man.# That's what I say.# I insist this.#|
-*You are no match# for ¹¡].#_*He could beat you up# with his pinkie.#|
-*Did you read# the sign?#|
-*While walking in# the desert, I saw a# cactus with a face,#_*then I ran for the# hills screaming as# loud as I could.#|
-*When you talk to# a fisherman, you# can never get away.#|
-*Any first grader# can do a cartwheel,#_*don't you think?#|
-*The telescopes?#_*Take this elevator# to the top of Look-# Out Tower.#|
-*I once saw smoke# rising from one of# the islands.#_*I wondered if# anybody lived# there.#_*I should have# looked through# that telescope.#|
-*I can't do a# cartwheel.#|
-*I still don't know# how to carry over# in subtraction.#|
-*I heard Strawberry# Tofu is popular# in big cities.#_*I'd like to taste# some.#|
-*I am hungry.# Let's do lunch.#|
-*Don't take me for# an ordinary man.#_*Those are Dad's# favorite words.#|
-*You are late,# aren't you!?#|
+*Telefono!# Vai a rispondere,# ¹÷[!#|
+*Io non sono il# Sindaco, ma Abbott,# il suo assistente.#_*Il signor Sindaco# è là.#|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Puoi parlare con# gli animali.#_*Ti dico un segreto.# Perché non provi a# GUARDArmi meglio?#_*Bau bau!#|
+*Non hai abbastanza# soldi. Mi spiace,# torna un'altra volta.#|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Ehi!#|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *Hai visto un# uomo strano nel# laboratorio?#_*Beh...# Io sì.#|
 *Hai giocato a# Super Mario Bros.7?#_*Io sto ancora# giocando a# Super Mario Bros.3.#_*È stato piuttosto# impegnativo per me.#|
 *Ti do il benvenuto!# Cosa vorresti# comprare?#|
@@ -680,16 +680,16 @@ Errore di sistema!!!#|
 *Buongiorno!# Torna pure quando# vuoi.#_*Così magari mi# sentirei un po'# meno solo, qui.#|
 *Perché non vuoi# restare qui per la# notte?#_*Papà non sarà a# casa, ma va bene# così, credimi.#|
 *Biglietti, prego.# Per entrare serve# un Biglietto.#|
-*However...# Nothing was there.#|
-  Leave    Take out|
-*You have nothing.#|
-*You haven't left# anything with me.#|
-*Just a moment...#_*The closet is full.# I can't keep any# more for you now.#|
-*Can I help you?#|
-*Your balance is# insufficient.#|
-*There isn't# enough money.#|
-*I'm sorry,#_*the transaction you# have requested# exceeds your limit.#|
-*Thank you very# much.#|
+
+  Lascia   Prendi|
+
+
+
+
+
+
+
+
 *¹£@ ha trovato# un vecchio carillon# dentro la bambola.#_*Appena il carillon# viene caricato...#_*Una melodia inizia# a suonare.#|
 *?#|
 *Grazie.#|
@@ -704,79 +704,79 @@ Errore di sistema!!!#|
   Continua Riposa|
 *¹£@ ha preso# la cornetta.#|
 *Spiacente, ma non# hai abbastanza# denaro.#|
-*Oh no sir, you# do not have that# much money.#|
-*Sir, you can't# carry more than# what you now have.#_*At least, I don't# think you should.#|
-*There you have it!# I've fixed it like# a true expert.#|
-*Sorry, but I can't# buy ¹%` from# you.#|
-*Overjoyed with her# reunion, Laura# began singing.#|
+
+
+
+
+
 *¹£@ ha# memorizzato la# melodia.#|
-*This canary is# singing.#|
-*The monkey stole# the Zoo Key.#|
-*The robot appeared# old and rusty.#|
-*Feeling ¹÷['s# presence, the robot# came back to life.#|
+*Il canarino sta# cantando.#|
+*La scimmia ha rubato# la Chiave dello Zoo.#|
+
+
 *³ª|§| per# ¹|`.#|
-*Do your best.#|
-*Your strength has# revived by touching#_*the fountain's# mysterious water.#|
-*Oh my, little# Pippi!  You're# back and safe!#_*Thank you for# finding her,# ¹÷[!#_*By the way, the# Town Mayor is# waiting for you...#_*Pippi, go with# ¹÷[, and help# straighten this out.#|
-*I'm busy, So I# can't help you# right now.#_*You'll have to come# back later.#|
-*Who has been# poisoned?#|
-*Who needs to be# softened?#|
-*You haven't been# poisoned!#|
-*You have not been# turned to stone.#|
-*They manufacture# Bottle Rockets# there.#|
-*My wife was the 1st# Miss Merrysville in# history.#|
-*OK, I've unlocked# the roof. While# you're up there...#_*Make sure to take# in the view. It is# unforgettable.#|
-*Later we should go# to Duncan's# Factory...#_*I've heard they're# constructing an# incredible rocket.#|
-*They call me names,# weakling or four# eyes, or worse...#_*I'm sure that# you've heard them.#|
-*In the mean time,# dawn breaks over# the harbor...#|
-*Pardon me young# whipper-snappers...#_*I didn't really# mean to talk all# night, but...#|
-*You young little...# Don't talk to me# that way!#|
-*This game I heard of#_*was titled#  ”EARTH#   BOUND”...#_*don't know exactly# why...#_*because it really# doesn't matter.#_*So if you shouldn't# judge a book by its# cover...#_*Don't judge a game# by its title.#|
-*A lady at Reindeer# Station has some-# thing for you...#_*Have you gone there# and met her yet?#|
-*The most important# hint to remember# though is...#_*No matter how much# it hurts your ears# to do so...#_*Listen to the words# in the song by#_*Magicant's guitar# player.#|
-*When you find some-# thing strange,#_*be sure to CHECK it# out every time.#|
-*The Singing Monkey# sang with passion.#|
-*The Cactus sang...#_*and for whatever# reason, it kept on# singing.#|
-*The Piano began to# play all by# itself...#|
-*The Dragon crooned# his tune without# much hesitation.#_*The song went# something like# this...#|
-*Robot Eve was# demolished and# moved no more.#_*Examining the# wreckage caused# music to start...#|
-*One of a kind!# See the amazing# Singing Monkey!#|
-*There's a padlock# on the door at the# top of the stairs.#|
-*I must stay here# with the people of# Snowman.#_*Please take care...#|
-*Not enough money.#|
-*¹÷[, please go# first. I am so# afraid.#|
-*The lock was# broken. ¹£@# opened the door.#|
-*Hi! ¹¡]!# How are you doin'?#|
-*Let ¹¡] come# back fast!#|
-*No, no. I can't# keep ¹%`# with me.#_*I must go my own# way, whatever you# say.#|
-*¹÷['s faithful# and loyal servant,#_*The brave soldier,# Flying Man, rests# here in peace.#|
-*¹÷['s strong# and powerful ally,#_*The brave soldier,# Flying Man, rests# here in peace.#|
-*¹÷['s# benevolent buddy,#_*The brave soldier,# Flying Man, rests# here in peace.#|
-*To ¹÷['s great# sorrow,#_*The brave soldier,# Flying Man, rests# here in peace.#|
-*To ¹÷['s horror# and dismay,#_*The brave soldier,# Flying Man, rests# in peace here.#|
-*Proclamation by# the Town's Mayor# says...#_*No one may pass# until the Zoo case# is solved.#_*A real one way# attitude if you# ask me.#_*I don't have to# like it, just# enforce it.#|
-*Deep in a cave,# there is a strange# rock-like thing.#_*It's so strange,# you definitely# should take a look.#|
-*I heard that you# can communicate# with Telepathy.#_*Have you heard# all of the people# talking about you?#_*But you probably# don't need to# 'listen' to them!#|
-*Are you going to# Snowman?#|
-*I found this Hat.# I believe it's the# property of a girl#_*who lives there.# Please take it to# her.#|
-*Well, I had# something to ask# you.#|
-*The good-looking# boy sang a quite a# unique song.#_*¹£@ did not# want to remember# this strange melody.#|
-*Excuse me...# could you answer# this questionnaire?#|
-*Do you think the# train tickets are# too expensive?#|
-*Have you USEd# the Bullhorn?#|
-*Thank you for# your cooperation.# In exchange...#_*for your time,# this Telephone Card# is for you.#|
-*Excuse me, but# could you answer# this questionnaire?#_*Oh! I'm sorry I've# already asked you# these questions...#|
-*Hearing the soulful# cry, the Benevolent# Old Man showed up.#|
-*¹£@ pried up# the lid. Out from# the casket...!!#|
-*¹£@ looked# into the telescope.#|
-*The shimmering blue# sea stretched# toward the horizon.#|
-*In the distance,# on the island,# something sparkled!#|
-*Suddenly, from# inside of the# capsule...#|
-*(¹8[)# Daddy...# Good-bye...#_*Next time, Mommy# will come back# with me!#_*Believe in us!#|
+*Fai del tuo meglio.#|
+
+
+
+*Chi è stato# avvelenato?#|
+*Chi dev'essere# ammorbidito?#|
+*Nessuno ti ha# avvelenato!#|
+*Nessuno ti ha# pietrificato.#|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *Con chi stai# parlando?#|
 *Cosa?!?#|
 *Nulla degno di nota.#|
-*(The voice of Queen# Mary speaks)#_*I am the# consciousness of# Maria.#_*¹÷[, use my# last power!#_*Then, as the voice# became a whisper of# wind...#_*The rock# disintegrated.#_*Leaving only a# pile of very fine# sand at their feet.#|
+
 *Ti diamo il benvenuto# nel nostro negozio.# Vendiamo armi, qui.#|
 *¹°` ha USAto# ¹⁴`.#|
 *¹°` non può# USAre ¹⁴`.#|
@@ -794,257 +794,257 @@ Errore di sistema!!!#|
 *¹£@ ha ottenuto# ¹%`.#|
 *Non puoi portare# nient'altro.#|
 *Era vuoto.#|
-*Cure poison.# Soften#|
-*     City Zoo#       NORTH#_*      Podunk#       SOUTH#|
-*No Hunting -# Approaching#_*The Canary Village# Wildlife Refuge#|
-*  City Hall#     City of Podunk#|
-*  Look-Out Tower#        WEST#   Harbor   NORTH#|
-*      Ellay#        WEST#_*    Mount Itoi#        EAST#|
-*   Healer's House#        WEST#   Beyond Bridge...#_*     Cemetery# Abandon all hope# ye who enter!#|
-*      Podunk#        WEST#_*   Merrysville#        EAST#|
-*     City Zoo#     700 meters#        WEST#|
-*Snowman Chateau# Straight Ahead#|
-*      Ellay#        WEST#_*      Swamp#       SOUTH#|
-*     Twinkle#  Elementary School#       SOUTH#|
-*¹÷['s house#|
-*Welcome to# Merrysville!#_*      Podunk#        WEST#_*  Union  Station#       NORTH#|
-*  Healer's House#        WEST#_* Reindeer Station#        EAST#_*   Reindeer Town#        SOUTH#|
-* Spookane Downtown#        WEST#_*Spookane Residental#        EAST#|
-*   Swamp - EAST#|
-*PRIVATE PROPERTY# (signed)-# The Rosemarys#|
-*Police Station# City of Ellay#|
-*Coming this fall-# Duncan's# Debutantery#_*Financing by,# Architectural by,# Construction by,#_*The Duncan# Company Inc.#|
-*I heard that my# brother died with# honor in combat.#_*With all our love,# he was buried in# our cemetery.#_*It is with great# pride that I take# his place by you.#|
-*I cannot wait to# serve you.#|
-*I am the Flying# Man. My destiny# is to help you.#|
-*The curfew has# been lifted.#_*Although I can't# see why travel was# ever restricted.#|
-*Old, rusty rocket.#|
-*Did you come for# your Goods? Here# you go.#|
-*I've given you all# the Goods. Please# come again.#|
-*I am Minnie.#|
-  Refresh  Soften|
-*(¹¡]) I'm# sure you two would# like to be alone.#_*I'll make a few# phone calls and# wait out here.#|
-*Oh shoot!# I missed!#|
-*Oh ¹÷[, I've# loved you for such# a long time.#_*I've loved you# since I saw you# in my dream.#|
-*(¹¡])# Sorry to bother# you two...#_*but did you hear# those loud noises?#|
-*(¹¡])# Those noises# coming from outside,#_*not in here silly.#|
-*The boat motor# appears to be# broken.#|
-*¹£@ just does# not seem to be# able to fix it.#|
-*But ¹x[ fired# it right up.#|
-*I'll send this# ¹%` to# ¹÷['s house.#_*Is there anything# else you want me# to keep?#|
-*Not that I have# claustrophobia...#_*but I can't stand# small, close# spaces!#|
-* Sweet's Little#      Factory#|
-*I was kidnapped by# the Mother Ship.# Please help me!#|
-*Are you sure that# it is spelled# correctly?#|
-*The odd sound that# drove the animals# insane died down.#_*The Zoo once more# became a safe# place.#|
-*Be careful, that# tank is my most# prized possession.#|
-*There, on the dog's# collar, was the# Basement Key.#|
-*Hee Hee Hee...# I am the noisy# mouse.#_*Some buildings# you can enter,# some you cannot.#_*If the door is# round, or has a# sign, go on inside.#_*The rest of the# doors will not# open for you.#_*Bye!#|
-*Teleportation is a# Psychic Power not# to be played with.#|
-*I loved him...#_*I loved him,# as if he was my# own child...#|
-*He was always# wagging his tail,# just like a pup...#_*EXCEPT for when I# tried to SING him# lullabies...#|
-*Ahhh...George!# This is your wife,# Maria.#_*I'm coming to join# you, my purpose is# complete...#|
-*Please insert your# Cash Card.#|
-*Don't carry so much# cash with you.#|
-*Is it all right to# go back to the# data SAVEd earlier?#|
-*You said ”Yes”,# but you don't have# it. Ah ha ha ha...#|
-*¹¡] seems to be# out of breath.#|
-*Non hai amici a# cui dare i tuoi# Oggetti.#|
-*The ¹%` is# once more in# your possession.#_*Is there anything# else you'd like# to take?#|
-*Can't someone else# carry that? Your# load is too great!#|
-*The closet is# full.#|
-*After telling the# story to ¹÷[,#_*with a rush of# wind, Queen Mary# vanished.#_*As she disappeared,# so did Magicant.#_*Magicant was a# mirage...#_*A mirage born of# Maria's# consciousness.#|
-*I am the one who# has called you.#_*¹÷[, ¹8[,# ¹x[, and# ¹¡]!#_*All of the brave# children.#_*Now is the time!#|
-*What are you# staring at?#_*Here in Magicant# it's just like the# world outside.#_*Just leave me some# cash, then with the# Goods you can dash.#_*Hee Hee Hee.#|
-*Get on the train,# or you will have a# hard time like me.#|
-*Do you want# anything else?#|
-*¹£@,# Welcome...#_*I always believed# that you would# find your way here.#_*Your Great-Grand# Mother Maria's love# was scattered,#_*scattered in the# form of melodies.#_*I have a melody# for you. Listen# and remember...#|
-*The crystal# fragments that had# broken off#_*stopped glowing and# disappeared..#|
-”Big Bag”#*A bag filled with# Magic Herb.#|
-”Telephone Card”#*USE this handy card# to charge your phone# calls.#|
-”Bread Crumbs”#*If you follow them,#_*you will return to# the place that you# started.#|
-”Repel Ring”#*One look at this# strange ring#_*will drive away# weak enemies.#|
-”Butter Knife”#*¹¡] can master# it.#|
-”Survival Knife”#*Hey ¹¡], this is# stronger than an# ordinary Knife.#|
-”Sword”#*Few people can# master it.#|
-”Katana”#*This Japanese sword# is the best ¹¡]# has seen yet.#|
-”Stun Gun”#*¹x[# seems to be able to# USE it.#|
-”Air Gun”#*A strong weapon,#_*but only ¹x[# seems to be able to# USE it.#|
-”Plastic Bat”#*This weapon is OK# for ¹÷[. USE it!#|
-”Wooden Bat”#*¹÷[, USE this# weapon to fight# with weak enemies.#|
-”Aluminum Bat”#*With this weapon#_*¹÷[ can easily# fight tougher# enemies.#|
-”Hank's Bat”#*This awesome bat# was personally# autographed.#|
-”Frying Pan”#*¹8[ can USE# this weapon best.#|
-”Non-stick Pan”#*A good weapon for# ¹8[, with no# messy clean up.#|
-”Iron Skillet”#*¹8[ can USE this# heavy metal pan to# rock strong enemies.#|
-”Slingshot”#*A handy weapon,# that anyone can USE.#|
-”Boomerang”#*Be careful,# this isn't a toy.#_*Anyone can USE it# as a weapon.#|
-”Insecticide”#*It has an irritating# effect on bugs.#|
-”Super Spray”#*Industrial strength# Insecticide.#|
-”Flea Bag”#*A bag of fleas and# other nasty# critters.#_*Throw at an enemy# and watch the# effect!#|
-”Words of Love”#*???#|
-”Swear Words”#*???#|
-”Sticky Machine”#*It seems to be used# for fighting, but...#|
-”Flashdark”#*The opposite of a# flashlight.#|
-”Flame Thrower”#*Toasts the enemy,# but only ¹x[# can use it.#|
-”Bomb”#*Maybe only ¹x[# can detonate it.#|
-”Super Bomb”#*Written on the side# ”Beware of blast”,#_*only ¹x[ can# use it.#|
-”Laser Beam”#*It helps that sissy# ¹x[.#|
-”Plasma Beam”#*It helps that weenie# ¹x[ quite a lot.#|
-”Rope”#*Use it to tie the# enemy up.#|
-”Peace Coin”#*When you USE it,# DEFENSE goes up a# little bit.#|
-”Protection Coin”#*When you USE it,# DEFENSE goes up.#|
-”Magic Coin”#*When you USE it,# DEFENSE really goes# up.#|
-”Brass Ring”#*When you USE it,# DEFENSE goes up a# bit.#|
-”Silver Ring”#*When you USE it,# DEFENSE goes up.#|
-”Gold Ring”#*When you USE it,# DEFENSE really goes# up.#|
-”H2o Pendant”#*When you USE it,# it will defend# against PK Fire.#|
-”Fire Pendant”#*When you USE it,# it will defend# against PK Freeze.#|
-”Earth Pendant”#*When you USE it,# it will defend# against PK Thunder.#|
-”Sea Pendant”#*When you USE it,#_*it will defend# against# all PSI attack.#|
+
+*  Zoo Cittadino#        NORD#_*    Sperduzia#        SUD#|
+
+*Municipio#   Comune di Sperduzia#|
+
+
+
+
+
+
+
+* Scuola Elementare#     Scintilla#        SUD#|
+*Casa di ¹÷[#|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Io sono Minnie.#|
+  Rigenera Ammorbida|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ”Succo d'arancia”#*La vitamina C va# sempre bene per# un po' di PS.#|
-”French Fries”#*EATen with or# without catsup,# your HP will rise.#|
-”Magic Herb”#*When you are tired# or injured, USE it.#|
-”Hamburger”#*Fast food for some# fast HP.#|
-”Sports Drink”#*No matter how tired# you are, one bottle# will strengthen you.#|
-”Life Up Cream”#*USEd to heal wounds.#|
-”Asthma Spray”#*When ¹÷['s# asthma attacks,# spray this.#|
-”Antidote”#*It neutralizes# poison quickly.#|
-”Mouthwash”#*If you gargle with# it, you will lose# your cold.#|
-”Strawberry Tofu”#*If you really want# to eat it OK, but...#|
-”Bread”#*OK to eat it,# but its CRUMBS can# be used#_*to mark your trail.#|
-”Noble Seed”#*USE this to cancel# the Wicked Seed.#|
-”PSI Stone”#*PSI Power in solid# form.#|
-”Magic Ribbon”#*With this FORCE# will rise a bit.#_*This is for a girl# to tie in her hair.#|
-”Magic Candy”#*If the sissy boy# EATs this his# FIGHT rise some.#|
-”Quick Capsule”#*Take this capsule to# raise your SPEED.#|
-”Wisdom Capsule”#*Take this capsule to# raise your WISDOM.#|
-”Physical Capsule”#*Take this capsule to# raise your STRENGTH.#|
-”Force Capsule”#*Take this capsule to# raise your FORCE.#|
-”Fight Capsule”#*Take this capsule to# raise your FIGHT.#|
-”Basement Key”#*USE this Key to# unlock the basement# door.#|
-”Zoo Key”#*This Key will unlock# the main gate at# the City Zoo.#|
-”Ghost House Key”#*This is the Key to# the Rosemary's house.#|
-”Great-Grand Father's# Diary”#*It is old,# ragged, and filled# with entries.#|
-”Pass”#*Printed on it,# ”Duncan Factory# Employee”.#|
-”Ticket”#*Printed on it,#_*”Rock'n Roll all# night and every day# at The Live Show”.#|
-”Canary Chick”#*Its eyes show# sadness.#|
-”Bottle Rocket”#*¹x[ seems to# know how to use it.#|
-”Hat”#*A pretty hat# embroidered with# the name ¹8[.#|
-”Dentures”#*Brush, floss and see# your dentist and#_*you won't have to# own a pair.#|
-”Ticket Stub”#*Printed on it,#_*”Save ten of these# for a complimentary# tank ride”.#|
-”Ocarina”#*It can play a catchy# tune.#|
-”Franklin Badge”#*Legend says that# Ben Franklin wore#_*this reflective# badge during his#_*experiments with# lightning.#|
-”Onyx Hook”#*As long as you have# it, you can warp# back to Magicant.#|
-”Last Weapon”#*???#|
-”Ruler”#*It is 12 inches long.#|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+”Pillola Rapida”#*Prenderla aumenta# la VELOCITÀ.#|
+”Pillola Saggia”#*Prenderla aumenta# la SAGGEZZA.#|
+”Pillola Fisica”#*Prenderla aumenta# il VIGORE.#|
+”Pillola Forte”#*Prenderla aumenta# la FORZA.#|
+”Pillola Combattiva”#*Prenderla aumenta# la LOTTA.#|
+
+
+
+
+
+
+
+
+
+
+
+
+”Medaglia Franklin”#*Secondo una leggenda# Benjamin Franklin#_*indossava questa# medaglia riflettente#_*nei suoi esperimenti# con i fulmini.#|
+”Becco di Onice”#*Finché lo terrai con# te potrai viaggiare# verso Magicandia.#|
+”Arma Finale”#*???#|
+”Righello”#*Da 30 centimetri.#|
 ”Carta di debito# di ¹÷[”#*Per tutte le tue# necessità economiche.#|
-”Red Weed”#*It looks like just# grass, but...#|
-”Bullhorn”#*Your amplified# voice may intimidate# an enemy.#|
-”Debug”#*.......#|
-Should you fight, or#run?|
-It seems to have an#important secret.|
-It there any way to#defeat him?|
-Don't let him stop#and unpack his trunk!|
-Somebody ate his#porridge, and he isn't#too happy about it!|
-Surprised? It really#does exist!|
-Be careful of its#exhaust if you are#asthmatic.|
-Hypnotism does not#work on this robot.|
-Special armor protects#from PSI attack.|
-It has, the awful#Stone of Origin.|
-Something like this#should not exist on#the earth...|
-Don't let this primate#punk pick on you!|
-A face only a mother#could love.|
-Watch those eyes!|
-No one is in the#driver's seat.|
-It has strong#friends.|
-Its shell is#unbelievably hard.|
-It uses hypnotism.|
-Its quickness is the#source of its pride.|
-Watch out for those#pearly whites.|
-That thief!!|
-Don't accept his#invitation to dinner.|
-A walking fuel#supply.|
-It seems to be#guarding something.|
-He can be found#on the FBI's#most wanted list.|
-Maybe he is not#really rotten to#the core.|
-A malnourished robot?|
-Do not be tricked by#her smile.|
-A man from the stars.|
-This thing could not#occur naturally|
-What evil lab has#manufactured this#mobile brain.|
-It uses various PSI#attack.|
-It would be nice to#have armor of your#own.|
-An animated tree with#suspicious actions.|
-He has a short temper,#so be careful.|
-He looks like he could#grow flowers in his#hair.|
-Her refrigerator#shaped body holds a#heart of ice.|
-A real bad apple,#stay out of his way.|
-His twisted face#covers his twisted#mind.|
-Careful, his 'Smash#Hit'is quite#effective.|
-Watch out for further#sneak attacks.|
-Watch your wallet and#count your change,#he's a thief.|
-It might not poison,#maybe...|
-He who laughs last#laughs best.|
-It is quite different#than a pet cat.|
-Exterminate with#Insecticide.|
-AHH-Choooo!!|
-Insecticide is#effective.|
-You'll want to try#Insecticide.|
-It's poisonous, but#Insecticide works.|
-Don't let yourself#get tied up fighting#this guy.|
-It looks like it#jumped out of a comic#book.|
-This enemy's face is#the easiest to draw.|
-If he was a mask,#someone might mistake#your identity.|
-Just an ordinary#ghost.|
-Only as big as a#dinner plate.|
-Life itself is a#puzzle for Mr.Bat.|
-He is small, but it is#obvious that he is a#spaceman.|
-Hold your nose!|
-An evil, caped Zombie.#Beware, his#'Last strike' could#be devastating.|
-A big rat, with a tail#this long.|
-Shaped like an egg,#but a little tougher.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ti fissa dritto#negli occhi.|
 Volteggia in aria!|
-It's strong poison#was developed in a#laboratory.|
-Beware of its poison#and Stone of Origin.|
-Good experience, if it#doesn't run.|
-It seems that it does#not have any friends.|
-His chair was broken,#and he isn't very#happy!|
-Where's that#antidote.|
-Poison, poison,#poison.|
-If he smiles, don't#smile back.|
-Its father won't even#look at his face.|
-Beware of its Stone#of Origin.|
-I wonder if it carries#fleas?|
-Hypnotism does not#work on the car.|
-Hypnotism does not#work on this vehicle.|
-What is going to#happen next, speeding,#reckless driving, or..|
-Don't alarm this#ghost, he has#friends!|
-The optometrists#favorite.|
-Watch your step,#Dadseyes are every#where.|
-Momseyes will spot#you for sure!|
-It has friends!|
-He only has PK Beam.|
-As strong as on ox.|
-Ragged around the#edges, but do not#underestimate it.|
-The latest in the#product line.|
-This is as big as a#manhole cover.|
-Do not be tricked by#her beauty.|
-It carries, and#likes to use Bombs.|
-There is a plenty of#fuel inside.|
-She is good at, and#not afraid to use a#strong PSI attack.|
-His sole purpose is#to keep travelers#from passing through#the cave.|
-It likes to use PK#Freeze.|
-If you can beat it,#that is great.|
-Not only will it#attack using PSI,#it is a thief!|
-Careful, he knows#'Brain Shock'.|
-”It attacks with#bare hands.”|
-Its marvelous silver#coat glistens and#gleams.|
-He is absolutely huge!|
-If you must sleep,#don't borrow his bed!|
-New and unfortunately,#improved.|
-The strongest of#the Starmen.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 °^«² ¿°^»² ¿|
 ¹à&#si avvicina!|
 ¹à& attacca!|
@@ -1057,122 +1057,122 @@ Attacco ripetuto!|
   ⓪①②③④⑤⑥⑦⑧|
  ¹É& ha# subìto ³®&§|# di danno.|
 #       VITTORIA!#|
-#Hai perso la#battaglia.#|
- Defeated# ¹É&!|
- ¹É& was# hurt and beaten.|
- ¹É&# was already gone.|
- There was no effect# on ¹É&.|
-¹à& ran out#of control!|
- ¹à& was# totally exhausted.|
-¹à&'s#last blow!!!|
-The form of#¹à&'s attack#was inexplicable!|
- ¹É& was# surrounded by a# barrier.|
- ”Your mother is#  calling for you!”|
- ¹É& turned# into a stone.|
-¹à& spit a#sticky substance!|
- ¹É& was# blinded!|
-¹à& is bound#tightly.|
-¹à& let out#a strange cry!|
- ¹à&# exploded!|
- ¹à& burst# into flames!|
- ¹É&'s# OFFENSE increased# by ³®&§|.|
- ¹É&'s# OFFENSE decreased# by ³®&§|.|
- ¹É&'s# DEFENSE increased# by ³®&§|.|
- ¹É&'s SPEED# increased by ³®&§|.|
+#La battaglia è#stata persa.#|
+
+
+
+
+
+
+
+
+
+ “Tua madre ti#  sta chiamando!”|
+
+
+
+
+
+
+
+
+
+
+
 > ATTACCO ³®&§|.|
 > DIFESA ³™&§|.|
- ¹É&'s FIGHT# decreased by ³®&§|.|
- ¹É&'s# DEFENSE decreased# by ³®&§|.|
-¹à& smiled#a darling smile.|
- ¹É&'s FIGHT# increased by ³®&§|.|
-¹à& flew into#a rage!|
- ¹É&'s SPEED# decreased by ³®&§|.|
-¹à& made#¹É& confused!|
-¹à& cried out#for help!|
-¹à& sowed#its seed!|
- Don't know why, but# ¹É&'s EXP# increased.|
-¹à& started#laughing!|
-The tank is broken.|
-¹à& uttered#threatening words!|
-¹à& uttered#dirty words!|
-¹à& just#grins, and bears it.|
- and ¹É&# believed it!|
- but ¹É&# wasn't convinced# at all.|
- This made# ¹É& angry.|
- ¹É&'s# situation became# critical.|
- ¹É& lost# all senses.|
-¹à& is so#confused.|
- ¹É& was# put to sleep.|
-¹à& is#asleep.|
- ¹É&# recovered ³®&§| PP's!|
- ¹É&# recovered ³®&§| HP!|
-¹à&'s energy#has flowed into#¹É&!|
- However, no one came# to assist.|
- Silence...|
- ¹É& joined# in the battle!|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ La situazione di# ¹É& si è# fatta critica.|
+ ¹É& ha perso# i sensi.|
+¹à& è molto#confuso/a.|
+
+
+
+
+
+
+
+
 ¹à& è#scappato/a!|
 ...Ma non ha#funzionato.|
-¹à&#tripped and fell.|
-¹à& can't#move.|
-¹à& turned#into a stone.|
- ³®&§| PP's were# snatched from# ¹É&.|
- ¹É& can not# move.|
-¹à& puffed a#cloud of exhaust gas!|
- ¹É& was# poisoned.|
- ¹É& was# dehydrated.|
- ¹É&'s PSI# was blocked.|
- ¹É& was# bound with Rope.|
- ¹É& was# shielded.|
- Miss!!|
- But, the PSI was# blocked.|
- But, ¹É&'s# FranklinBadge bounced# back the Beam!|
- ¹É& bounced# back the attack!|
- Not enough PP's.|
- There was no effect# on ¹É&.|
-¹à& had an#asthma attack.#Wheeze...|
-¹à& is#meditating.|
-¹à& said#”Hello”, then just#walked away.|
-¹à& is ready#for an attack.|
-¹à& sang the#song!|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ¹à& sta#in guardia.|
-¹à&#approached slowly!|
- Poison has dissipated# from ¹É&'s# body.|
- ¹É& senses# were regained.|
- ¹É&# became itchy# all over.|
- ¹É& can# move now.|
- ¹É& woke up.|
- Brought ¹É&# back!!!|
-¹à& USEd#¹®&!|
-¹à& tried#¹®&!|
-¹à& can't USE#¹®&!|
-¹à& is#thinking about the#circumstances.|
-¹à& did#something strange.|
-¹à& is#day-dreaming.|
- Destroyed# ¹É&'s# shield.|
+
+
+
+
+
+
+
+¹à& ha USAto#¹®&!|
+¹à& ha#provato ¹®&!|
+
+
+
+
+
 ¹à& ha ESAMINAto#¹É&.|
-> Strong against#  PK Fire.|
-> Strong against#  PK Freeze.|
-> Strong against#  PK Thunder.|
-> Strong against#  PK Beam.|
-> Weak against#  Sprays.|
- ¹É&'s asthma# attack has passed.|
- ¹É&# recovered from# being a stone.|
- ”I love you.”|
- ”I hate you.”|
- ¹É& had an# asthma attack.|
- ¹®& was# broken.|
-¹à& used#the Wicked Seed!|
-¹à& used a#paralizing gas!|
- ¹®& turned# into a stone.|
+> Forte contro#  PK Fuoco.|
+> Forte contro#  PK Gelo.|
+> Forte contro#  PK Tuono.|
+> Forte contro#  PK Raggio.|
+> Debole contro#  gli Spray.|
+ L'attacco d'asma# di ¹É& è# passato.|
+
+ ”Ti voglio bene.”|
+ ”Ti detesto.”|
+ ¹É& ha avuto# un attacco d'asma.|
+
+
+
+
  ¹É& è# tornato/a in sé!|
  ¹É& si è# calmato/a!|
- ¹É& was# beaten!|
- ¹É& was# destroyed!|
- ¹É& has# returned to dust!|
+
+
+
  ¹É& ha# smesso di muoversi!|
- ¹É& became# a pile of junk!|
- ¹É&# vanished!|
-¹à& took away#¹É&'s#¹®&!|
+
+
+¹à& ha preso#¹®& da#¹É&!|
 ¹à& è salito/a al#Livello successivo!#_§
 ¹à& ha imparato#un nuovo potere PSI#durante la battaglia!#_§
  I PS massimi sono# aumentati di ³µ|#|.#_§
@@ -1182,89 +1182,89 @@ The tank is broken.|
  La SAGGEZZA è# aumentata di ³¥|#|.#_§
  Il VIGORE è# aumentato di ³¨|#|.#_§
  La FORZA è# aumentata di ³©|#|.#_§
-¹à& escaped#from the Rope.|
-Picked up ¹%`!#_§
- ¹É& wasn't# confused anymore!|
-¹à& woke up.|
-ZAP!!!|
- But...# it had no effect!|
- ¹®&# became empty.|
-#The battle lingers on.#|
-(¹£@ hears the#voice of Queen Mary)#_Giegue cannot be#defeated with#force...#_You cannot defeat#Giegue with a#weapon of any kind.#_You must SING my#lullaby, with all#your feelings...#_SING my lullaby#with all your#heart.#_§
- ¹÷[!#_ I am grateful to# your family.#_§
- Your Great-# Grandparents,#_ George and Maria# raised me.#_§
- But, George stole# vital information#_ from our planet# that can be used#_ to betray my# people...#_§
- And now, one of his# descendants#_ is obstructing# our plans,#_ and must be# stopped!!#_ ¹÷[!# I am talking about# you!#_§
- Go home now!#_ Perish with the# rest of the ugly#_ Earth People.#_§
- Foolish one, you# cannot do a thing#_ with your meager# powers...#_ Powers worthy of# a lowly insect.#_§
- ¹÷[!# You alone,#_ I may save you.# Just you alone.#_ Board our# Mother Ship with me.#_§
- ...then, fall into# long sleep#_ with your friends#_ and the other ugly# Earth People.#_§
- Stop singing.|
- STOP singing!|
- STOP!# Stop the song!|
- STOP IT!!# STOP THAT SONG!|
- You puny little# Earth bugs!# Shut up, and# STOP singing!!|
- The SONG...|
- STOP IT!!!|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  !!!!!|
- Stop...# Pleeease, stop!|
+
  !!!!!!!|
  ........|
- How could I be# defeated#_ by a song# like that?#_§
- I will...# sometime...#_§
- ¹÷[!# We SHALL meet again!#_§
-*¹°` didn't do# anything.#|
-*¹°` gave# ¹⁴` to# ¹|`.#|
-*¹°` put# ¹⁴` in# ¹|`'s bag.#|
-*¹|` pulled# ¹⁴` from# ¹°`'s bag.#|
-*¹£@ threw# ¹⁴` out of# ¹°`'s bag.#|
-*¹£@ took# ¹⁴` from# ¹°`'s bag #_*and placed it in# ¹|`'s bag.#|
-*¹°` ate# ¹⁴`.#|
-*¹°` drank# ¹⁴`.#|
-*recovered by# ³ª|§|.#|
-*increased by# ³ª|§|.#|
-*¹°`'s HP is#|
-*¹°`'s PP is#|
-*¹°`'s ENERGY is#|
-*¹°`'s SPEED is#|
-*¹°`'s WISDOM is#|
-*¹°`'s STRENGTH is#|
-*¹°`'s FORCE is#|
-*¹°` took out a# Magic Herb from the# Big Bag and USEd it.#|
-*¹°` started # dropping the# Crumbs.#|
-*You can't USE# Bread until old# Crumbs are USEd up.#|
-*¹£@ returned# to the head of the# trail...#_*by following the# Crumbs that had# been dropped.#|
-*¹°` tied the# Ribbon into# her hair.#|
-*If that is true,# push the POWER off,#_*but remember to# hold in RESET!#|
-*¹°` measured the# lengths of many# things.#|
-*When the Big Bag# was emptied,#_*it disappeared# into thin air.#|
-*The credit limit of# the Telephone Card# has been reached.#|
-*The poison was# neutralized from# ¹°`'s body.#|
-*¹°` was rid# of the cold.#|
-*¹°` squeezed# the PSI-Power# Stone.#|
-*The PSI-Power# Stone became an# ordinary stone.#|
+
+
+
+*¹°` non ha# fatto nulla.#|
+*¹°` ha dato# ¹⁴` a# ¹|`.#|
+*¹°` ha messo# ¹⁴` nello# zaino di ¹|`.#|
+*¹|` ha preso# ¹⁴` dallo# zaino di ¹°`.#|
+*¹£@ ha buttato# ¹⁴` dallo# zaino di ¹°`.#|
+*¹£@ ha preso# ¹⁴` dallo# zaino di ¹°`#_*e l'ha messo in# quello di ¹|`.#|
+*¹°` ha mangiato# ¹⁴`.#|
+*¹°` ha bevuto# ¹⁴`.#|
+|
+|
+*¹°` ha recuperato#*³ª|§| PS.#|
+*¹°` ha recuperato#*³ª|§| PP.#|
+*¹°` ha guadagnato#*³ª|§| di ENERGIA.#|
+*¹°` ha guadagnato#*³ª|§| di VELOCITÀ.#|
+*¹°` ha guadagnato#*³ª|§| di SAGGEZZA.#|
+*¹°` ha guadagnato#*³ª|§| di VIGORE.#|
+*¹°` ha guadagnato#*³ª|§| di FORZA.#|
+*¹°` ha tirato# fuori dell'Erba#_*Magica dalla Sacca# Grande e l'ha USAta.#|
+*¹°` ha iniziato# a seminare# le Molliche.#|
+*Non puoi USAre il# Pane finché le#_*vecchie Briciole# non sono finite.#|
+*¹£@ ha raggiunto# l'inizio della# pista...#_*seguendo le Briciole# che erano state# seminate.#|
+*¹°` si è legata# il Fiocco tra# i capelli.#|
+
+
+
+
+
+
+
+
 *¹°` ha provato# ¹⁴`.#|
-*There isn't enough# power left to try# that.#|
-*¹°` has# returned to the# scene.#|
-*The Diary was hard# to read, but opened# up to this page...#_*(PASSWORD)#_*.... the one who# lost the tail.#_*The forgotten one...# ...the ship# that sails...#|
-*¹|` became# softened.#|
-*The Ocarina# played on and on...#|
-*Did you hear it?#|
+
+
+
+
+
+
 *Questo posto non è# sulla mappa.#|
-*¹£@ checked# the map.#|
-*Stopped by some# mysterious force.#|
-*The Repel Ring# has lost its# mysterious power.#|
-”Questa è una copia illegale#di un gioco Nintendo. L'uso,#il possesso o la vendita di#questa cartuccia#contraffatta è illegale e#infrange i diritti di copia#di Nintendo.”#          Nintendo Co., Ltd.#          Kyoto, Giappone /#          Redmond WA, SUA.#”Questa copia illegale di#NES EARTH BOUND smetterà#di funzionare.”#|
+*¹£@ ha guardato# la mappa.#|
+*Una qualche forza# misteriosa ti ha# bloccato.#|
+*L'Anello Repellente# ha perso il suo# potere misterioso.#|
+”Questa è una copia illegale#di un gioco Nintendo. L'uso,#il possesso o la vendita di#questa cartuccia contraf-#fatta è illegale e infrange#i diritti di copia di#Nintendo.”#          Nintendo Co., Ltd.#          Kyoto, Giappone /#          Redmond WA, SUA.#”Questa copia illegale di#NES EARTH BOUND smetterà#di funzionare.”#|
  # # # #|
-At the summit of Mt. Itoi,#¹8[ is reunited with her#mom as the rest of the freed#Earth people exit the cave.#|
- ¹¡], his health fully# recovered, now sings daily# at The Live Show.#|
-  The kidnapped grown-ups#  return to their lonely#  children in Youngtown.#|
-(¹8[)#I promise I won't forget you#so I will not say Good-Bye,#just - 'til we meet again!#|
- ¹x[ returns to a hero's# welcome at Twinkle# Elementary School.#|
-Son, your sisters and I are#so happy to see you back in#one piece. How unbelievable#that you are not hungry.#|
- A letter from ¹÷[,# I miss him so much. I hope# we can get together again# soon.#|
- Well, now that the Earth's# crisis is finally over, I# think I'll just lay down# for a moment and Zzzzzzzzz#|
- I know that boy is home.# Come on son and answer the# phone. Something new has# come up and...#|
+Sulla sommità del Mt. Itoi,#¹8[ si riunisce con sua#mamma e gli altri terrestri#liberati scappano.#|
+
+  Gli adulti rapiti fanno#  ritorno dai loro amati#  figli a Bambinia.#|
+(¹8[)#Prometto che non mi scorderò#di voi quindi non dico Addio#ma solo - alla prossima!#|
+¹x[ riceve un bentornato#da eroe alla Scuola#Elementare Scintilla.#|
+Figliolo, le tue sorelle ed#io siamo contentissime di#rivederti tutto intero. È#incredibile non abbia fame.#|
+ Una lettera da ¹÷[,# mi manca tantissimo.# Spero di rivederlo presto.#|
+ Beh, ora che la Terra non# è più in crisi credo che# mi sdraierò qui un attimo# e poi Zzzzzzzzz#|
+ Lo so che il ragazzo è a# casa. Dai figliolo vieni# a rispondere. Qualcosa di# nuovo è accaduto e...#|
 ¹°[|
 SHIGESATO ITOI|
 MIYUKI KURE|
