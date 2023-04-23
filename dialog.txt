@@ -889,8 +889,8 @@ Errore di sistema!!!#|
 ”Lanciafiamme”#*Abbrustolisce i# nemici, ma solo se è# ¹x[ ad usarlo.#|
 ”Bomba”#*Forse solo ¹x[# può farla esplodere.#|
 ”Super Bomba”#*Sul lato c'è scritto#_*”Pericolo di# esplosione”,#_*può essere usato# solo da ¹x[.#|
-”Raggio Laser”#*Aiuta quella# femminuccia di# ¹x[.#|
-”Raggio al Plasma”#*Aiuta di molto# quell'imbranato di# ¹x[.#|
+”Raggio Laser”#*D'aiuto per quella# femminuccia di# ¹x[.#|
+”Raggio al Plasma”#*È un bel po' d'aiuto# per quell'imbranato# di ¹x[.#|
 ”Corda”#*Usala per legare# il nemico.#|
 ”Moneta della Pace”#*Dopo averla USAta la# DIFESA salirà un# pochino.#|
 ”Moneta di Protezione”#*Dopo averla USAta la# DIFESA salirà.#|
