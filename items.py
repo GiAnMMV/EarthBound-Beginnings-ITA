@@ -50,7 +50,7 @@ for a in pointer_pos:
 if len(strings) <= strings_end:
     rom = rom[:strings_start] + strings + b'\x00'*(strings_end-strings_start-len(strings)) + rom[strings_end:]
     for n in range(len(pointers)):
-        rom = rom[:pointers[n]] + to_pointer((sum(len(i) for i in strings[:t[n]]))+strings_start) + rom[pointers[n] + 2:]
+        rom = rom[:pointers[n]] + to_pointer(strings_len[t[n]] + strings_start) + rom[pointers[n] + 2:]
 else:
     print('Error!')
 
