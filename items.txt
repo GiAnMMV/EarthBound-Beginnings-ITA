@@ -6,7 +6,7 @@ Anel.Repel.|
 Colt.Burro|
 Coltel.Sop.|
 Spada|
-Katana|
+Catana|
 Pist.Stord.|
 PistolaAria|
 MazzaPlast.|
