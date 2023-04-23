@@ -117,6 +117,7 @@ Errore di sistema!!!#|
 
 
 
+*Sei una strana# persona...#_*ma mi piaci, per# qualche ragione.#|
 
 
 
@@ -155,15 +156,14 @@ Errore di sistema!!!#|
 
 
 
+*Che ci si creda o no,# sono un Guaritore.#_*Posso ricaricare i# PP e curare la# pietrificazione.#|
 
 
 
 
 
 
-
-
-
+*Vorrei poter entrare# nel castello per# incontrare la# Regina Mary.#|
 
 
 *Zzzzzzzzzzzz...#|
@@ -182,7 +182,7 @@ Errore di sistema!!!#|
 
 
 
-
+*Era buona la# Caramella?#|
 
 
 
@@ -367,8 +367,24 @@ Errore di sistema!!!#|
 
 
 
+*Dov'è Mami?#*Dov'è Papi?#|
+*Alt, chi va là?#|
+*Ragazzi sospetti.# Vi fermerò.# Arrghh!#|
+*C'è qualcosa di# con il piccolo dei# Garrickson.#_*Qualcosa di strano# davvero.#|
+*Dunque...# 2 più 3 uguale 5,# 8 meno 4 uguale 4.#_*Studio tutto# il tempo.#
+*Mamma!!# Mi manchi!!!#|
+*Papà!!# Mi manchi!!!#|
+*Una grande nave# venuta dal cielo ha# preso Mamma e Papà.#|
 
+*Prendimi in braccio,# per favore!#|
+*Prendi in braccio# anche me!#|
+*Prendimi in braccio!#|
+*Ti prego, riportaci# Mamma e Papà.# Ti supplico.
+*Oh, sì.  Mi chiamo# Tom Garrickson.#_*Mi piace presentarmi.# È la mia passione.#|
+*Mamma mi ha detto che# questo bebè ha poteri# mistici.#|
+*Guh gah...#|
 
+*Ho sentito la voce# di mio Papà venire# dalle montagne.#_*Ma le montagne sono# oltre la città di# Ennea.#_*È così lontana che# non posso fare un# viaggio del genere.#|
 
 
 
@@ -464,31 +480,15 @@ Errore di sistema!!!#|
 
 
 
+*Oh?  Pare tu non# abbia abbastanza# soldi.#|
 
+*Non hai abbastanza# soldi. Torna quando# li avrai.#|
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Quanto vorresti# prelevare?#|
+*Quanto vorresti# depositare?#|
 
 
 
@@ -562,8 +562,8 @@ Errore di sistema!!!#|
 
 
 
-
-
+*Oh! non sei qui per# far visita a un# paziente?#_*Se sei il paziente,# sei pregato di# tornare nel retro.#|
+*Mi spiace, qui non# c'è nessun paziente# che si chiama così.#|
 
 
 
@@ -706,7 +706,7 @@ Errore di sistema!!!#|
 *Spiacente, ma non# hai abbastanza# denaro.#|
 *Oh no, non hai# tutti quei soldi.#|
 
-
+*Ecco a te!# Ho sistemato tutto# come un vero esperto.#
 
 
 *¹£@ ha# memorizzato la# melodia.#|
@@ -810,7 +810,7 @@ Errore di sistema!!!#|
 
 
 
-
+*   Palude - EST#|
 
 
 
@@ -840,7 +840,7 @@ Errore di sistema!!!#|
 
 
 
-
+*Il teletrasporto non# è un Potere Psichico# con cui si scherza.#|
 
 
 
@@ -1225,7 +1225,7 @@ Attacco ripetuto!|
 |
 *¹°` ha recuperato#*³ª|§| PS.#|
 *¹°` ha recuperato#*³ª|§| PP.#|
-*¹°` ha guadagnato#*³ª|§| di ENERGIA.#|
+*¹°` ha guadagnato#*³ª|§| di LOTTA.#|
 *¹°` ha guadagnato#*³ª|§| di VELOCITÀ.#|
 *¹°` ha guadagnato#*³ª|§| di SAGGEZZA.#|
 *¹°` ha guadagnato#*³ª|§| di VIGORE.#|
