@@ -166,15 +166,15 @@ Errore di sistema!!!#|
 
 
 
+*Zzzzzzzzzzzz...#|
 
 
 
 
+*......#|
 
 
-
-
-
+*Oh! Giegue!#|
 
 
 
@@ -190,7 +190,7 @@ Errore di sistema!!!#|
 
 
 *Bene, il tuo saldo# è di $³+[_|.#_*Quanto vuoi# prelevare?#|
-
+*Ecco...# Prendi qui.#|
 *Ahi, non ci sono# tutti quei soldi# sul tuo conto.#|
 *Io sono un uomo# dimenticato. Non# sono davvero qui.#_*Non dovevi notarmi...#_*Meglio se mi ignori# e basta.#|
 
@@ -682,14 +682,14 @@ Errore di sistema!!!#|
 *Biglietti, prego.# Per entrare serve# un Biglietto.#|
 
   Lascia   Prendi|
+*Non hai niente.#|
+*Non mi hai# lasciato nulla.#|
 
-
-
-
-
-
-
-
+*Posso aiutarti?#|
+*Il tuo saldo è# insufficiente.#|
+*Non ci sono# abbastanza soldi.#|
+*Spiacente,#_*la transazione# richiesta va oltre# il tuo limite.#|
+*Molte grazie.#|
 *¹£@ ha trovato# un vecchio carillon# dentro la bambola.#_*Appena il carillon# viene caricato...#_*Una melodia inizia# a suonare.#|
 *?#|
 *Grazie.#|
@@ -704,7 +704,7 @@ Errore di sistema!!!#|
   Continua Riposa|
 *¹£@ ha preso# la cornetta.#|
 *Spiacente, ma non# hai abbastanza# denaro.#|
-
+*Oh no, non hai# tutti quei soldi.#|
 
 
 
@@ -796,13 +796,13 @@ Errore di sistema!!!#|
 *Era vuoto.#|
 
 *  Zoo Cittadino#        NORD#_*    Sperduzia#        SUD#|
-
+*Divieto di caccia -# Nei pressi:#_*Il Villaggio Canarino# Riserva Naturale#|
 *Municipio#   Comune di Sperduzia#|
-
-
-
-
-
+*Torre di Avvistamento#         OVEST#     Porto    NORD#|
+*      Ennea#       OVEST#_*   Monte Itoi#        EST#|
+* Casa del Guaritore#        OVEST#_* Oltre il ponte...#      Cimitero#_*Lasciate ogni# speranza o voi# ch'entrate!#|
+*    Sperduzia#       OVEST#_*    Auguronia#        EST#|
+*    Zoo Cittadino#       700 metri#         OVEST#|
 
 
 * Scuola Elementare#     Scintilla#        SUD#|
@@ -860,48 +860,48 @@ Errore di sistema!!!#|
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+”Sacca Grande”#*Una sacca riempita# di Erba Magica.#|
+”Scheda Telefonica”#*USA questa pratica# carta per effettuare# le tue telefonate.#|
+”Briciole di Pane”#*Seguendole,#_*ritornerai al punto# in cui hai cominciato# a seminarle.#|
+”Anello Repellente”#*Uno sguardo a questo# strano anello terrà#_*alla larga i nemici# più deboli.#|
+”Coltello da Burro”#*¹¡] può# padroneggiarlo.#|
+”Coltello da# Sopravvivenza”#_*Ehi ¹¡], questo è# più forte di un# normale Coltello.#|
+”Spada”#*Per coloro che sono# in grado di# padroneggiarla.#|
+”Catana”#*Questa spada# giapponese è la#_*migliore che ¹¡]# abbia mai visto.#|
+”Pistola Stordente”#*¹x[# sembra essere capace# di USArla.#|
+”Pistola ad Aria”#*Un'arma potente,#_*ma solo ¹x[# sembra essere capace# di USArla.#|
+”Mazza di Plastica”#*Quest'arma va bene# per  ¹÷[. USAla!#|
+”Mazza di Legno”#*USA quest'arma per# lottare contro nemici# deboli, ¹÷[!#|
+”Mazza di Alluminio”#*Con quest'arma# ¹÷[ può#_*facilmente lottare# contro nemici più# forti.#|
+”Mazza di Hank”#*Questa straordinaria#_*mazza è stata# autografata di# persona.#|
+”Padella”#*¹8[ può USAre# quest'arma al meglio.#|
+”Padella Antiaderente”#*Un'arma buona per# ¹8[, senza sporco da# lavar via.#|
+”Padella di Ferro”#*¹8[ può USAre# questa pesante#_*padella di metallo# per percuotere i# nemici forti.#|
+”Fionda”#*Un'arma pratica che# potrebbe USAre# chiunque.#|
+”Bumerang”#*Fa' attenzione,# non è un giocattolo.#_*Tutti possono USArlo# come arma.#|
+”Insetticida”#*Ha un effetto# urticante sugli# insetti.#|
+”Super Spray”#*Insetticida# incredibilmente# efficace.#|
+”Sacco di Pulci”#_*Un sacco pieno di# pulci e di altre# bestioline cattive.#_*Lancialo su un nemico# e vedi che succede!#|
+”Parole Dolci”#*???#|
+”Parole Dure”#*???#|
+”Macchina Adesiva”#*Sembra vada usata per# combattere, ma...#|
+”Torcia Buia”#*Una torcia al# contrario.#|
+”Lanciafiamme”#*Abbrustolisce i# nemici, ma solo se è# ¹x[ ad usarlo.#|
+”Bomba”#*Forse solo ¹x[# può farla esplodere.#|
+”Super Bomba”#*Sul lato c'è scritto#_*”Pericolo di# esplosione”,#_*può essere usato# solo da ¹x[.#|
+”Raggio Laser”#*Aiuta quella# femminuccia di# ¹x[.#|
+”Raggio al Plasma”#*Aiuta di molto# quell'imbranato di# ¹x[.#|
+”Corda”#*Usala per legare# il nemico.#|
+”Moneta della Pace”#*Dopo averla USAta la# DIFESA salirà un# pochino.#|
+”Moneta di Protezione”#*Dopo averla USAta la# DIFESA salirà.#|
+”Moneta Magica”#*Dopo averla USAta la# DIFESA salirà molto.#|
+”Anello d'Ottone”#*Dopo averlo USAto la# DIFESA salirà un po'.#|
+”Anello d'Argento”#*Dopo averlo USAto la# DIFESA salirà.#|
+”Anello d'Oro”#*Dopo averlo USAto la# DIFESA salirà molto.#|
+”Ciondolo H2o”#*USArlo ti difenderà# da PK Fuoco.#|
+”Ciondolo Fuoco”#*USArlo ti difenderà# da PK Gelo.#|
+”Ciondolo Terra”#*USArlo ti difenderà# da PK Tuono.#|
+”Ciondolo Mare”#*USArlo ti difenderà# da qualsiasi# attacco PSI.|
 ”Succo d'arancia”#*La vitamina C va# sempre bene per# un po' di PS.#|
 
 
@@ -939,9 +939,9 @@ Errore di sistema!!!#|
 ”Arma Finale”#*???#|
 ”Righello”#*Da 30 centimetri.#|
 ”Carta di debito# di ¹÷[”#*Per tutte le tue# necessità economiche.#|
-
-
-
+”Erba Rossa”#*Sembra semplice erba,# ma...#|
+“Megafono“#*La tua voce# amplificata potrebbe# intimidire il nemico.#|
+”Debug”#*.......#|
 
 
 
