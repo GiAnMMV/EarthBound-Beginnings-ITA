@@ -375,7 +375,7 @@ Errore di sistema!!!#|
 *Mamma!!# Mi manchi!!!#|
 *Papà!!# Mi manchi!!!#|
 *Una grande nave# venuta dal cielo ha# preso Mamma e Papà.#|
-
+*È meglio senza gli# adulti in giro,# secondo me.#_*Proprio così.# Sob, sob...#|
 *Prendimi in braccio,# per favore!#|
 *Prendi in braccio# anche me!#|
 *Prendimi in braccio!#|
@@ -383,7 +383,7 @@ Errore di sistema!!!#|
 *Oh, sì.  Mi chiamo# Tom Garrickson.#_*Mi piace presentarmi.# È la mia passione.#|
 *Mamma mi ha detto che# questo bebè ha poteri# mistici.#|
 *Guh gah...#|
-
+*Sì, sebbene il mio# corpo sia quello# di un bebè,#_*posseggo abilità# psichiche, come te.#_*Conosco il potere# del Teletrasporto.#_*Usa questo potere per# tornare in un posto# che hai già visitato.#_*(Il bebè ha insegnato# loro il potere del# Teletrasporto)#|
 *Ho sentito la voce# di mio Papà venire# dalle montagne.#_*Ma le montagne sono# oltre la città di# Ennea.#_*È così lontana che# non posso fare un# viaggio del genere.#|
 
 
@@ -1257,13 +1257,13 @@ Attacco ripetuto!|
 ”Questa è una copia illegale#di un gioco Nintendo. L'uso,#il possesso o la vendita di#questa cartuccia contraf-#fatta è illegale e infrange#i diritti di copia di#Nintendo.”#          Nintendo Co., Ltd.#          Kyoto, Giappone /#          Redmond WA, SUA.#”Questa copia illegale di#NES EARTH BOUND smetterà#di funzionare.”#|
  # # # #|
 Sulla sommità del Mt. Itoi,#¹8[ si riunisce con sua#mamma e gli altri terrestri#liberati scappano.#|
-
+ ¹¡], ora in piena# salute, canta ogni giorno# a Lo Spettacolo Dal Vivo.#|
   Gli adulti rapiti fanno#  ritorno dai loro amati#  figli a Bambinia.#|
 (¹8[)#Prometto che non mi scorderò#di voi quindi non dico Addio#ma solo - alla prossima!#|
 ¹x[ riceve un bentornato#da eroe alla Scuola#Elementare Scintilla.#|
 Figliolo, le tue sorelle ed#io siamo contentissime di#rivederti tutto intero. È#incredibile non abbia fame.#|
  Una lettera da ¹÷[,# mi manca tantissimo.# Spero di rivederlo presto.#|
- Beh, ora che la Terra non# è più in crisi credo che# mi sdraierò qui un attimo# e poi Zzzzzzzzz#|
+ Beh, ora che la Terra non# è più in pericolo credo che# mi sdraierò qui un attimo# e poi Zzzzzzzzz#|
  Lo so che il ragazzo è a# casa. Dai figliolo vieni# a rispondere. Qualcosa di# nuovo è accaduto e...#|
 ¹°[|
 SHIGESATO ITOI|
@@ -1288,7 +1288,7 @@ KEIZOH KATOH|
 MOTOHIRO ISHII|
 AKIHITO TODA|
 YUKARI SAITOH|
-PHIL SANDHOP|
+GIAN MMV|
 TOSHIKO WATSON|
 YUKA NAKATA|
 HIROKO FAULKNER|
