@@ -916,13 +916,13 @@ Errore di sistema!!!#|
 
 
 
-
+”Caramella Magica”#*Se quella femminuccia# la MANGIA guadagna# un po' di LOTTA.#|
 ”Pillola Rapida”#*Prenderla aumenta# la VELOCITÀ.#|
 ”Pillola Saggia”#*Prenderla aumenta# la SAGGEZZA.#|
 ”Pillola Fisica”#*Prenderla aumenta# il VIGORE.#|
 ”Pillola Forte”#*Prenderla aumenta# la FORZA.#|
 ”Pillola Combattiva”#*Prenderla aumenta# la LOTTA.#|
-
+”Chiave della Cantina”#*USA questa Chiave per# aprire la porta della# cantina.#|
 
 
 
@@ -1060,12 +1060,12 @@ Attacco ripetuto!|
 #La battaglia è#stata persa.#|
 
 
+ ¹É&# non era più lì.|
+ Non ha avuto effetto# su ¹É&.|
 
 
 
-
-
-
+La forma dell'attacco#di ¹à& era#inspiegabile!|
 
  “Tua madre ti#  sta chiamando!”|
 
@@ -1075,18 +1075,18 @@ Attacco ripetuto!|
 
 
 
-
-
-
-
+ L'ATTACCO di# ¹É& è# aumentato di ³®&§|.|
+ L'ATTACCO di# ¹É& è# diminuito di ³®&§|.|
+ La DIFESA di# ¹É& è# aumentata di ³®&§|.|
+ La VELOCITÀ di# ¹É& è# aumentata di ³®&§|.|
 > ATTACCO ³®&§|.|
 > DIFESA ³™&§|.|
+ La LOTTA di# ¹É& è# diminuita di ³®&§|.|
+ La DIFESA di# ¹É& è# diminuita di ³®&§|.|
 
+ La LOTTA di# ¹É& è# diminuita di ³®&§|.|
 
-
-
-
-
+ La VELOCITÀ di# ¹É& è# diminuita di ³®&§|.|
 
 
 
@@ -1190,24 +1190,24 @@ Attacco ripetuto!|
 
 
 
+(¹£@ sente la voce#della Regina Mary)#_Giegue non può essere#sconfitto con la#forza...#_Non potete sconfiggere#Giegue con nessun#tipo di arma.#_Dovete CANTAre la mia#ninna nanna, con tutta#la vostra passione...#_CANTAte la mia ninna#nanna con tutto il#cuore.#_§
+¹÷[!#_ Sono grato alla# tua famiglia.#_§
+ I tuoi bisnonni,# George e Maria,# mi hanno cresciuto.#_§
+ Ma George rubò# dal nostro pianeta#_ informazioni vitali,# utilizzabili per#_ tradire la mia# gente...#_§
+ E adesso, uno dei suoi# discendenti#_ sta ostacolando# i nostri programmi#_ e deve essere# fermato!!#_ ¹÷[!# Mi riferisco a te!#_§
+ Vai a casa, ora!#_ Perisci, insieme a# tutti gli altri#_ disgustosi terrestri.#_§
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Smettetela di cantare.|
+ SMETTETELA di cantare!|
+ SMETTETELA!# Basta con quella# canzone!|
+ BASTA!!# SMETTETELA DI# CANTARLA!|
+ Miserabili, piccoli# insetti terrestri!# State zitti e# SMETTETELA!!|
+ Quella CANZONE...|
+ BASTA!!!|
  !!!!!|
-
+ Basta...# Baaasta, vi prego!|
  !!!!!!!|
  ........|
 
