@@ -39,7 +39,7 @@ Errore di sistema!!!#|
 *Qualcuno deve# avere il controllo# dei morti.#|
 *Sei stato bravo,# giovanotto.#|
 *Gli zombi potrebbero# essere in qualunque# parte del paese.#|
-*Quel pulcino di# canarino viene dal# Villaggio Canarino?#|
+*Quel Pulcino di# Canarino viene dal# Villaggio Canarino?#|
 *Uhm.#|
 *I pulcini al# Villaggio Canarino# hanno delle voci# incantevoli.#|
 *Il signore del# Villaggio Canarino# è il mio idolo.#|
@@ -53,14 +53,14 @@ Errore di sistema!!!#|
 *Gli animali sono# impazziti e stanno# scappando,#_*per cui lo Zoo# è stato chiuso.#|
 *C'è del pane raffermo# se vuoi MANGIAre,#_*ma usando le sue# Briciole puoi segnare# il tuo sentiero.#_*Dici che sto# parlando troppo?# È così?#|
 *Cittadino, so# che vorresti soltanto# aiutare la città.#|
-*Dunque...# Un bimbo si è# perso nel cimitero.#_*Ed io...# candidando per le# prossime elezioni.#_*Devi aiutarmi!# Ti prego!#|
+*Dunque...# Una bimba si è# persa nel cimitero.#_*Ed io... mi sto# candidando per le# prossime elezioni.#_*Devi aiutarmi!# Ti prego!#|
 *Uh!?# Andrai lì# per salvarla?#|
-*Ma lei è la ragazza# perduta, Pippi?#_*Beh ma è# favoloso.#_*Sapevo che avresti# compiuto il tuo# dovere da cittadino.#_*Applausi,# applausi...#_*Ora piccola Pippi,# non dimenticare...#_*di dire a mamma# che il Sindaco# ti ha salvata.#_*Tieni, ti do# ¹£@ un premio di# ³ª|§|.#|
+*Ma lei è la ragazza# perduta, Pippi?#_*Beh ma è# favoloso.#_*Sapevo che avresti# compiuto il tuo# dovere da cittadino.#_*Applausi,# applausi...#_*Ora piccola Pippi,# non dimenticare...#_*di dire a mamma# che il Sindaco# ti ha salvata.#_*Ecco, ti do# ¹£@ un premio di# ³ª|§|.#|
 *A proposito, eroe,#_*forse ti piacerebbe# andare a vedere# che succede allo Zoo?#|
-*Sì, ci andrai?# Fantastico, fantastico# fantastico!#_*Assicurati di prendere# una chiave dal mio# assistente, Abbott.#|
-*Questa chiave aprirà il# cancello dello zoo.# Non perderla.#|
-*Restituiscimela viva,# e sicuramente# sarò un eroe...#_*Ehm, umh, voglio dire# sarai un eroe.#|
-*Perché se non è il# nostro eroe ¹£@,#_*Hai dello sterco di# tigre sui tuoi# vestiti?#_*Ha-ha, sto solo# scherzando. Adesso vai# ragazzo.#|
+*Sì, ci andrai?# Fantastico, mitico# grandioso!#_*Assicurati di prendere# una Chiave dal mio# assistente, Abbott.#|
+*Questa Chiave apre il# cancello dello zoo.# Non perderla.#|
+*Riportamela viva,# e sicuramente# sarò un eroe...#_*Ehm, uhm, voglio dire# sarai un eroe.#|
+*Perché se non è il# nostro eroe ¹£@,#_*Hai dello sterco di# tigre sui tuoi# vestiti?#_*Ha-ha, sto solo# scherzando. Ora vai# ragazzo.#|
 *Ho sentito delle# voci su una# ragazza prodigiosa.#_*Ti aiuterà# nel tuo viaggio.#|
 *Le chiavi dello Zoo# te le tirano dietro,# prendine un'altra.#|
 *Dai un'occhiata,# tutti gli animali# sono scappati.#|
@@ -68,28 +68,28 @@ Errore di sistema!!!#|
 *Uhm, che ne dici di# $³ª|§|?#|
 *OK ragazzo, siamo# in un paese libero,# d'altronde.#|
 *Prenditene cura.# Torna a trovarci!#|
-*Se è gratis,# lo vuoi?# E prenditelo!#|
-*Come sta il canarino?#|
-*Credo che qualcosa# stia controllando# gli animali.#|
+*Se è gratis,# lo vuoi?# Prenditelo e basta!#|
+*Come sta il Canarino?#|
+*Credo che qualcosa# abbia il controllo# degli animali.#|
 *Ah... che animaletti# adorabili, vero?#|
 *Mmmm.#|
 *Pezzo di idiota!#|
-*Come posso aiutarti?# Hai qualcosa# da restituire?#|
+*Come posso aiutarti?# Hai qualcosa# da darmi?#|
 *Aspetta.. Una voce sta# parlando nella# mente di ¹£@.#|
 *Bene.#|
-*Grazie per# i vostri acquisti# con noi.#|
-*Com'è comodo che# lo sportello Bancomat#_*sia qui accanto# al bancone, ma perché#_*dovrebbe interessarmi?# Non ho nemmeno una# carta da usare.#|
+*Grazie per aver# fatto acquisti# da noi.#|
+*Com'è comodo che lo# sportello automatico#_*sia qui accanto# al bancone, ma perché#_*dovrebbe interessarmi?# Non ho nemmeno una# carta da usare.#|
 *Oggi il cielo# è sereno.# Però, non m'importa.#|
-*Ooh! Quel canarino# è il pulcino di# Laura cantante.#_*Le ridarai il# suo piccolo?#|
-*Momento...#_*Ti sei appena perso# qualcosa di molto# importante.#|
-*Dov'è Laura?...#|
-*Laura si ricordò# la sua canzone, ed iniziò# a cantarla nuovamente.#_*Hai appreso# la melodia?#|
+*Ooh! Quel canarino# è il pulcino di# Laura canterina.#_**Vuoi ridarle il# suo piccolo?#|
+*Un momento...#_*Ti sei appena perso# qualcosa di molto# importante.#|
+*Dove sarà Laura?...#|
+*Laura si è ricordata# la sua canzone, ed ha# iniziato a cantarla#_* di nuovo. Hai appreso# la melodia?#|
 *Non ci siamo.#|
 *Il fatto è che...# c'è del potere# nella canzone.#|
 *Ciao! Io sono Pippi,# e mi sono smarrita.#_*Sei stato molto# coraggioso a# ritrovarmi.#|
-*Non darti tutte# queste arie.# Ha-ha-ha.#|
-*Sei coraggioso.# speriamo di# incontrarci ancora.#|
-*Sono così felice!  Per# ringraziarti prendi# questo regalo.#_*Un emblema che# ti proteggerà.# Ecco, tieni!#|
+*Non darti tutte# queste arie.# Ah-ah-ah.#|
+*Sei coraggioso.# Spero di# incontrarti ancora.#|
+*Sono così felice!  Per# ringraziarti prendi# questo regalo.#_*Una Medaglia che# ti proteggerà.# Ecco, tieni!#|
 *Probabilmente# hai già# qualcuno di speciale,#|
 *È giunta l'ora# di salutarci.#_*Passa a trovarmi# qualche volta, non# vedo l'ora#_*di rivederti.# Ad ogni modo...#_*Pensi che io# debba rifarmi# l'acconciatura?#|
 *Non serviva che# tu rispondessi, tesoro.#|
