@@ -1,20 +1,20 @@
 |
 SaccaGrande|
-SchedaTele.|
+SchedaTelef|
 Briciole|
-Anel.Repel.|
+Anel.Repell|
 Colt.Burro|
-Coltel.Sop.|
+Coltel.Sopr|
 Spada|
 Catana|
-Pist.Stord.|
+Pist. Stord|
 PistolaAria|
-MazzaPlast.|
+Mazza Plast|
 Mazza Legno|
-MazzaAllum.|
+Mazza Allum|
 MazzaDiHank|
 Padella|
-Pad.Antiad.|
+Pad. Antiad|
 Padel.Ferro|
 Fionda|
 Bumerang|
@@ -23,19 +23,19 @@ Super Spray|
 Sacco Pulci|
 ParoleDolci|
 Parole Dure|
-Macch.Ades.|
+Macch. Ades|
 Torcia Buia|
-PietraOrig.|
-AgoAvvelen.|
-Lanciafiam.|
+SassoOrigin|
+Ago Avvelen|
+Lanciafiamm|
 Bomba|
 Super Bomba|
 RaggioLaser|
 Ragg.Plasma|
 Corda|
 Moneta Pace|
-Mon.Protez.|
-Mon.Magica|
+Mon. Protez|
+Mon. Magica|
 Anel.Ottone|
 Anel.Argent|
 Anello Oro|
@@ -62,18 +62,18 @@ Pill.Rapida|
 Pill.Saggia|
 Pill.Fisica|
 Pill.Forte|
-Pil.Combat.|
-ChiaveCant.|
+Pill.Combat|
+Chiave Cant|
 Chiave Zoo|
 ChiaveF.sma|
-DiarioBnon.|
-Lasciapass.|
+Diario B.no|
+Lasciapass|
 Biglietto|
-Pulc.Canar.|
+Canarino|
 Razzetto|
 Cappello|
 Dentiera|
-Matr.Bigl.|
+MatriceBigl|
 Circuito|
 Ocarina|
 M.Franklin|
@@ -104,7 +104,7 @@ Bambinia|
 Ennea|
 Unità|
 Telepatia|
-Teletrasp.|
+Teletraspor|
 Più Vita α|
 Più Vita β|
 Più Vita γ|
@@ -118,7 +118,7 @@ Super Cura|
 Scudo PSI α|
 Scudo PSI β|
 ScudoFisico|
-CerebroShok|
+CerebroChoc|
 CerebroCaos|
 Ipnosi|
 Paralisi|
@@ -132,7 +132,7 @@ PiùDifesa β|
 PiùVelocità|
 MenoDif. α|
 MenoDif. β|
-Fuga 4aDim.|
+Fuga IV Dim|
 PK Gelo α|
 PK Gelo β|
 PK Gelo γ|
@@ -194,9 +194,9 @@ Legnoso|
 Wally|
 L'Hippie|
 Signora|
-Banda B.B.|
+Membro B.B.|
 Dr.Distorto|
-ZombiMaf.so|
+Zombi Boss|
 PseudoZombi|
 Corvo|
 Serpente|
