@@ -473,9 +473,9 @@ Errore di sistema!!!#|
 
 
 
-
-
-
+*Cosa posso fare# per te?#|
+*Bene, terrò# ¹%` con la# massima cura.#_*Vuoi che tenga# qualcos'altro?#|
+*Ci vediamo,# fratello...# Prenditi cura di te!#|
 
 
 
@@ -544,7 +544,7 @@ Errore di sistema!!!#|
 
 
 
-
+*Sono una scimmia# silenziosa.#_*Non parlo molto.#_*vedi...#_*............#|
 
 
 
@@ -684,7 +684,7 @@ Errore di sistema!!!#|
   Lascia   Prendi|
 *Non hai niente.#|
 *Non mi hai# lasciato nulla.#|
-
+*Un momento...#_*L'armadio è pieno.# Al momento non posso# tenere altro per te.#|
 *Posso aiutarti?#|
 *Il tuo saldo è# insufficiente.#|
 *Non ci sono# abbastanza soldi.#|
@@ -705,15 +705,15 @@ Errore di sistema!!!#|
 *¹£@ ha preso# la cornetta.#|
 *Spiacente, ma non# hai abbastanza# denaro.#|
 *Oh no, non hai# tutti quei soldi.#|
-
+*Non puoi portare# più di quello che# hai già.#_*O perlomeno credo# che non dovresti.#|
 *Ecco a te!# Ho sistemato tutto# come un vero esperto.#
-
-
+*Spiacente, ma non# posso comprare# ¹%` da te.#|
+*Felicissima per# l'incontro, Laura ha# iniziato a cantare.#|
 *¹£@ ha# memorizzato la# melodia.#|
 *Il canarino sta# cantando.#|
 *La scimmia ha rubato# la Chiave dello Zoo.#|
 
-
+*Avvertendo la# presenza di ¹÷[,# il robot è tornato# in vita.#|
 *³ª|§| per# ¹|`.#|
 *Fai del tuo meglio.#|
 
@@ -860,7 +860,7 @@ Errore di sistema!!!#|
 
 
 
-”Sacca Grande”#*Una sacca riempita# di Erba Magica.#|
+”Sacca Grande”#*Una sacca riempita# di Erbe Magiche.#|
 ”Scheda Telefonica”#*USA questa pratica# carta per effettuare# le tue telefonate.#|
 ”Briciole di Pane”#*Seguendole,#_*ritornerai al punto# in cui hai cominciato# a seminarle.#|
 ”Anello Repellente”#*Uno sguardo a questo# strano anello terrà#_*alla larga i nemici# più deboli.#|
@@ -903,19 +903,19 @@ Errore di sistema!!!#|
 ”Ciondolo Terra”#*USArlo ti difenderà# da PK Tuono.#|
 ”Ciondolo Mare”#*USArlo ti difenderà# da qualsiasi# attacco PSI.|
 ”Succo d'arancia”#*La vitamina C va# sempre bene per# un po' di PS.#|
-
-
-
-
-
-
-
-
-
-
-
-
-
+”Patatine Fritte”#*Alzeranno i tuoi PS# se MANGIAte, sia# con che senza salsa.#|
+”Erbe Magiche”#*Se sei stanco o# ferito, USAla.#|
+”Hamburger”#*Pasto veloce per# PS veloci.#|
+”Bibita Sportiva”#*Per quanto tu sia# stanco, una bottiglia# ti rinvigorirà.#|
+”Pomata della Vita”#*USAta per curare# le ferite.#|
+”Inalatore per l'Asma”#*USAlo quando l'asma# di ¹÷[ colpisce.#|
+”Antidoto”#*Neutralizza il# veleno con rapidità.#|
+”Collutorio”#*Se farai i gargarismi# con questo ti passerà# il raffreddore.#|
+”Tofu alla Fragola”#*Se davvero vuoi# mangiarlo fai pure,# ma...#|
+”Pane”#*Va bene da mangiare,# ma puoi anche usare#_*le sue BRICIOLE per# segnare il tuo# percorso.#|
+”Seme Nobile”#*USAlo per# neutralizzare il# Seme Maligno.#|
+”Sasso PSI”#*Potere PSI in forma# solida.#|
+”Fiocco Magico”#*Con questo la FORZA# salirà un po'.#_*Solo una ragazza può# legarselo ai capelli.#|
 ”Caramella Magica”#*Se quella femminuccia# la MANGIA guadagna# un po' di LOTTA.#|
 ”Pillola Rapida”#*Prenderla aumenta# la VELOCITÀ.#|
 ”Pillola Saggia”#*Prenderla aumenta# la SAGGEZZA.#|
@@ -923,24 +923,24 @@ Errore di sistema!!!#|
 ”Pillola Forte”#*Prenderla aumenta# la FORZA.#|
 ”Pillola Combattiva”#*Prenderla aumenta# la LOTTA.#|
 ”Chiave della Cantina”#*USA questa Chiave per# aprire la porta della# cantina.#|
-
-
-
-
-
-
-
-
-
-
-
+”Chiave dello Zoo”#*Questa Chiave apre il# cancello principale# dello Zoo Cittadino.#|
+”Chiave della Casa# Infestata”#_*Questa è la Chiave# per la casa di# Rosemary.#|
+”Diario del Bisnonno”#*È vecchio,# logoro e pieno# di annotazioni.#|
+”Lasciapassare”#*Sopra c'è scritto:# ”Impiegato alla# Fabbrica Duncan”.#|
+”Biglietto”#*Sopra c'è scritto:#_*”Rock'n Roll tutta# la notte e tutti i#_*giorni da Il Vivo# Dello Spettacolo”.#|
+”Pulcino di Canarino”#*Si vede tristezza# nei suoi occhi.#|
+”Razzetto”#*¹x[ sa usarlo,# a quanto pare.#|
+”Cappello”#*Un grazioso cappello# con il nome ¹8[# ricamato sopra.#|
+”Dentiera”#*Lavati i denti, usa# il filo interdentale,#_*vai dal dentista e# non ne avrai bisogno.#|
+”Matrice di Biglietto”#*Sopra c'è scritto:#_*”Conservane dieci per# un giro omaggio sul# carrarmato”.#|
+”Ocarina”#*Può suonare un# motivo orecchiabile.#|
 ”Medaglia Franklin”#*Secondo una leggenda# Benjamin Franklin#_*indossava questa# medaglia riflettente#_*nei suoi esperimenti# con i fulmini.#|
 ”Becco di Onice”#*Finché lo terrai con# te potrai viaggiare# verso Magicandia.#|
 ”Arma Finale”#*???#|
 ”Righello”#*Da 30 centimetri.#|
 ”Carta di debito# di ¹÷[”#*Per tutte le tue# necessità economiche.#|
 ”Erba Rossa”#*Sembra semplice erba,# ma...#|
-“Megafono“#*La tua voce# amplificata potrebbe# intimidire il nemico.#|
+”Megafono”#*La tua voce# amplificata potrebbe# intimidire il nemico.#|
 ”Debug”#*.......#|
 
 
@@ -1044,7 +1044,7 @@ Volteggia in aria!|
 
 
 
-
+Il più forte degli#Astruomini.|
 °^«² ¿°^»² ¿|
 ¹à&#si avvicina!|
 ¹à& attacca!|
@@ -1067,7 +1067,7 @@ Attacco ripetuto!|
 
 La forma dell'attacco#di ¹à& era#inspiegabile!|
 
- “Tua madre ti#  sta chiamando!”|
+ ”Tua madre ti#  sta chiamando!”|
 
 
 
@@ -1083,11 +1083,11 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
 > DIFESA ³™&§|.|
  La LOTTA di# ¹É& è# diminuita di ³®&§|.|
  La DIFESA di# ¹É& è# diminuita di ³®&§|.|
-
+¹à& ha fatto#un sorriso dolce.|
  La LOTTA di# ¹É& è# diminuita di ³®&§|.|
-
+¹à& ha dato#in escandescenze!|
  La VELOCITÀ di# ¹É& è# diminuita di ³®&§|.|
-
+¹à& ha#confuso ¹É&!|
 
 
 
@@ -1103,7 +1103,7 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
  ¹É& ha perso# i sensi.|
 ¹à& è molto#confuso/a.|
 
-
+¹à& sta#dormendo.|
 
 
 
@@ -1113,6 +1113,7 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
 ¹à& è#scappato/a!|
 ...Ma non ha#funzionato.|
 
+¹à& non#riesce a muoversi.|
 
 
 
@@ -1122,18 +1123,17 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+ Bersaglio mancato!!|
+ Ma i poteri PSI# erano bloccati.|
+ Ma la Med. Franklin# di ¹É& ha# rimbalzato il Raggio!|
+ ¹É& ha# rimbalzato l'attacco!|
+ PP insufficienti.|
+ Non ha avuto effetto# su ¹É&.|
+¹à& ha avuto#un attacco d'asma.#Uff...|
+¹à& sta#meditando.|
+¹à& ha detto#”Ciao” e se n'è#andato.|
+¹à& è pronto#all'attacco.|
+¹à& ha cantato#la canzone!|
 ¹à& sta#in guardia.|
 
 
@@ -1161,9 +1161,9 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
  ”Ti detesto.”|
  ¹É& ha avuto# un attacco d'asma.|
 
-
-
-
+¹à& ha usato#il Seme Maligno!|
+¹à& ha usato#un gas paralizzante!|
+ ¹®& si è# pietrificato/a.|
  ¹É& è# tornato/a in sé!|
  ¹É& si è# calmato/a!|
 
@@ -1183,24 +1183,24 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
  Il VIGORE è# aumentato di ³¨|#|.#_§
  La FORZA è# aumentata di ³©|#|.#_§
 
-
-
+Hai preso ¹%`!#_§
+ ¹É& non era# più confuso/a!|
 
 
 
 
 
 (¹£@ sente la voce#della Regina Mary)#_Giegue non può essere#sconfitto con la#forza...#_Non potete sconfiggere#Giegue con nessun#tipo di arma.#_Dovete CANTAre la mia#ninna nanna, con tutta#la vostra passione...#_CANTAte la mia ninna#nanna con tutto il#cuore.#_§
-¹÷[!#_ Sono grato alla# tua famiglia.#_§
+ ¹÷[!#_ Sono grato alla# tua famiglia.#_§
  I tuoi bisnonni,# George e Maria,# mi hanno cresciuto.#_§
  Ma George rubò# dal nostro pianeta#_ informazioni vitali,# utilizzabili per#_ tradire la mia# gente...#_§
- E adesso, uno dei suoi# discendenti#_ sta ostacolando# i nostri programmi#_ e deve essere# fermato!!#_ ¹÷[!# Mi riferisco a te!#_§
+ E adesso, uno dei# suoi discendenti#_ sta ostacolando# i nostri programmi#_ e deve essere# fermato!!#_ ¹÷[!# Mi riferisco a te!#_§
  Vai a casa, ora!#_ Perisci, insieme a# tutti gli altri#_ disgustosi terrestri.#_§
-
-
-
- Smettetela di cantare.|
- SMETTETELA di cantare!|
+ Stolto, non puoi# fare niente con#_ i tuoi scarni# poteri...#_ Poteri all'altezza# di un misero insetto.#_§
+ ¹÷[!# Solo te.#_ Potrei salvarti,# ma soltanto te.#_ Sali a bordo# della Nave Madre# insieme a me.#_§
+ ...e allora, cadi in# un lungo sonno#_ insieme ai tuoi amici#_ e a tutti gli altri# disgustosi terrestri.#_§
+ Smettetela di# cantare.|
+ SMETTETELA di# cantare!|
  SMETTETELA!# Basta con quella# canzone!|
  BASTA!!# SMETTETELA DI# CANTARLA!|
  Miserabili, piccoli# insetti terrestri!# State zitti e# SMETTETELA!!|
@@ -1210,9 +1210,9 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
  Basta...# Baaasta, vi prego!|
  !!!!!!!|
  ........|
-
-
-
+ Come ho potuto# farmi sconfiggere#_ da una canzone# del genere?#_§
+ Un giorno...# io...#_§
+ ¹÷[!# Ci rivedremo,# stanne CERTO!#_§
 *¹°` non ha# fatto nulla.#|
 *¹°` ha dato# ¹⁴` a# ¹|`.#|
 *¹°` ha messo# ¹⁴` nello# zaino di ¹|`.#|
@@ -1244,12 +1244,12 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
 
 
 *¹°` ha provato# ¹⁴`.#|
+*Non rimane abbastanza# potere per provarlo.#_
+*¹°` è# tornato/a in# scena.#_
 
-
-
-
-
-
+*¹a|` si è# ammorbidito/a.#|
+*L'Ocarina ha# iniziato a suonare# senza sosta...#|
+*L'hai sentita?#|
 *Questo posto non è# sulla mappa.#|
 *¹£@ ha guardato# la mappa.#|
 *Una qualche forza# misteriosa ti ha# bloccato.#|
@@ -1257,7 +1257,7 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
 ”Questa è una copia illegale#di un gioco Nintendo. L'uso,#il possesso o la vendita di#questa cartuccia contraf-#fatta è illegale e infrange#i diritti di copia di#Nintendo.”#          Nintendo Co., Ltd.#          Kyoto, Giappone /#          Redmond WA, SUA.#”Questa copia illegale di#NES EARTH BOUND smetterà#di funzionare.”#|
  # # # #|
 Sulla sommità del Mt. Itoi,#¹8[ si riunisce con sua#mamma e gli altri terrestri#liberati scappano.#|
- ¹¡], ora in piena# salute, canta ogni giorno# a Lo Spettacolo Dal Vivo.#|
+ ¹¡], ora in piena# salute, canta ogni giorno# a Il Vivo Dello Spettacolo.#|
   Gli adulti rapiti fanno#  ritorno dai loro amati#  figli a Bambinia.#|
 (¹8[)#Prometto che non mi scorderò#di voi quindi non dico Addio#ma solo - alla prossima!#|
 ¹x[ riceve un bentornato#da eroe alla Scuola#Elementare Scintilla.#|
