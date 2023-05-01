@@ -714,7 +714,7 @@ System Error!!!#|
 *The monkey stole# the Zoo Key.#|
 *The robot appeared# old and rusty.#|
 *Feeling ¹÷['s# presence, the robot# came back to life.#|
-*³ª|§| per# ¹|`.#|
+*³ª|§| for# ¹|`.#|
 *Do your best.#|
 *Your strength has# revived by touching#_*the fountain's# mysterious water.#|
 *Oh my, little# Pippi!  You're# back and safe!#_*Thank you for# finding her,# ¹÷[!#_*By the way, the# Town Mayor is# waiting for you...#_*Pippi, go with# ¹÷[, and help# straighten this out.#|
