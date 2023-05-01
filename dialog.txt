@@ -36,90 +36,116 @@ Errore di sistema!!!#|
 *È stato terribile...#|
 *Zombi!#|
 *Ah-ah...# Diventerai uno# Zombiiii!#|
-*Di certo qualcuno# ha il controllo# dei morti.#|
-*Sei stato bravo,# giovine.#|
+*Qualcuno deve# avere il controllo# dei morti.#|
+*Sei stato bravo,# giovanotto.#|
 *Gli zombi potrebbero# essere in qualunque# parte del paese.#|
-*Quel Canarino# Pulcino viene dal# Villaggio Canarino?#|
+*Quel Pulcino di# Canarino viene dal# Villaggio Canarino?#|
 *Uhm.#|
-*I pulcini del# Villaggio Canarino# hanno delle voci# incantevoli.#|
-*Il gentiluomo del# Villaggio Canarino# è il mio idolo.#|
-*Il Sindaco è in# cerca di un uomo# coraggioso.#|
-*Qualcuno ha salvato# la ragazzina che# vagava nel cimitero,# alla fine?#|
-*Vuoi...# Davvero vuoi andare# al cimitero?#|
-*E io che ti# credevo un bambino# ragionevole.#|
-*Gli animali sono# impazziti e fuori# controllo.#_*I morti sono# diventati zombi e#_*si sono messi ad# attaccare la gente.#_*Cosa possiamo fare?#|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*I pulcini al# Villaggio Canarino# hanno delle voci# incantevoli.#|
+*Il signore del# Villaggio Canarino# è il mio idolo.#|
+*Il Sindaco sta# cercando un uomo# audace e impavido.#|
+*La bambina che# si è smarrita nel#_*cimitero è # stata salvata?#|
+*Stai...# S-stai veramente# andando al cimitero?#|
+*Pensavo che fossi# un bimbo ragionevole.#|
+*Gli animali sembrano# impazziti, sono# fuori controllo.#_*I morti sono diventati# zombi e stanno# attaccando la gente.#_*Che possiamo fare?#|
+*Sei grandioso!#|
+*Per caso uno spettro# è venuto a casa tua?#_*A me l'ha distrutta.#|
+*Gli animali sono# impazziti e stanno# scappando,#_*per cui lo Zoo# è stato chiuso.#|
+*C'è del pane raffermo# se vuoi MANGIAre,#_*ma usando le sue# Briciole puoi segnare# il tuo sentiero.#_*Dici che sto# parlando troppo?# È così?#|
+*Cittadino, so# che vorresti soltanto# aiutare la città.#|
+*Dunque...# Una bimba si è# persa nel cimitero.#_*Ed io... mi sto# candidando per le# prossime elezioni.#_*Devi aiutarmi!# Ti prego!#|
+*Uh!?# Andrai lì# per salvarla?#|
+*Ma lei è la ragazza# perduta, Pippi?#_*Beh ma è# favoloso.#_*Sapevo che avresti# compiuto il tuo# dovere da cittadino.#_*Applausi,# applausi...#_*Ora piccola Pippi,# non dimenticare...#_*di dire a mamma# che il Sindaco# ti ha salvata.#_*Ecco, ti do# ¹£@ un premio di# ³ª|§|.#|
+*A proposito, eroe,#_*forse ti piacerebbe# andare a vedere# che succede allo Zoo?#|
+*Sì, ci andrai?# Fantastico, mitico# grandioso!#_*Assicurati di prendere# una Chiave dal mio# assistente, Abbott.#|
+*Questa Chiave apre il# cancello dello zoo.# Non perderla.#|
+*Riportamela viva,# e sicuramente# sarò un eroe...#_*Ehm, uhm, voglio dire# sarai un eroe.#|
+*Chi altri, se non il# nostro eroe ¹£@,#_*avrebbe sterco di# tigre sui suoi# vestiti?#_*Ha-ha, sto solo# scherzando. Fila via# adesso.#|
+*Ho sentito delle# voci su una# ragazza prodigiosa.#_*Ti aiuterà# nel tuo viaggio.#|
+*Le chiavi dello Zoo# te le tirano dietro,# prendine un'altra.#|
+*Dai un'occhiata,# tutti gli animali# sono scappati.#|
+*È rimasto solo questo# Pulcino di Canarino.# Vuoi comprarlo?#|
+*Uhm, che ne dici di# $³ª|§|?#|
+*OK ragazzo, siamo# in un paese libero,# d'altronde.#|
+*Prenditene cura.# Torna a trovarci!#|
+*Se è gratis,# lo vuoi?# Prenditelo e basta!#|
+*Come sta il Canarino?#|
+*Credo che qualcosa# abbia il controllo# degli animali.#|
+*Ah... che animaletti# adorabili, vero?#|
+*Mmmm.#|
+*Pezzo di idiota!#|
+*Come posso aiutarti?# Hai qualcosa# da darmi?#|
+*Aspetta.. Una voce# sta parlando nella# mente di ¹£@.#|
+*Bene.#|
+*Grazie per aver# fatto acquisti# da noi.#|
+*Com'è comodo che lo# sportello automatico#_*sia qui accanto# al bancone, ma perché#_*dovrebbe interessarmi?# Non ho nemmeno una# carta da usare.#|
+*Oggi il cielo# è sereno.# Però, non m'importa.#|
+*Ooh! Quel Canarino# è il Pulcino di# Laura canterina.#_**Vuoi ridarle il# suo piccolo?#|
+*Un momento...#_*Ti sei appena perso# qualcosa di molto# importante.#|
+*Dove sarà Laura?...#|
+*Laura si è ricordata# la sua canzone#_*e ha ricominciato di# nuovo a cantarla.#_*Hai appreso la# melodia?#|
+*Non ci siamo.#|
+*Il fatto è che...# c'è del potere# nella canzone.#|
+*Ciao! Io sono Pippi,# e mi sono smarrita.#_*Sei stato molto# coraggioso a# ritrovarmi.#|
+*Non darti tutte# queste arie.# Ah-ah-ah.#|
+*Sei coraggioso.# Spero di# incontrarti ancora.#|
+*Sono così felice! Per# ringraziarti prendi# questo regalo.#_*Una Medaglia che# ti proteggerà.# Ecco, tieni!#|
+*Probabilmente# hai già# qualcuno di speciale,#|
+*È giunta l'ora# di salutarci.#_*Passa a trovarmi# qualche volta, non# vedo l'ora#_*di rivederti.# Ad ogni modo...#_*Pensi che io# debba rifarmi# l'acconciatura?#|
+*Non serviva che# tu rispondessi, tesoro.#|
+*IIH, UH-UHH, UH-AHH!#|
+*¹£@ ha sentito# questa domanda# nella sua mente.#_*”Chi si è perso# la coda?”#|
+*Cielo! Che strani# vestiti che indossi!#_*Di certo i mostri ti# daranno la caccia con# quegli indumenti!!#|
+*Sei turbato di# essere perseguitato#_*dalla disgrazia# e dallo sconforto?#|
+*Se desideri non# trovarti mai# nei guai...#_*RESTATENE A CASA!!#|
+*È vero?# I problemi# ti inseguono?#_*Mmh, che# peccato.#|
+*Allora, ammetti che# ho un buon gusto.#_*Come?# Vuoi anche tu# un soprannome fico?#|
+
+
+
+*Hai incontrato# l'uomo che pratica# la filosofia?#|
+*Lui è davvero bravo# a dare soprannomi.#_*Ha proprio...# buon gusto nel# crearli.#|
+*Innanzitutto, se non# ci siamo incontrati# non possiamo#_*separarci!#|
+*Hai incontrato un# uomo che dice che non# puoi separarti da#_*qualcuno che non hai# incontrato?#|
+*Direi che la penso# allo stesso modo.#|
+*Dovresti incontrarlo.#|
+*Ho riacquistato la# mia forza alla#_*fontana della Regina# Mary.#|
+
+*Sto portando questo# orecchino alla# fontana.#_*Diventerà senz'altro# un orecchino magico.#|
+*Il misterioso suono# della fontana è ha# un effetto calmante.#|
+*Tutto a sud.# Ti sei perso?#_*Scusa...Ti stavo# guidando verso i# servizi igienici.#_*La Fontana della# Regina Mary è a# ovest del castello.#|
 
 
 
 *Sei una strana# persona...#_*ma mi piaci, per# qualche ragione.#|
 
 
+*Oh, viaggiatore! Che# ne dici di goderti un# bel pasto qui da noi?#_*Bene... La specialità# del giorno. Riesci a# indovinare cos'è?#|
+*Come no!? Hai# proprio un'aria# sospetta!#|
+*¹Ì×, proprio# così.#_*Ero certa che quel# piatto ti piacesse.# Ne vuoi un po'?#|
+*Questo sarebbe dovuto# essere un negozio di# strumenti musicali,#_*Ma l'Ocarina che# abbiamo ordinato non# è mai arrivata.#_*Quindi ci ho# rinunciato.#|
+*Davvero?#|
+*Grazie. Il tuo letto# è pronto. Fai una# buona dormita.#|
+*Sèntiti libero di# usare il nostro letto# ogni volta che vuoi.#|
+*Posso affermare che# non sei di qui,# straniero.#|
+
+
+
+*Ehilà!# Che si dice?#|
+*Non c'è via d'uscita# da un luogo come# Magicandia.#_*Ah ah ah...#|
+*Fuori?# Un mondo fuori?# Che vuoi dire?#|
+*Sono così in# imbarazzo! Vorrei# potermi nascondere# in un buco.#|
+*Io sono il# Misterioso Custode# di Oggetti.#_*Ti serve qualcosa?#|
+*Io sono il# Misterioso# Imitatore.#|
+*Ci sono moltissime# buche a est della# città.#_*Da una di esse si può# udire il suono di un# altro mondo.#|
+*Tira fuori un Seme# Rosso e mettilo# nella fontana,#_*darà vita a delle# Erbe Magiche.#|
+*Posso darti la Sacca# Grande se vuoi.# Che ne dici?#|
+*Posso avere la tua# Carta di Debito per# un momento?#|
+*Può contenere 30# Erbe Magiche.#|
+*Grazie,# certo, certo# che te la ridò.#_*È che la trovo# molto bella.#|
+*Non ti fidi di# nessuno.#_*Non è una brutta# abitudine, in# effetti...#|
+*Oh giusto, devo# ridarti la Carta# di Debito!#|
+*La Regina non si# sente molto bene...#|
 
 
 
@@ -128,33 +154,7 @@ Errore di sistema!!!#|
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Nel folto del bosco# c'è un chitarrista# che fa l'eremita.#_*Non è affatto di# brutto aspetto...#_*E soprattutto è# un poeta davvero# bravo.#|
 
 *Che ci si creda o no,# sono un Guaritore.#_*Posso ricaricare i# PP e curare la# pietrificazione.#|
 
@@ -175,24 +175,24 @@ Errore di sistema!!!#|
 
 
 *Oh! Giegue!#|
+*In un incubo ho# visto Magicandia# sparire nel nulla.#_*Il cuore mi batte# ancora fortissimo.#|
 
 
-
-
-
-
-
+*I Fiocchi Magici# sono solo per le# ragazze.#|
+*Sono un gatto# nuotatore.#_*Hai mai sentito# parlare di una# Caramella Magica che#_*può dare forza e# potere a un bambino# indifeso?#|
+*Capisco, ma tu non# sei indifeso, perciò# non ne hai bisogno.#|
+*Il ragazzo con gli# occhiali può usare la# Caramella di sicuro.#|
 *Era buona la# Caramella?#|
+*Se cerchi il benevolo# vecchietto,#_*va' alla Fontana# della Regina Mary.#_*Ascolterà le tue# grida profonde e# accorrerà in aiuto.#_*Grida profonde,# ricorda,# grida profonde!#|
+
+*Mi hai chiamato?#|
 
 
-
-
-
-
+*Ti è tornata utile,# alla fine?#|
 *Bene, il tuo saldo# è di $³+[_|.#_*Quanto vuoi# prelevare?#|
 *Ecco...# Prendi qui.#|
 *Ahi, non ci sono# tutti quei soldi# sul tuo conto.#|
-*Io sono un uomo# dimenticato. Non# sono davvero qui.#_*Non dovevi notarmi...#_*Meglio se mi ignori# e basta.#|
+*Io sono un uomo# dimenticato. Non# sono davvero qui.#_*Non dovevi notarmi...#_*Non fare a caso a me.#|
 
 
 
@@ -200,6 +200,7 @@ Errore di sistema!!!#|
 
 
 
+*Il tuo carico è# già al limite.# Torna un'altra volta.#|
 
 
 
@@ -311,8 +312,7 @@ Errore di sistema!!!#|
 
 
 
-
-
+*Oh, l'oscurtità è# così fitta...#_*Non riesco a vederti# bene...#_*Possibile che?...#_*Sei per caso la# ragazzina di# Pupazzo di Neve?#_*¹8[, mi pare...#_*Fatti forza, la tua# mamma è rinchiusa da# qualche parte dietro.#_*Non tentare di# liberarci ora.#*Prima bisogna# distruggere la# Nave Madre.#|
 
 
 
@@ -442,7 +442,7 @@ Errore di sistema!!!#|
 
 
 
-
+*Quegli zaini devono# pesare molto.#|
 
 
 
@@ -478,12 +478,12 @@ Errore di sistema!!!#|
 *Ci vediamo,# fratello...# Prenditi cura di te!#|
 
 
-
+*Hai detto# ¹%`?#|
 
 *Oh?  Pare tu non# abbia abbastanza# soldi.#|
 
 *Non hai abbastanza# soldi. Torna quando# li avrai.#|
-
+*Arrivederci!# Fa' attenzione.#|
 
 
 
@@ -509,6 +509,9 @@ Errore di sistema!!!#|
 
 
 
+*Il tuo carico è# troppo pesante?#_*Ricordati di tornare# a prenderla.#|
+*Sei qui per prendere# la Sacca Grande?# Eccoti il mio dono.#|
+*Ora ti do la# Sacca Grande.# Un dono per te.#|
 
 
 
@@ -516,10 +519,7 @@ Errore di sistema!!!#|
 
 
 
-
-
-
-
+*Buongiorno!# Dormito bene,# stanotte?#|
 
 
 
@@ -553,15 +553,15 @@ Errore di sistema!!!#|
 *Telefono!# Vai a rispondere,# ¹÷[!#|
 *Io non sono il# Sindaco, ma Abbott,# il suo assistente.#_*Il signor Sindaco# è là.#|
 
+*Vuoi di nuovo stare# qui per la notte?#|
+*Oh, viaggiatore!#|
 
 
 
 
 
-
-
-
-
+*“Attestato”#_*¹°[#_*Siamo a conoscenza# del fatto che hai#_*calpestato la mina# nel Deserto Iucca.#_*Tieni questo luogo# per te, per favore.#_*firmato...# Shigesato Itoi.#|
+*Dormito bene?# Fai buon viaggio!#|
 *Oh! non sei qui per# far visita a un# paziente?#_*Se sei il paziente,# sei pregato di# tornare nel retro.#|
 *Mi spiace, qui non# c'è nessun paziente# che si chiama così.#|
 
@@ -680,7 +680,7 @@ Errore di sistema!!!#|
 *Buongiorno!# Torna pure quando# vuoi.#_*Così magari mi# sentirei un po'# meno solo, qui.#|
 *Perché non vuoi# restare qui per la# notte?#_*Papà non sarà a# casa, ma va bene# così, credimi.#|
 *Biglietti, prego.# Per entrare serve# un Biglietto.#|
-
+*Tuttavia...# Non c'era nulla lì.#|
   Lascia   Prendi|
 *Non hai niente.#|
 *Non mi hai# lasciato nulla.#|
@@ -716,9 +716,9 @@ Errore di sistema!!!#|
 *Avvertendo la# presenza di ¹÷[,# il robot è tornato# in vita.#|
 *³ª|§| per# ¹|`.#|
 *Fai del tuo meglio.#|
-
-
-
+*La tua forza si è# ripristinata dopo#_*aver toccato le acque# misteriose della# fontana.#|
+*Oh cielo, piccola# Pippi!  Sei tornata# sana e salva!#_*Grazie per averla# trovata, ¹÷[!#_*A proposito, il# Sindaco ti sta# aspettando...#_*Vai con ¹÷[,# Pippi, e aiutalo con# questa faccenda.#|
+*Sono occupato, E# quindi non posso# aiutarti al momento.#_*Dovrai tornare più# tardi.#|
 *Chi è stato# avvelenato?#|
 *Chi dev'essere# ammorbidito?#|
 *Nessuno ti ha# avvelenato!#|
@@ -734,6 +734,7 @@ Errore di sistema!!!#|
 
 
 
+*Se trovi qualcosa# di strano assicùrati#_*di GUARDArlo bene# ogni volta.#|
 
 
 
@@ -765,8 +766,7 @@ Errore di sistema!!!#|
 
 
 
-
-
+*Appena udite le grida# profonde il Benevolo#_*Vecchietto si è fatto# vivo.#|
 
 
 
@@ -855,117 +855,117 @@ Errore di sistema!!!#|
 
 
 
+*Cosa stai fissando?#_*Qui a Magicandia# funziona come nel# mondo esterno.#_*Dammi i contanti e# li scambierò “con# tanti” begli oggetti.#_*Ih Ih Ih.#|
 
 
 
 
-
-”Sacca Grande”#*Una sacca riempita# di Erbe Magiche.#|
-”Scheda Telefonica”#*USA questa pratica# carta per effettuare# le tue telefonate.#|
-”Briciole di Pane”#*Seguendole,#_*ritornerai al punto# in cui hai cominciato# a seminarle.#|
-”Anello Repellente”#*Uno sguardo a questo# strano anello terrà#_*alla larga i nemici# più deboli.#|
-”Coltello da Burro”#*¹¡] può# padroneggiarlo.#|
-”Coltello da# Sopravvivenza”#_*Ehi ¹¡], questo è# più forte di un# normale Coltello.#|
-”Spada”#*Per coloro che sono# in grado di# padroneggiarla.#|
-”Catana”#*Questa spada# giapponese è la#_*migliore che ¹¡]# abbia mai visto.#|
-”Pistola Stordente”#*¹x[# sembra essere capace# di USArla.#|
-”Pistola ad Aria”#*Un'arma potente,#_*ma solo ¹x[# sembra essere capace# di USArla.#|
-”Mazza di Plastica”#*Quest'arma va bene# per  ¹÷[. USAla!#|
-”Mazza di Legno”#*USA quest'arma per# lottare contro nemici# deboli, ¹÷[!#|
-”Mazza di Alluminio”#*Con quest'arma# ¹÷[ può#_*facilmente lottare# contro nemici più# forti.#|
-”Mazza di Hank”#*Questa straordinaria#_*mazza è stata# autografata di# persona.#|
-”Padella”#*¹8[ può USAre# quest'arma al meglio.#|
-”Padella Antiaderente”#*Un'arma buona per# ¹8[, senza sporco da# lavar via.#|
-”Padella di Ferro”#*¹8[ può USAre# questa pesante#_*padella di metallo# per percuotere i# nemici forti.#|
-”Fionda”#*Un'arma pratica che# potrebbe USAre# chiunque.#|
-”Bumerang”#*Fa' attenzione,# non è un giocattolo.#_*Tutti possono USArlo# come arma.#|
-”Insetticida”#*Ha un effetto# urticante sugli# insetti.#|
-”Super Spray”#*Insetticida# incredibilmente# efficace.#|
-”Sacco di Pulci”#_*Un sacco pieno di# pulci e di altre# bestioline cattive.#_*Lancialo su un nemico# e vedi che succede!#|
-”Parole Dolci”#*???#|
-”Parole Dure”#*???#|
-”Macchina Adesiva”#*Sembra vada usata per# combattere, ma...#|
-”Torcia Buia”#*Una torcia al# contrario.#|
-”Lanciafiamme”#*Abbrustolisce i# nemici, ma solo se è# ¹x[ ad usarlo.#|
-”Bomba”#*Forse solo ¹x[# può farla esplodere.#|
-”Super Bomba”#*Sul lato c'è scritto#_*”Pericolo di# esplosione”,#_*può essere usato# solo da ¹x[.#|
-”Raggio Laser”#*D'aiuto per quella# femminuccia di# ¹x[.#|
-”Raggio al Plasma”#*È un bel po' d'aiuto# per quell'imbranato# di ¹x[.#|
-”Corda”#*Usala per legare# il nemico.#|
-”Moneta della Pace”#*Dopo averla USAta la# DIFESA salirà un# pochino.#|
-”Moneta di Protezione”#*Dopo averla USAta la# DIFESA salirà.#|
-”Moneta Magica”#*Dopo averla USAta la# DIFESA salirà molto.#|
-”Anello d'Ottone”#*Dopo averlo USAto la# DIFESA salirà un po'.#|
-”Anello d'Argento”#*Dopo averlo USAto la# DIFESA salirà.#|
-”Anello d'Oro”#*Dopo averlo USAto la# DIFESA salirà molto.#|
-”Ciondolo H2o”#*USArlo ti difenderà# da PK Fuoco.#|
-”Ciondolo Fuoco”#*USArlo ti difenderà# da PK Gelo.#|
-”Ciondolo Terra”#*USArlo ti difenderà# da PK Tuono.#|
-”Ciondolo Mare”#*USArlo ti difenderà# da qualsiasi# attacco PSI.|
-”Succo d'arancia”#*La vitamina C va# sempre bene per# un po' di PS.#|
-”Patatine Fritte”#*Alzeranno i tuoi PS# se MANGIAte, sia# con che senza salsa.#|
-”Erbe Magiche”#*Se sei stanco o# ferito, USAla.#|
-”Hamburger”#*Pasto veloce per# PS veloci.#|
-”Bibita Sportiva”#*Per quanto tu sia# stanco, una bottiglia# ti rinvigorirà.#|
-”Pomata della Vita”#*USAta per curare# le ferite.#|
-”Inalatore per l'Asma”#*USAlo quando l'asma# di ¹÷[ colpisce.#|
-”Antidoto”#*Neutralizza il# veleno con rapidità.#|
-”Collutorio”#*Se farai i gargarismi# con questo ti passerà# il raffreddore.#|
-”Tofu alla Fragola”#*Se davvero vuoi# mangiarlo fai pure,# ma...#|
-”Pane”#*Va bene da mangiare,# ma puoi anche usare#_*le sue BRICIOLE per# segnare il tuo# percorso.#|
-”Seme Nobile”#*USAlo per# neutralizzare il# Seme Maligno.#|
-”Sasso PSI”#*Potere PSI in forma# solida.#|
-”Fiocco Magico”#*Con questo la FORZA# salirà un po'.#_*Solo una ragazza può# legarselo ai capelli.#|
-”Caramella Magica”#*Se quella femminuccia# la MANGIA guadagna# un po' di LOTTA.#|
-”Pillola Rapida”#*Prenderla aumenta# la VELOCITÀ.#|
-”Pillola Saggia”#*Prenderla aumenta# la SAGGEZZA.#|
-”Pillola Fisica”#*Prenderla aumenta# il VIGORE.#|
-”Pillola Forte”#*Prenderla aumenta# la FORZA.#|
-”Pillola Combattiva”#*Prenderla aumenta# la LOTTA.#|
-”Chiave della Cantina”#*USA questa Chiave per# aprire la porta della# cantina.#|
-”Chiave dello Zoo”#*Questa Chiave apre il# cancello principale# dello Zoo Cittadino.#|
-”Chiave della Casa# Infestata”#_*Questa è la Chiave# per la casa di# Rosemary.#|
-”Diario del Bisnonno”#*È vecchio,# logoro e pieno# di annotazioni.#|
-”Lasciapassare”#*Sopra c'è scritto:# ”Impiegato alla# Fabbrica Duncan”.#|
-”Biglietto”#*Sopra c'è scritto:#_*”Rock'n Roll tutta# la notte e tutti i#_*giorni da Il Vivo# Dello Spettacolo”.#|
-”Pulcino di Canarino”#*Si vede tristezza# nei suoi occhi.#|
-”Razzetto”#*¹x[ sa usarlo,# a quanto pare.#|
-”Cappello”#*Un grazioso cappello# con il nome ¹8[# ricamato sopra.#|
-”Dentiera”#*Lavati i denti, usa# il filo interdentale,#_*vai dal dentista e# non ne avrai bisogno.#|
-”Matrice di Biglietto”#*Sopra c'è scritto:#_*”Conservane dieci per# un giro omaggio sul# carrarmato”.#|
-”Ocarina”#*Può suonare un# motivo orecchiabile.#|
-”Medaglia Franklin”#*Secondo una leggenda# Benjamin Franklin#_*indossava questa# medaglia riflettente#_*nei suoi esperimenti# con i fulmini.#|
-”Becco di Onice”#*Finché lo terrai con# te potrai viaggiare# verso Magicandia.#|
-”Arma Finale”#*???#|
-”Righello”#*Da 30 centimetri.#|
-”Carta di debito# di ¹÷[”#*Per tutte le tue# necessità economiche.#|
-”Erba Rossa”#*Sembra semplice erba,# ma...#|
-”Megafono”#*La tua voce# amplificata potrebbe# intimidire il nemico.#|
-”Debug”#*.......#|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+“Sacca Grande”#*Una sacca riempita# di Erbe Magiche.#|
+“Scheda Telefonica”#*USA questa pratica# carta per effettuare# le tue telefonate.#|
+“Briciole di Pane”#*Seguendole,#_*ritornerai al punto# in cui hai cominciato# a seminarle.#|
+“Anello Repellente”#*Uno sguardo a questo# strano anello terrà#_*alla larga i nemici# più deboli.#|
+“Coltello da Burro”#*¹¡] può# padroneggiarlo.#|
+“Coltello da# Sopravvivenza”#_*Ehi ¹¡], questo è# più forte di un# normale Coltello.#|
+“Spada”#*Per coloro che sono# in grado di# padroneggiarla.#|
+“Catana”#*Questa spada# giapponese è la#_*migliore che ¹¡]# abbia mai visto.#|
+“Pistola Stordente”#*¹x[# sembra essere capace# di USArla.#|
+“Pistola ad Aria”#*Un'arma potente,#_*ma solo ¹x[# sembra essere capace# di USArla.#|
+“Mazza di Plastica”#*Quest'arma va bene# per  ¹÷[. USAla!#|
+“Mazza di Legno”#*USA quest'arma per# lottare contro nemici# deboli, ¹÷[!#|
+“Mazza di Alluminio”#*Con quest'arma# ¹÷[ può#_*facilmente lottare# contro nemici più# forti.#|
+“Mazza di Hank”#*Questa straordinaria#_*mazza è stata# autografata di# persona.#|
+“Padella”#*¹8[ può USAre# quest'arma al meglio.#|
+“Padella Antiaderente”#*Un'arma buona per# ¹8[, senza sporco da# lavar via.#|
+“Padella di Ferro”#*¹8[ può USAre# questa pesante#_*padella di metallo# per percuotere i# nemici forti.#|
+“Fionda”#*Un'arma pratica che# potrebbe USAre# chiunque.#|
+“Bumerang”#*Fa' attenzione,# non è un giocattolo.#_*Tutti possono USArlo# come arma.#|
+“Insetticida”#*Ha un effetto# urticante sugli# insetti.#|
+“Super Spray”#*Insetticida# incredibilmente# efficace.#|
+“Sacco di Pulci”#_*Un sacco pieno di# pulci e di altre# bestioline cattive.#_*Lancialo su un nemico# e vedi che succede!#|
+“Parole Dolci”#*???#|
+“Parole Dure”#*???#|
+“Macchina Collosa”#*Sembra vada usata per# combattere, ma...#|
+“Torcia Buia”#*Una torcia al# contrario.#|
+“Lanciafiamme”#*Abbrustolisce i# nemici, ma solo se è# ¹x[ ad usarlo.#|
+“Bomba”#*Forse solo ¹x[# può farla esplodere.#|
+“Super Bomba”#*Sul lato c'è scritto#_*“Pericolo di# esplosione”,#_*può essere usato# solo da ¹x[.#|
+“Raggio Laser”#*D'aiuto per quella# femminuccia di# ¹x[.#|
+“Raggio al Plasma”#*È un bel po' d'aiuto# per quell'imbranato# di ¹x[.#|
+“Corda”#*Usala per legare# il nemico.#|
+“Moneta della Pace”#*Dopo averla USAta la# DIFESA salirà un# pochino.#|
+“Moneta di Protezione”#*Dopo averla USAta la# DIFESA salirà.#|
+“Moneta Magica”#*Dopo averla USAta la# DIFESA salirà molto.#|
+“Anello d'Ottone”#*Dopo averlo USAto la# DIFESA salirà un po'.#|
+“Anello d'Argento”#*Dopo averlo USAto la# DIFESA salirà.#|
+“Anello d'Oro”#*Dopo averlo USAto la# DIFESA salirà molto.#|
+“Ciondolo H2o”#*USArlo ti difenderà# da PK Fuoco.#|
+“Ciondolo Fuoco”#*USArlo ti difenderà# da PK Gelo.#|
+“Ciondolo Terra”#*USArlo ti difenderà# da PK Tuono.#|
+“Ciondolo Mare”#*USArlo ti difenderà# da qualsiasi# attacco PSI.|
+“Succo d'arancia”#*La vitamina C va# sempre bene per# un po' di PS.#|
+“Patatine Fritte”#*Alzeranno i tuoi PS# se MANGIAte, sia# con che senza salsa.#|
+“Erbe Magiche”#*Se sei stanco o# ferito, USAla.#|
+“Hamburger”#*Pasto veloce per# PS veloci.#|
+“Bibita Sportiva”#*Per quanto tu sia# stanco, una bottiglia# ti rinvigorirà.#|
+“Pomata della Vita”#*USAta per curare# le ferite.#|
+“Inalatore per l'Asma”#*USAlo quando l'asma# di ¹÷[ colpisce.#|
+“Antidoto”#*Neutralizza il# veleno con rapidità.#|
+“Collutorio”#*Se farai i gargarismi# con questo ti passerà# il raffreddore.#|
+“Tofu alla Fragola”#*Se davvero vuoi# mangiarlo fai pure,# ma...#|
+“Pane”#*Va bene da mangiare,# ma puoi anche usare#_*le sue BRICIOLE per# segnare il tuo# percorso.#|
+“Seme Nobile”#*USAlo per# neutralizzare il# Seme Maligno.#|
+“Sasso PSI”#*Potere PSI in forma# solida.#|
+“Fiocco Magico”#*Con questo la FORZA# salirà un po'.#_*Solo una ragazza può# legarselo ai capelli.#|
+“Caramella Magica”#*Se quella femminuccia# la MANGIA guadagna# un po' di LOTTA.#|
+“Pillola Rapida”#*Prenderla aumenta# la VELOCITÀ.#|
+“Pillola Saggia”#*Prenderla aumenta# la SAGGEZZA.#|
+“Pillola Fisica”#*Prenderla aumenta# il VIGORE.#|
+“Pillola Forte”#*Prenderla aumenta# la FORZA.#|
+“Pillola Combattiva”#*Prenderla aumenta# la LOTTA.#|
+“Chiave della Cantina”#*USA questa Chiave per# aprire la porta della# cantina.#|
+“Chiave dello Zoo”#*Questa Chiave apre il# cancello principale# dello Zoo Cittadino.#|
+“Chiave della Casa# Infestata”#_*Questa è la Chiave# per la casa di# Rosemary.#|
+“Diario del Bisnonno”#*È vecchio,# logoro e pieno# di annotazioni.#|
+“Lasciapassare”#*Sopra c'è scritto:# “Impiegato alla# Fabbrica Duncan”.#|
+“Biglietto”#*Sopra c'è scritto:#_*“Rock'n Roll tutta# la notte e tutti i#_*giorni da Il Vivo# Dello Spettacolo”.#|
+“Pulcino di Canarino”#*Si vede tristezza# nei suoi occhi.#|
+“Razzetto”#*¹x[ sa usarlo,# a quanto pare.#|
+“Cappello”#*Un grazioso cappello# con il nome ¹8[# ricamato sopra.#|
+“Dentiera”#*Lavati i denti, usa# il filo interdentale,#_*vai dal dentista e# non ne avrai bisogno.#|
+“Matrice di Biglietto”#*Sopra c'è scritto:#_*“Conservane dieci per# un giro omaggio sul# carrarmato”.#|
+“Ocarina”#*Può suonare un# motivo orecchiabile.#|
+“Medaglia Franklin”#*Secondo una leggenda# Benjamin Franklin#_*indossava questa# medaglia riflettente#_*nei suoi esperimenti# con i fulmini.#|
+“Becco di Onice”#*Finché lo terrai con# te potrai viaggiare# verso Magicandia.#|
+“Arma Finale”#*???#|
+“Righello”#*Da 30 centimetri.#|
+“Carta di debito# di ¹÷[”#*Per tutte le tue# necessità economiche.#|
+“Erba Rossa”#*Sembra semplice erba,# ma...#|
+“Megafono”#*La tua voce# amplificata potrebbe# intimidire il nemico.#|
+“Debug”#*.......#|
+Dovresti combattere#o scappare?|
+Sembra avere un#segreto importante.|
+C'è davvero un modo#per sconfiggerlo?|
+Non lasciare che si#fermi a srotolare la#proboscide!|
+Qualcuno ha mangiato#la sua zuppa e lui non#sembra aver gradito!|
+Sorpresi? Alla fine#esiste davvero!|
+Fa' attenzione ai suoi#gas di scarico se#soffri d'asma.|
+L'ipnosi non funziona#su questo robot.|
+Un'armatura speciale#lo protegge dagli#attacchi PSI.|
+Possiede il terribile#Sasso delle Origini.|
+Un essere del genere#non dovrebbe esistere#sulla terra...|
+Non lasciarti prendere#di mira da questo#primate delinquente!|
+Solo una madre#potrebbe amare#quella faccia.|
+Guarda che occhi!|
+Non c'è nessuno#al volante.|
+Ha amici forti.|
+Il suo guscio è#incredibilmente duro.|
+Pratica l'ipnosi.|
+La sua rapidità è#fonte d'orgoglio.|
+Sta' alla larga da#quelle zanne perlante.|
+Che ladro!|
+Se ti invita a cena,#non accettare.|
+Una scorta ambulante#di carburante.|
+Sembra star#proteggendo qualcosa.|
 
 
 
@@ -1067,14 +1067,14 @@ Attacco ripetuto!|
 
 La forma dell'attacco#di ¹à& era#inspiegabile!|
 
- ”Tua madre ti#  sta chiamando!”|
+ “Tua madre ti#  sta chiamando!“|
 
 
 
 
 
-
-
+¹à& è# esploso/a!|
+¹à& ha# preso fuoco!|
  L'ATTACCO di# ¹É& è# aumentato di ³®&§|.|
  L'ATTACCO di# ¹É& è# diminuito di ³®&§|.|
  La DIFESA di# ¹É& è# aumentata di ³®&§|.|
@@ -1131,7 +1131,7 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
  Non ha avuto effetto# su ¹É&.|
 ¹à& ha avuto#un attacco d'asma.#Uff...|
 ¹à& sta#meditando.|
-¹à& ha detto#”Ciao” e se n'è#andato.|
+¹à& ha detto#“Ciao” e se n'è#andato.|
 ¹à& è pronto#all'attacco.|
 ¹à& ha cantato#la canzone!|
 ¹à& sta#in guardia.|
@@ -1140,15 +1140,15 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
 
 
 
-
-
+¹É& si è#svegliato/a.|
+¹É& è#tornato/a tra noi!!!|
 ¹à& ha USAto#¹®&!|
 ¹à& ha#provato ¹®&!|
-
-
-
-
-
+¹à& non può#USAre ¹®&!|
+¹à& sta#pensando alle#circostanze.|
+¹à& ha fatto#qualcosa di strano.|
+¹à& sta# dormendo in piedi.|
+ Scudo di# ¹É&# distrutto.|
 ¹à& ha ESAMINAto#¹É&.|
 > Forte contro#  PK Fuoco.|
 > Forte contro#  PK Gelo.|
@@ -1156,22 +1156,22 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
 > Forte contro#  PK Raggio.|
 > Debole contro#  gli Spray.|
  L'attacco d'asma# di ¹É& è# passato.|
-
- ”Ti voglio bene.”|
- ”Ti detesto.”|
+ ¹É&# si è ripreso/a dalla# pietrificazione.|
+ “Ti voglio bene.“|
+ “Ti detesto.“|
  ¹É& ha avuto# un attacco d'asma.|
-
+¹®& si è# rotta.|
 ¹à& ha usato#il Seme Maligno!|
 ¹à& ha usato#un gas paralizzante!|
  ¹®& si è# pietrificato/a.|
  ¹É& è# tornato/a in sé!|
  ¹É& si è# calmato/a!|
-
-
-
+ ¹É& è# stato/a battuto/a!|
+ ¹É& è# stato/a distrutto/a!|
+ ¹É& è# tornato alla polvere!|
  ¹É& ha# smesso di muoversi!|
-
-
+ ¹É& è# diventato/a un# cumulo di rottami!|
+ ¹É& è# svanito/a!|
 ¹à& ha preso#¹®& da#¹É&!|
 ¹à& è salito/a al#Livello successivo!#_§
 ¹à& ha imparato#un nuovo potere PSI#durante la battaglia!#_§
@@ -1182,17 +1182,17 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
  La SAGGEZZA è# aumentata di ³¥|#|.#_§
  Il VIGORE è# aumentato di ³¨|#|.#_§
  La FORZA è# aumentata di ³©|#|.#_§
-
+¹à& è#fuggito/a dalla Corda.|
 Hai preso ¹%`!#_§
  ¹É& non era# più confuso/a!|
-
-
-
-
-
+¹à& si è#svegliato/a.|
+ZAP!!!|
+ Ma...# non ha avuto effetto!|
+¹®&# si è svuotata.|
+La battaglia si#interrompe.#|
 (¹£@ sente la voce#della Regina Mary)#_Giegue non può essere#sconfitto con la#forza...#_Non potete sconfiggere#Giegue con nessun#tipo di arma.#_Dovete CANTAre la mia#ninna nanna, con tutta#la vostra passione...#_CANTAte la mia ninna#nanna con tutto il#cuore.#_§
  ¹÷[!#_ Sono grato alla# tua famiglia.#_§
- I tuoi bisnonni,# George e Maria,# mi hanno cresciuto.#_§
+ I tuoi bisnonni,# George e Maria,#_ mi hanno cresciuto.#_§
  Ma George rubò# dal nostro pianeta#_ informazioni vitali,# utilizzabili per#_ tradire la mia# gente...#_§
  E adesso, uno dei# suoi discendenti#_ sta ostacolando# i nostri programmi#_ e deve essere# fermato!!#_ ¹÷[!# Mi riferisco a te!#_§
  Vai a casa, ora!#_ Perisci, insieme a# tutti gli altri#_ disgustosi terrestri.#_§
@@ -1235,18 +1235,18 @@ Hai preso ¹%`!#_§
 *Non puoi USAre il# Pane finché le#_*vecchie Briciole# non sono finite.#|
 *¹£@ ha raggiunto# l'inizio della# pista...#_*seguendo le Briciole# che erano state# seminate.#|
 *¹°` si è legata# il Fiocco tra# i capelli.#|
-
-
-
-
-
-
-
-
+*In questo caso premi# il tasto POWER,#_*ma ricorda di tener# premuto RESET!#|
+*¹°` ha misurato# la lunghezza di# molte cose.#|
+*Dopo essere stata# svuotata,#_*la Sacca Grande è# svanita nel nulla.#|
+*È stato raggiunto il# limite di credito per# la Scheda Telefonica.#|
+*Il veleno nel corpo# di ¹°` è stato# neutralizzato.#|
+*Il raffreddore di# ¹°` è passato.#|
+*¹°` ha spremuto# il Sasso dai# Poteri PSI.#|
+*Il Sasso dai Poteri# PSI è diventato un# normale sasso.#|
 *¹°` ha provato# ¹⁴`.#|
 *Non rimane abbastanza# potere per provarlo.#_
 *¹°` è# tornato/a in# scena.#_
-
+*Il Diario era# difficile da leggere,#_*ma aprendolo a# questa pagina...#_*(PAROLA D'ORDINE)#_*.... colui che ha# perso la coda.#_*... dimenticato...# ...nave che# percorre...#|
 *¹a|` si è# ammorbidito/a.#|
 *L'Ocarina ha# iniziato a suonare# senza sosta...#|
 *L'hai sentita?#|
@@ -1254,7 +1254,7 @@ Hai preso ¹%`!#_§
 *¹£@ ha guardato# la mappa.#|
 *Una qualche forza# misteriosa ti ha# bloccato.#|
 *L'Anello Repellente# ha perso il suo# potere misterioso.#|
-”Questa è una copia illegale#di un gioco Nintendo. L'uso,#il possesso o la vendita di#questa cartuccia contraf-#fatta è illegale e infrange#i diritti di copia di#Nintendo.”#          Nintendo Co., Ltd.#          Kyoto, Giappone /#          Redmond WA, SUA.#”Questa copia illegale di#NES EARTH BOUND smetterà#di funzionare.”#|
+“Questa è una copia illegale#di un gioco Nintendo. L'uso,#il possesso o la vendita di#questa cartuccia contraf-#fatta è illegale e infrange#i diritti di copia di#Nintendo.”#          Nintendo Co., Ltd.#          Kyoto, Giappone /#          Redmond WA, SUA.#“Questa copia illegale di#NES EARTH BOUND smetterà#di funzionare.”#|
  # # # #|
 Sulla sommità del Mt. Itoi,#¹8[ si riunisce con sua#mamma e gli altri terrestri#liberati scappano.#|
  ¹¡], ora in piena# salute, canta ogni giorno# a Il Vivo Dello Spettacolo.#|
