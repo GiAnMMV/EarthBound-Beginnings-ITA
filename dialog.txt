@@ -60,7 +60,7 @@ Errore di sistema!!!#|
 *Sì, ci andrai?# Fantastico, mitico# grandioso!#_*Assicurati di prendere# una Chiave dal mio# assistente, Abbott.#|
 *Questa Chiave apre il# cancello dello zoo.# Non perderla.#|
 *Riportamela viva,# e sicuramente# sarò un eroe...#_*Ehm, uhm, voglio dire# sarai un eroe.#|
-*Perché se non è il# nostro eroe ¹£@,#_*Hai dello sterco di# tigre sui tuoi# vestiti?#_*Ha-ha, sto solo# scherzando. Ora vai# ragazzo.#|
+*Chi altri, se non il# nostro eroe ¹£@,#_*avrebbe sterco di# tigre sui suoi# vestiti?#_*Ha-ha, sto solo# scherzando. Fila via# adesso.#|
 *Ho sentito delle# voci su una# ragazza prodigiosa.#_*Ti aiuterà# nel tuo viaggio.#|
 *Le chiavi dello Zoo# te le tirano dietro,# prendine un'altra.#|
 *Dai un'occhiata,# tutti gli animali# sono scappati.#|
