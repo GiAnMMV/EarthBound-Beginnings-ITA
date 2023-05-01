@@ -23,7 +23,7 @@ Super Spray|
 Sacco Pulci|
 ParoleDolci|
 Parole Dure|
-Macch. Ades|
+Macc.Collosa|
 Torcia Buia|
 SassOrigini|
 Ago Avvelen|
@@ -171,8 +171,8 @@ Gorilla|
 Bufalo|
 Tigre|
 Auto Matta|
-8ihccarso|
-SerpeMagica|
+8ihccasro|
+Lumagica|
 Gigantico|
 Giegue|
 Aquila|
@@ -181,7 +181,7 @@ Gabbiano|
 Alligatore|
 ElettroBot|
 Il Pesce|
-Fuggiasco|
+Evaso|
 Capo BlaBla|
 Barbot|
 Nancy|
@@ -237,7 +237,7 @@ CamionFolle|
 CamionPazzo|
 F.smallerta|
 Quattrocchi|
-Papocchi|
+Babbocchi|
 Mammocchi|
 Ottesro|
 GigaBot|
