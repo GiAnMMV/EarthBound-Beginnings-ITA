@@ -216,7 +216,7 @@ Piccolo UFO|
 MrPPstrello|
 AstruomoJr.|
 Puzzola|
-ZombiVelato|
+Avvolto|
 Ratto|
 Bombardiere|
 Bambola|
@@ -235,7 +235,7 @@ C. Randagio|
 Auto Folle|
 CamionFolle|
 CamionPazzo|
-F.smallerta|
+Fantallarme|
 Quattrocchi|
 Babbocchi|
 Mammocchi|
