@@ -100,9 +100,9 @@ Errore di sistema!!!#|
 *Se desideri non# trovarti mai# nei guai...#_*RESTATENE A CASA!!#|
 *È vero?# I problemi# ti inseguono?#_*Mmh, che# peccato.#|
 *Allora, ammetti che# ho un buon gusto.#_*Come?# Vuoi anche tu# un soprannome fico?#|
-
-
-
+*D'accordo, ce l'ho!# D'ora in poi sarai# Zuccapoccione!#_*Suona proprio bene,# eh?#|
+*Davvero?# Che peccato.#|
+*Salve!# ¹£@# Zuccapoccione.#|
 *Hai incontrato# l'uomo che pratica# la filosofia?#|
 *Lui è davvero bravo# a dare soprannomi.#_*Ha proprio...# buon gusto nel# crearli.#|
 *Innanzitutto, se non# ci siamo incontrati# non possiamo#_*separarci!#|
@@ -110,7 +110,7 @@ Errore di sistema!!!#|
 *Direi che la penso# allo stesso modo.#|
 *Dovresti incontrarlo.#|
 *Ho riacquistato la# mia forza alla#_*fontana della Regina# Mary.#|
-
+*Il brutto della# fontana della Regina# Mary è che...#_*è molto lontana e# difficile da trovare.#|
 *Sto portando questo# orecchino alla# fontana.#_*Diventerà senz'altro# un orecchino magico.#|
 *Il misterioso suono# della fontana è ha# un effetto calmante.#|
 *Tutto a sud.# Ti sei perso?#_*Scusa...Ti stavo# guidando verso i# servizi igienici.#_*La Fontana della# Regina Mary è a# ovest del castello.#|
@@ -220,9 +220,9 @@ Errore di sistema!!!#|
 
 
 
-
-
-
+*Mi chiamo Suzy. Sono# Miss Auguronia.#_*Non sono bella?#|
+*Anche tu sei carino.#|
+*Tu sei brutto!# Mi sembri uno# zuccapoccione!#|
 
 
 
@@ -366,7 +366,7 @@ Errore di sistema!!!#|
 
 
 
-
+*Che rabbia.# Arrrrrrrrr!!#|
 *Dov'è Mami?#*Dov'è Papi?#|
 *Alt, chi va là?#|
 *Ragazzi sospetti.# Vi fermerò.# Arrghh!#|
@@ -441,10 +441,10 @@ Errore di sistema!!!#|
 
 
 
-
+*MI CHIAMO EVE.#_ TI STAVO ASPETTANDO.#_*MI HA CREATO#_ GEORGE...#_*È STATO PORTATO#_ AI CONFINI#_ DELL'UNIVERSO...#_*E IN SEGUITO#_ RIPORTATO A CASA.#_*SONO QUI PER#_ PROTEGGERTI.#_*È IL MIO SCOPO.#|
 *Quegli zaini devono# pesare molto.#|
-
-
+*¹÷[! ¹÷[!..#_*La battaglia sembra# averti stremato.# Ancora una volta?#|
+*Riprese le forze...#_*¹÷[ è tornato di# nuovo in campo.#_*Fai del tuo meglio,# ¹÷[!#|
 
 
 
@@ -712,7 +712,7 @@ Errore di sistema!!!#|
 *¹£@ ha# memorizzato la# melodia.#|
 *Il canarino sta# cantando.#|
 *La scimmia ha rubato# la Chiave dello Zoo.#|
-
+*Il robot era vecchio# e arrugginito.#|
 *Avvertendo la# presenza di ¹÷[,# il robot è tornato# in vita.#|
 *³ª|§| per# ¹|`.#|
 *Fai del tuo meglio.#|
@@ -723,7 +723,7 @@ Errore di sistema!!!#|
 *Chi dev'essere# ammorbidito?#|
 *Nessuno ti ha# avvelenato!#|
 *Nessuno ti ha# pietrificato.#|
-
+*Vengono prodotti# Razzetti là dentro.#|
 
 
 
@@ -773,7 +773,7 @@ Errore di sistema!!!#|
 
 
 
-*Con chi stai# parlando?#|
+*A chi staresti# parlando?#|
 *Cosa?!?#|
 *Nulla degno di nota.#|
 
@@ -790,7 +790,7 @@ Errore di sistema!!!#|
 *¹|` non può# portare altro.#|
 *Non è successo# nulla.#|
 *¹£@ ha aperto# il regalo.#|
-*Dentro c'era# ¹%`.#|
+*Dentro ha trovato# ¹%`.#|
 *¹£@ ha ottenuto# ¹%`.#|
 *Non puoi portare# nient'altro.#|
 *Era vuoto.#|
@@ -804,10 +804,10 @@ Errore di sistema!!!#|
 *    Sperduzia#       OVEST#_*    Auguronia#        EST#|
 *    Zoo Cittadino#       700 metri#         OVEST#|
 
-
+*      Ennea#       OVEST#_*     Palude#        SUD#|
 * Scuola Elementare#     Scintilla#        SUD#|
 *Casa di ¹÷[#|
-
+*Benvenuti ad# Auguronia!#_*    Sperduzia#       OVEST#_*  Stazione Unità#        NORD#|
 
 
 *   Palude - EST#|
@@ -857,7 +857,7 @@ Errore di sistema!!!#|
 
 *Cosa stai fissando?#_*Qui a Magicandia# funziona come nel# mondo esterno.#_*Dammi i contanti e# li scambierò “con# tanti” begli oggetti.#_*Ih Ih Ih.#|
 
-
+*Ti serve altro?#|
 
 
 “Sacca Grande”#*Una sacca riempita# di Erbe Magiche.#|
@@ -996,54 +996,54 @@ Sembra star#proteggendo qualcosa.|
 
 
 
-
-
-
-
-
-
-
-
+Un normale fantasma.|
+Grande appena quanto#un piatto piano.|
+La vita stessa è un#interrogativo per#Mr. Pipistrello.|
+Sarà piccolo, ma viene#dallo spazio senza#ombra di dubbio.|
+Tàppati il naso!|
+Un malvagio zombi#avvolto in un sudario.#Attenzione, il suo#”Colpo Finale” può#essere devastante.|
+Un grosso ratto con#una coda molto lunga.|
+Ha la forma di un#uovo, ma è un po'#più duro.|
 Ti fissa dritto#negli occhi.|
 Volteggia in aria!|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Il suo potente veleno#è stato creato in#laboratorio.|
+Attenzione al suo#veleno e al suo#Sasso delle Origini.|
+Molta esperienza se#non scappa.|
+Sembra non avere#alcun amico.|
+La sua sedia si è#rotta e lui non è#molto contento di ciò.|
+Dov'è quell'antidoto,#ora?|
+Veleno, veleno,#veleno.|
+Se comincia a piangere#non crederci.|
+Nemmeno suo padre lo#guarderebbe in faccia.|
+Attenzione al suo#Sasso delle Origini.|
+Chissà se ha le pulci.|
+L'ipnosi non funziona#su questa auto.|
+L'ipnosi non funziona#su questo veicolo.|
+Quali saranno le sue#prossime infrazioni,#superamento del limite#guida spericolata o..?|
+Non allarmare questo#fantasma, ha molti#amici!|
+Il preferito degli#oculisti.|
+Guarda dove metti i#piedi, i Babbocchi#sono dappertutto.|
+I Mammocchi ti#troveranno ovunque!|
+Ha molti amici!|
+Usa solo PK Raggio.|
+Forte quanto un bue.|
+Un po' spigoloso, ma#da non sottovalutare.|
+L'ultimissimo modello.|
+Grande quanto un#tombino.|
+Non farti ingannare#dalla sua bellezza.|
+Trasporta Bombe e#adora farne uso.|
+Contiene carburante#in abbondanza.|
+È brava con un forte#attacco PSI e non ha#paura di usarlo.|
+Il suo unico scopo è#impedire a chiunque di#attraversare la#grotta.|
+Le piace usare#PK Gelo.|
+Se riesci a batterlo#è fantastico.|
+Non solo attacca#usando la PSI, ma#ruba anche!|
+Attento, conosce#“Cerebro Choc”.|
+“Combatte a mani#nude”.|
+Il suo meraviglioso#manto argentato brilla#e risplende.|
+È gigantesco!|
+Se ti viene sonno, non#prendere il suo letto!|
+Nuovo e,#disgraziatamente,#migliorato.|
 Il più forte degli#Astruomini.|
 °^«² ¿°^»² ¿|
 ¹à&#si avvicina!|
@@ -1055,26 +1055,26 @@ Attacco ripetuto!|
 ¹à& ha#graffiato ¹É&!|
 ¹à& ha#caricato ¹É&!|
   ⓪①②③④⑤⑥⑦⑧|
- ¹É& ha# subìto ³®&§|# di danno.|
+ ¹É& ha preso# ³®&§| di danno.|
 #       VITTORIA!#|
 #La battaglia è#stata persa.#|
-
-
- ¹É&# non era più lì.|
+ ¹É&# sconfitto/a!|
+ ¹É& è stato/a# colpito/a e# battuto/a.|
+ ¹É& era già# stato/a sconfitto/a.|
  Non ha avuto effetto# su ¹É&.|
-
-
-
+¹à& ha perso#il controllo!|
+ ¹à& era# sfinito/a.|
+¹à& usa il#suo colpo finale!!!|
 La forma dell'attacco#di ¹à& era#inspiegabile!|
-
+ ¹É& è# stato/a circondato/a# da una barriera.|
  “Tua madre ti#  sta chiamando!“|
-
-
-
-
-
-¹à& è# esploso/a!|
-¹à& ha# preso fuoco!|
+ ¹É& si è# pietrificato/a.|
+¹à& ha sputato#una sostanza collosa!|
+ ¹É& è# stato/a accecato/a!|
+¹à& è#legato/a stretto/a.|
+¹à& ha fatto#uno strano urlo!|
+ ¹à& è# esploso/a!|
+ ¹à& ha# preso fuoco!|
  L'ATTACCO di# ¹É& è# aumentato di ³®&§|.|
  L'ATTACCO di# ¹É& è# diminuito di ³®&§|.|
  La DIFESA di# ¹É& è# aumentata di ³®&§|.|
@@ -1088,41 +1088,41 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
 ¹à& ha dato#in escandescenze!|
  La VELOCITÀ di# ¹É& è# diminuita di ³®&§|.|
 ¹à& ha#confuso ¹É&!|
-
-
-
-
-
-
-
-
-
-
-
+¹à& ha#chiamato aiuto!|
+¹à& ha sparso#i suoi semi!|
+ Non si sa come,# l'ESP di ¹É&# è aumentata.|
+¹à& ha#iniziato a ridere!|
+Il carrarmato#si è rotto.|
+¹à& ha detto#parole di minaccia.|
+¹à& ha detto#delle parolacce.|
+¹à& fa un#sorriso e lo mantiene.|
+ e ¹É& ci# ha creduto!|
+ ma ¹É& non# ci ha creduto# per nulla.|
+ Ciò ha fatto# arrabbiare# ¹É&.|
  La situazione di# ¹É& si è# fatta critica.|
  ¹É& ha perso# i sensi.|
 ¹à& è molto#confuso/a.|
-
+ ¹É&# è stato/a# messo/a a nanna.|
 ¹à& sta#dormendo.|
-
-
-
-
-
-
+ ¹É& ha# recuperato ³®&§| PP!|
+ ¹É& ha# recuperato ³®&§| PS!|
+L'energia di#¹à& è scorsa#in ¹É&!|
+ Tuttavia non si è# presentato nessuno.|
+ Silenzio...|
+ ¹É& si è# unito/a alla# battaglia.|
 ¹à& è#scappato/a!|
 ...Ma non ha#funzionato.|
-
+¹à& è#inciampato/a ed#è caduto/a.|
 ¹à& non#riesce a muoversi.|
-
-
-
-
-
-
-
-
-
+¹à& si è#pietrificato/a.|
+ Sono stati rubati# ³®&§| PP# da ¹É&.|
+ ¹É& non# riesce a muoversi.|
+¹à& ha emesso# una nube di gas# di scarico.|
+ ¹É& è# stato/a avvelenato/a.|
+ ¹É&# è stato/a# disidratato/a.|
+ La PSI di# ¹É& è stata# bloccata.|
+ ¹É& è# stato/a legato/a con# Corda.|
+ ¹É& è# stato/a schermato/a.|
  Bersaglio mancato!!|
  Ma i poteri PSI# erano bloccati.|
  Ma la Med. Franklin# di ¹É& ha# rimbalzato il Raggio!|
@@ -1135,11 +1135,11 @@ La forma dell'attacco#di ¹à& era#inspiegabile!|
 ¹à& è pronto#all'attacco.|
 ¹à& ha cantato#la canzone!|
 ¹à& sta#in guardia.|
-
-
-
-
-
+¹à& si è#avvicinato lentamente!|
+ Il veleno nel corpo# di ¹É& si è# dissolto.|
+ ¹É& è# tornato/a in sé.|
+ A ¹É& è# venuto prurito# dappertutto.|
+ ¹É& può di# nuovo muoversi.|
 ¹É& si è#svegliato/a.|
 ¹É& è#tornato/a tra noi!!!|
 ¹à& ha USAto#¹®&!|
