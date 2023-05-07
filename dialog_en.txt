@@ -849,7 +849,7 @@ System Error!!!#|
 *Is it all right to# go back to the# data SAVEd earlier?#|
 *You said ”Yes”,# but you don't have# it. Ah ha ha ha...#|
 *¹¡] seems to be# out of breath.#|
-*Non hai amici a# cui dare i tuoi# Oggetti.#|
+*You don't have any# friends to hand# the Goods to.#|
 *The ¹%` is# once more in# your possession.#_*Is there anything# else you'd like# to take?#|
 *Can't someone else# carry that? Your# load is too great!#|
 *The closet is# full.#|
