@@ -254,7 +254,7 @@ Roccolla|
 Gigantiano|
 RestaDMucco|
 Zombi|
-ZombiBrutto|
+ZombiSporco|
 Lupo Grigio|
 R7037|
 OrsoGrizzly|
