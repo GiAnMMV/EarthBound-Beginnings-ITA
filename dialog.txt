@@ -118,8 +118,8 @@ Errore di sistema!!!#|
 
 
 *Sei una strana# persona...#_*ma mi piaci, per# qualche ragione.#|
-
-
+*Molto bene.#|
+*Sigh sob sob...# Dovresti accettare# la gentilezza con# gratitudine.#|
 *Oh, viaggiatore! Che# ne dici di goderti un# bel pasto qui da noi?#_*Bene... La specialità# del giorno. Riesci a# indovinare cos'è?#|
 *Come no!? Hai# proprio un'aria# sospetta!#|
 *¹Ì×, proprio# così.#_*Ero certa che quel# piatto ti piacesse.# Ne vuoi un po'?#|
@@ -146,16 +146,16 @@ Errore di sistema!!!#|
 *Non ti fidi di# nessuno.#_*Non è una brutta# abitudine, in# effetti...#|
 *Oh giusto, devo# ridarti la Carta# di Debito!#|
 *La Regina non si# sente molto bene...#|
-
-
-
-
-
-
-
-
+*Uomo sospetto....# Ti lascerò passare#_*se risolverai questo# indovinello...#|
+*Corretto.# La risposta era# ”due alligatori”.#_*Anche se non ti# ho ancora detto# l'indovinello.#|
+*A più tardi!#|
+*Vorrei poter sentire# la Regina Mary# cantare di nuovo.#|
+*Salve! Non ti ho# sentito arrivare.#_*Quella chitarra fa# proprio un sacco di# chiasso...#_*Non riesco neanche a# pensare.#_*Che? Sono io che la# sto suonando!?#_*Avrei dovuto saperlo.#_*..........#_*La storia che ti dico# ora è un vero# segreto.#_*Torna da me, quando# sarai più forte.#_*Scrivitelo da qualche# parte, per non# scordartelo.#_*Io mi scordo sempre# le cose se non me# le scrivo.#|
+*Hai provato ad# ignorarmi, vero?#_*Sono così solo# quassù, senza nessuno# a farmi compagnia.#_*Farò tutto ciò# che posso.# Ecco!#|
+*Sono proprio felice# di ricevere visite!#_*So cosa volete che# faccia. Ecco!#|
+*Ascolta, o ¹£@# amante della musica,# la mia canzone!#_*Perché piangi,# o dolce bambola?#_*È colpa del Canarin# mesto cantare?#_*La scimmia canta,# il pianoforte pure,#_*forse sonato da# spettral figure.#_*Del Cactus del# Deserto, tanto solo,#_*riecheggia ogni notte# il tristo assolo.#_*Il Drago dorme,# la nota immane.#_*E d'Eve la canzone# alfin rimane.#_*La cima del monte# dal nome di Itoi#_*devi raggiungere,# o giovane, poi.#_*Vai alla Pietra XX# per l'ultim tono#_*e dalla Regina Mary,# innanzi al trono!#_*Ninna ninna nanna...# Strana ninna nanna...#_*Ciao ciao ciao...# Addio.#_*Proprio una bella# canzone, vero?#|
 *Nel folto del bosco# c'è un chitarrista# che fa l'eremita.#_*Non è affatto di# brutto aspetto...#_*E soprattutto è# un poeta davvero# bravo.#|
-
+*Mi è stato detto di# un uomo di cui tutti#_*si dimenticano. Ma# non mi ricordo chi# fosse.#|
 *Che ci si creda o no,# sono un Guaritore.#_*Posso ricaricare i# PP e curare la# pietrificazione.#|
 
 
@@ -176,7 +176,7 @@ Errore di sistema!!!#|
 
 *Oh! Giegue!#|
 *In un incubo ho# visto Magicandia# sparire nel nulla.#_*Il cuore mi batte# ancora fortissimo.#|
-
+*Già, sono il gatto# che nuota per terra.#_*Indovina cos'ho in# mano.#|
 
 *I Fiocchi Magici# sono solo per le# ragazze.#|
 *Sono un gatto# nuotatore.#_*Hai mai sentito# parlare di una# Caramella Magica che#_*può dare forza e# potere a un bambino# indifeso?#|
@@ -186,15 +186,15 @@ Errore di sistema!!!#|
 *Se cerchi il benevolo# vecchietto,#_*va' alla Fontana# della Regina Mary.#_*Ascolterà le tue# grida profonde e# accorrerà in aiuto.#_*Grida profonde,# ricorda,# grida profonde!#|
 
 *Mi hai chiamato?#|
-
-
+*È così, allora?# Ciao!#|
+*Ti servono soldi,# vero?#|
 *Ti è tornata utile,# alla fine?#|
 *Bene, il tuo saldo# è di $³+[_|.#_*Quanto vuoi# prelevare?#|
 *Ecco...# Prendi qui.#|
 *Ahi, non ci sono# tutti quei soldi# sul tuo conto.#|
 *Io sono un uomo# dimenticato. Non# sono davvero qui.#_*Non dovevi notarmi...#_*Non fare a caso a me.#|
-
-
+*Io sono un uomo# inesistente.#_*Sei così gentile# quando mi parli, non# so che fare.#_*Se gli altri mi# mancassero non potrei# più vivere da solo.#|
+*Le mie conversazioni# sono sempre# monologhi.#_*Sono solo dal# momento in cui# sono nato...#|
 
 
 
@@ -422,7 +422,7 @@ Errore di sistema!!!#|
 
 
 
-
+*¹£@ ha USAto la# Scheda Telefonica.#|
 
 
 
@@ -591,6 +591,14 @@ Errore di sistema!!!#|
 
 
 
+*Il Villaggio# Canarino è a# nord-ovest da qui.#_*È un bel posto# da visitare e# l'ingresso è libero!#|
+*L'addetta al# ricevimento del# Municipio è# bellissima.
+*Ehi, ¹÷[, come# va con la tua asma?#_*La mia è migliorata,# ma i gas di scarico# me la fanno tornare.#|
+*Ho detto ai bambini# che prima si studia#_*e poi si usano i# giochi Nintendo.#_*Sono queste le regole# a casa mia!#|
+*Sembri felice tutto# il tempo!#|
+*Le Imprese Duncan# hanno in progetto di#_*costruire un locale# di spogliarello qui.#_*A nessuno in città# piace l'idea!#|
+*Vorrei fare il# dottore per aiutare# le persone malate...#_*e guadagnare un sacco# di soldi nel farlo.#|
+*Davvero? Guarda che# è un sondaggio# serio...#|
 
 
 
@@ -628,32 +636,24 @@ Errore di sistema!!!#|
 
 
 
-
-
-
-
-
-
-
-
-
+*Sei tra i piedi,# moccioso!#|
 *Ehi!#|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Avrò anche pochi PS,# ma darò il# meglio di me!#|
+*Se ti combattessi...# Sarei senza dubbio# un perdente.#|
+*Sono un uomo forte.# Qui lo dico.# E qui lo ribadisco.#|
+*Non hai speranze# contro ¹¡].#_*Potrebbe batterti# con solo un mignolo.#|
+*Hai letto# il cartello?#|
+*Mentre vagavo per il# deserto ho visto un# cactus con la faccia,#_*quindi sono scappato# verso i colli urlando# più forte che potevo.#|
+*Se ti metti a parlare# con un pescatore non# puoi più andartene.#|
+*Tutti in prima# elementare sanno# fare la ruota,#_*non credi?#|
+*I telescopi?#_*Prendi l'ascensore# fino alla cima della# Torre d'Avvistamento.#|
+*Una volta ho visto# del fumo venire da# una delle isole.#_*Mi sono chiesto se lì# ci vivesse qualcuno.#_*Avrei dovuto guardare# con quel telescopio.#|
+*Non riesco a# fare la ruota.#|
+*Ancora non capisco# come si fanno le# sottrazioni col# cambio.#|
+*Ho sentito che il# Tofu alla Fragola è#_*popolare nelle# grandi città.#_*Mi chiedo di cosa# sappia.#|
+*Ho fame. Andiamo# a fare pranzo.#|
+*Non prendermi per# un uomo qualunque.#_*Sono le parole# preferite di Papà.#|
+*Sei in ritardo,# vero?#|
 *Hai visto un# uomo strano nel# laboratorio?#_*Beh...# Io sì.#|
 *Hai giocato a# Super Mario Bros.7?#_*Io sto ancora# giocando a# Super Mario Bros.3.#_*È stato piuttosto# impegnativo per me.#|
 *Ti do il benvenuto!# Cosa vorresti# comprare?#|
@@ -714,7 +714,7 @@ Errore di sistema!!!#|
 *La scimmia ha rubato# la Chiave dello Zoo.#|
 *Il robot era vecchio# e arrugginito.#|
 *Avvertendo la# presenza di ¹÷[,# il robot è tornato# in vita.#|
-*³ª|§| per# ¹|`.#|
+*³ª|§| a# ¹|`.#|
 *Fai del tuo meglio.#|
 *La tua forza si è# ripristinata dopo#_*aver toccato le acque# misteriose della# fontana.#|
 *Oh cielo, piccola# Pippi!  Sei tornata# sana e salva!#_*Grazie per averla# trovata, ¹÷[!#_*A proposito, il# Sindaco ti sta# aspettando...#_*Vai con ¹÷[,# Pippi, e aiutalo con# questa faccenda.#|
@@ -724,7 +724,7 @@ Errore di sistema!!!#|
 *Nessuno ti ha# avvelenato!#|
 *Nessuno ti ha# pietrificato.#|
 *Vengono prodotti# Razzetti là dentro.#|
-
+*Mia moglie è stata la# prima Miss Auguronia# della storia.#|
 
 
 
@@ -761,11 +761,11 @@ Errore di sistema!!!#|
 
 
 
-
-
-
-
-
+*Scusami...# potresti rispondere a# questo questionario?#|
+*Credi che i bigletti# del treno siano# troppo costosi?#|
+*Hai mai USAto# il Megafono?#|
+*Grazie per la# collaborazione.# In cambio...#_*ecco a te questa# Scheda Telefonica,# per il tuo tempo.#|
+*Scusami, potresti# rispondere a questo# questionario?#_*Oh! Scusami tanto,# ti avevo già fatto# queste domande.#|
 *Appena udite le grida# profonde il Benevolo#_*Vecchietto si è fatto# vivo.#|
 
 
@@ -794,7 +794,7 @@ Errore di sistema!!!#|
 *¹£@ ha ottenuto# ¹%`.#|
 *Non puoi portare# nient'altro.#|
 *Era vuoto.#|
-
+*Cura veleno.# Ammorbida#|
 *  Zoo Cittadino#        NORD#_*    Sperduzia#        SUD#|
 *Divieto di caccia -# Nei pressi:#_*Il Villaggio Canarino# Riserva Naturale#|
 *Municipio#   Comune di Sperduzia#|
@@ -808,8 +808,8 @@ Errore di sistema!!!#|
 * Scuola Elementare#     Scintilla#        SUD#|
 *Casa di ¹÷[#|
 *Benvenuti ad# Auguronia!#_*    Sperduzia#       OVEST#_*  Stazione Unità#        NORD#|
-
-
+*Casa del Guaritore#       OVEST#_*Stazione di Renna#        EST#_*  Città di Renna#        SUD#|
+* Spettropoli Centro#        OVEST#_*    Spettropoli#  Area Residenziale#         EST#|
 *   Palude - EST#|
 
 
@@ -832,14 +832,14 @@ Errore di sistema!!!#|
 
 
 *Spedirò ¹%`# a casa di ¹÷[.#_*C'è altro che vuoi# darmi?#|
+*Non che sia# claustrofobico...#_*ma non riesco a# sopportare gli spazi# piccoli e chiusi!#|
 
-
-
-
-
-
-
-
+*Sono stato rapito# dalla Nave Madre.# Ti prego, aiutami!#|
+*Confermi che si# scrive così?#|
+*Lo strano suono che# aveva fatto impazzire# gli animali ha smesso#_*e lo Zoo è tornato# a essere un posto# sicuro.#|
+*Fa' attenzione, quel# carrarmato è la cosa# più preziosa che ho.#|
+*Ecco, sul collare del# cane c'era la Chiave# della Cantina.#|
+*Eeh Eeh Eeh...# Sono il topo# chiassoso.#_*In alcuni edifici# puoi entrare, in# altri no.#_*Se la porta è rotonda# o ha un cartello,# entra pure.#_*Le altre non# riuscirai ad# aprirle.#_*Ciao!#|
 *Il teletrasporto non# è un Potere Psichico# con cui si scherza.#|
 *Gli volevo bene...#_*Gli volevo bene,# come a un figlio...#|
 *Scodinzolava sempre,# come un cagnolino...#_*ECCETTO quando# provavo a CANTArgli# le ninna nanne...#|
@@ -847,8 +847,8 @@ Errore di sistema!!!#|
 *Inserisci la tua# Carta di Debito.#|
 *Non portare con te# tutti quei soldi.#|
 *Ti va bene tornare# ai dati SALVAti in# precedenza?#|
-
-
+*Hai detto ”Sì”# ma non ce l'hai.# Ah ah ah ah...#|
+*¹¡] sembra essere# senza fiato.#|
 *Non hai amici a# cui dare i tuoi# Oggetti.#|
 *¹%`# è di nuovo in tuo# possesso.#_*C'è altro che# vorresti prendere?#|
 *Non puoi far prendere# quell'oggetto a# qualcun altro?#_*Tu porti già troppa# roba.#|
