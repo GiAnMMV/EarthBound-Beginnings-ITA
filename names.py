@@ -6,11 +6,11 @@ f = open(rom_name,'rb')
 rom = f.read()
 f.close()
 
-f = open('items.txt','r',encoding='utf-8')
+f = open('names.txt','r',encoding='utf-8')
 strings = [line[:-1] for line in f.readlines()]
 f.close()
 
-f = open('items_en.txt','r',encoding='utf-8')
+f = open('names_en.txt','r',encoding='utf-8')
 strings_en = [line[:-1] for line in f.readlines()]
 f.close()
 
