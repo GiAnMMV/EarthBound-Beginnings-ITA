@@ -35,7 +35,7 @@ These combinations are read by the game as variables, then remember to treat the
 ` ³ ` followed by 4 characters => Number (5)
 
 ### ITEMS/PSI/ENEMIES/LOCATIONS
-All the lines in `items.txt` can't be longer than 11 characters, `|` doesn't count.
+All the lines in `names.txt` can't be longer than 11 characters, `|` doesn't count.
 
 ### BATTLE TEXT
 
