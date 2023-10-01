@@ -12,7 +12,7 @@ Errore di sistema!!!#|
 *Oh, qualcuno ti# ha ferito.#|
 *Beh, al prossimo# livello# mancano...#|
 *Nel caso avessi# ancora voglia di# ¹Ì×,# torna pure.#|
-*Beh...# A quanto pare la# nostra casa è# infestata.#_*Non so di# preciso come...#_*Ma il tuo# bisnonno ha# studiato PSI.#_*Potresti trovare# qualcosa di utile# in cantina.#_*Ma ho lasciato la# Chiave della Cantina# da qualche parte...#_*...non ricordo dove,# di preciso...#_*Comunque, figliolo,# sei la mia unica# speranza.#_*È ora che tu parta# per una piccola# avventura,#_*e che esplori le# potenzialità dei# tuoi poteri.#_*I poteri non vanno# presi con leggerezza.#_*Metticela tutta,# ¹÷[!!#_*Ma ricorda anche di# tornare a trovare# la tua famiglia.#_*Ciao.#_*Oh... telefonami e# mi assicurerò di#_*SALVAre i tuoi# progressi.#_*Chiamami per# qualunque cosa.#|
+*Beh...#_*A quanto pare la# nostra casa è# infestata.#_*Non so di# preciso come...#_*Ma il tuo# bisnonno ha# studiato PSI.#_*Potresti trovare# qualcosa di utile# in cantina.#_*Ma ho lasciato la# Chiave della Cantina# da qualche parte...#_*...non ricordo dove,# di preciso...#_*Comunque, figliolo,# sei la mia unica# speranza.#_*È ora che tu parta# per una piccola# avventura,#_*e che esplori le# potenzialità dei# tuoi poteri.#_*I poteri non vanno# presi con leggerezza.#_*Metticela tutta,# ¹÷[!!#_*Ma ricorda anche di# tornare a trovare# la tua famiglia.#_*Ciao.#_*Oh... telefonami e# mi assicurerò di#_*SALVAre i tuoi# progressi.#_*Chiamami per# qualunque cosa.#|
 *Tac.#|
 *Pronto? Sono Papà.#|
 *Ho trasferito# $³=[_|# sul tuo conto.#_*Sottraendo le# tue spese,#_*il saldo ammonta# a $³+[_|.#_*Spendi i tuoi soldi# con saggezza.#|
@@ -57,10 +57,10 @@ Errore di sistema!!!#|
 *Uh!?# Andrai lì# per salvarla?#|
 *Ma lei è la ragazza# perduta, Pippi?#_*Beh ma è# favoloso.#_*Sapevo che avresti# compiuto il tuo# dovere da cittadino.#_*Applausi,# applausi...#_*Ora piccola Pippi,# non dimenticare...#_*di dire a mamma# che il Sindaco# ti ha salvata.#_*Ecco, ti do# ¹£@ un premio di# ³ª|§|.#|
 *A proposito, eroe,#_*forse ti piacerebbe# andare a vedere# che succede allo Zoo?#|
-*Sì, ci andrai?# Fantastico, mitico# grandioso!#_*Assicurati di prendere# una Chiave dal mio# assistente, Abbott.#|
-*Questa Chiave apre il# cancello dello zoo.# Non perderla.#|
-*Riportamela viva,# e sicuramente# sarò un eroe...#_*Ehm, uhm, voglio dire# sarai un eroe.#|
-*Chi altri, se non il# nostro eroe ¹£@,#_*avrebbe sterco di# tigre sui suoi# vestiti?#_*Ha-ha, sto solo# scherzando. Fila via# adesso.#|
+*Sì, ci andrai?# Fantastico, mitico# grandioso!#_*Assicurati di# prendere una Chiave# dal mio assistente,#_*Abbott.#|
+*Questa Chiave apre# il cancello dello# Zoo. Non perderla.#|
+*Riportamela viva,# e sicuramente# sarò un eroe...#_*Ehm, uhm, voglio# dire sarai un eroe.#|
+*Chi altri, se non il# nostro eroe ¹£@,#_*avrebbe sterco di# tigre sui suoi# vestiti?#_*Ah-ah, sto solo# scherzando. Fila via# adesso.#|
 *Ho sentito delle# voci su una# ragazza prodigiosa.#_*Ti aiuterà# nel tuo viaggio.#|
 *Le chiavi dello Zoo# te le tirano dietro,# prendine un'altra.#|
 *Dai un'occhiata,# tutti gli animali# sono scappati.#|
@@ -78,7 +78,7 @@ Errore di sistema!!!#|
 *Aspetta.. Una voce# sta parlando nella# mente di ¹£@.#|
 *Bene.#|
 *Grazie per aver# fatto acquisti# da noi.#|
-*Com'è comodo che lo# sportello automatico#_*sia qui accanto# al bancone, ma perché#_*dovrebbe interessarmi?# Non ho nemmeno una# carta da usare.#|
+*È comodo che lo# sportello automatico#_*sia qui accanto# al bancone, ma tanto#_*a me non interessa.# Non ho nemmeno una# carta da usare.#|
 *Oggi il cielo# è sereno.# Però, non m'importa.#|
 *Ooh! Quel Canarino# è il Pulcino di# Laura canterina.#_**Vuoi ridarle il# suo piccolo?#|
 *Un momento...#_*Ti sei appena perso# qualcosa di molto# importante.#|
@@ -89,10 +89,10 @@ Errore di sistema!!!#|
 *Ciao! Io sono Pippi,# e mi sono smarrita.#_*Sei stato molto# coraggioso a# ritrovarmi.#|
 *Non darti tutte# queste arie.# Ah-ah-ah.#|
 *Sei coraggioso.# Spero di# incontrarti ancora.#|
-*Sono così felice! Per# ringraziarti prendi# questo regalo.#_*Una Medaglia che# ti proteggerà.# Ecco, tieni!#|
-*Probabilmente# hai già# qualcuno di speciale,#|
+*Sono così felice!# Per ringraziarti# prendi questo regalo.#_*Una Medaglia che# ti proteggerà.# Ecco, tieni!#|
+*Probabilmente# hai già qualcuno# di speciale,#|
 *È giunta l'ora# di salutarci.#_*Passa a trovarmi# qualche volta, non# vedo l'ora#_*di rivederti.# Ad ogni modo...#_*Pensi che io# debba rifarmi# l'acconciatura?#|
-*Non serviva che# tu rispondessi, tesoro.#|
+*Non serviva che tu# rispondessi, tesoro.#|
 *IIH, UH-UHH, UH-AHH!#|
 *¹£@ ha sentito# questa domanda# nella sua mente.#_*”Chi si è perso# la coda?”#|
 *Cielo! Che strani# vestiti che indossi!#_*Di certo i mostri ti# daranno la caccia con# quegli indumenti!!#|
@@ -112,11 +112,11 @@ Errore di sistema!!!#|
 *Ho riacquistato la# mia forza alla#_*fontana della Regina# Mary.#|
 *Il brutto della# fontana della Regina# Mary è che...#_*è molto lontana e# difficile da trovare.#|
 *Sto portando questo# orecchino alla# fontana.#_*Diventerà senz'altro# un orecchino magico.#|
-*Il misterioso suono# della fontana è ha# un effetto calmante.#|
+*Il misterioso suono# della fontana ha# un effetto calmante.#|
 *Tutto a sud.# Ti sei perso?#_*Scusa...Ti stavo# guidando verso i# servizi igienici.#_*La Fontana della# Regina Mary è a# ovest del castello.#|
-
-
-
+*Ho piegato il mio# cucchiaio e ora non# riesco più ad usarlo.#_*Saresti in grado# di aggiustarlo in# qualche modo?#|
+*Aggiustalo in# fretta, per favore.#_*(¹÷[ ha aggiustato# il cucchiaio coi# Poteri PSI.)#_*Grazie tantissime!# Gnam, gnam...#_*Ehi, che ne dici# di passare qui# la notte?#|
+*Perché no? Potresti# aggiustarlo senza# alcuno sforzo fisico!#|
 *Sei una strana# persona...#_*ma mi piaci, per# qualche ragione.#|
 *Molto bene.#|
 *Sigh sob sob...# Dovresti accettare# la gentilezza con# gratitudine.#|
@@ -128,9 +128,9 @@ Errore di sistema!!!#|
 *Grazie. Il tuo letto# è pronto. Fai una# buona dormita.#|
 *Sèntiti libero di# usare il nostro letto# ogni volta che vuoi.#|
 *Posso affermare che# non sei di qui,# straniero.#|
-
-
-
+*L'Ocarina della# Speranza è completa,# finalmente.#_*Ora può far uscire# fuori la sua melodia.#_*La vuoi?#|
+*Mi sembri un tipo# onesto, Ecco.# Ah ah ah.#|
+*È fin troppo ovvio# che la vuoi.# Ah ah ah.#_*Ecco, prendila.#|
 *Ehilà!# Che si dice?#|
 *Non c'è via d'uscita# da un luogo come# Magicandia.#_*Ah ah ah...#|
 *Fuori?# Un mondo fuori?# Che vuoi dire?#|
@@ -155,36 +155,36 @@ Errore di sistema!!!#|
 *Sono proprio felice# di ricevere visite!#_*So cosa volete che# faccia. Ecco!#|
 *Ascolta, o ¹£@# amante della musica,# la mia canzone!#_*Perché piangi,# o dolce bambola?#_*È colpa del Canarin# mesto cantare?#_*La scimmia canta,# il pianoforte pure,#_*forse sonato da# spettral figure.#_*Del Cactus del# Deserto, tanto solo,#_*riecheggia ogni notte# il tristo assolo.#_*Il Drago dorme,# la nota immane.#_*E d'Eve la canzone# alfin rimane.#_*La cima del monte# dal nome di Itoi#_*devi raggiungere,# o giovane, poi.#_*Vai alla Pietra XX# per l'ultim tono#_*e dalla Regina Mary,# innanzi al trono!#_*Ninna ninna nanna...# Strana ninna nanna...#_*Ciao ciao ciao...# Addio.#_*Proprio una bella# canzone, vero?#|
 *Nel folto del bosco# c'è un chitarrista# che fa l'eremita.#_*Non è affatto di# brutto aspetto...#_*E soprattutto è# un poeta davvero# bravo.#|
-*Mi è stato detto di# un uomo di cui tutti#_*si dimenticano. Ma# non mi ricordo chi# fosse.#|
-*Che ci si creda o no,# sono un Guaritore.#_*Posso ricaricare i# PP e curare la# pietrificazione.#|
-
-
-
-
-
-
-*Vorrei poter entrare# nel castello per# incontrare la# Regina Mary.#|
-
-
+*Mi è stato detto di# un uomo di cui tutti#_*si dimenticano. Ma# non mi ricordo chi# sia.#|
+*Che ci creda o no,# sono un Guaritore.#_*Posso ricaricare i# PP e curare la# pietrificazione.#|
+*...Come pensavo...#|
+*Non portarti dietro# tutti quei soldi.#|
+*Non sono una# scimmia canterina,# ovviamente.#_*Le scimmie normali# non cantano. Dunque,# hai qualche domanda?#|
+*Però...# le domande sono# così ridicole.#|
+*Meglio, temevo mi# avresti fatto una# domanda difficile.#_*Assomigli proprio# alla Regina Mary.#_*Mi chiedo perché.#|
+*Dovevo dirtelo da# quando ti ho visto.#_*I binari sono stati# riparati e il treno# è in orario.#|
+*Vorrei poter entrare# nel castello per#_ incontrare la# Regina Mary.#|
+*La Regina Mary ha# spesso gli incubi.#_*Come se stesse# rimproverando un# bambino cattivo,#_*grida ”Ho paura!# Ho paura!”#_*E poi inizia a# cantare, ma solo# per poco.#_*Poi si dimentica la# melodia e si sveglia# di soprassalto.#_*Chissà quale triste# esperienza ha fatto# questo alla Regina.#|
+*Ma lo do solo alle# ragazze #|
 *Zzzzzzzzzzzz...#|
-
-
-
-
+*Bugiardo!#|
+*Tutti noi sappiamo# che non appartieni# a questo luogo,#_*ma ti consideriamo# uno di noi.#_*Con l'Uncino d'Onice# potrai tornare qui# quando vorrai.#|
+*Promettimi di# tornare, se ti# servirà aiuto.#_*Ti vogliamo tutti# bene, ¹£@.#|
+*Benvenuto, ¹£@.#_*Qui a Magicandia# sono tutti tuoi# amici.#_*Potrai ottenere# tutto ciò che#_*desideri in# qualunque quantità.#_*Come? Vuoi sentire# la mia canzone?#_*Mi dispiace, non# so perché, ma non# posso cantare.#_*Ti prego, impara# la melodia. Dura# solo 8 note.#_*Dopo averle imparate# tutte, torna qui e# canta per me.#_*Se solo potessi# udire quella# canzone...#|
 *......#|
-
-
+*Ti prego, CANTAmi# le melodie che hai# imparato.#|
+*Sì...# proprio così.# È così che faceva.#|
 *Oh! Giegue!#|
 *In un incubo ho# visto Magicandia# sparire nel nulla.#_*Il cuore mi batte# ancora fortissimo.#|
 *Già, sono il gatto# che nuota per terra.#_*Indovina cos'ho in# mano.#|
-
+*Sai cos'ho in mano?#_*Esatto.# Un Fiocco...#_*Questo Fiocco Magico# rende forti...#|
 *I Fiocchi Magici# sono solo per le# ragazze.#|
 *Sono un gatto# nuotatore.#_*Hai mai sentito# parlare di una# Caramella Magica che#_*può dare forza e# potere a un bambino# indifeso?#|
 *Capisco, ma tu non# sei indifeso, perciò# non ne hai bisogno.#|
 *Il ragazzo con gli# occhiali può usare la# Caramella di sicuro.#|
 *Era buona la# Caramella?#|
 *Se cerchi il benevolo# vecchietto,#_*va' alla Fontana# della Regina Mary.#_*Ascolterà le tue# grida profonde e# accorrerà in aiuto.#_*Grida profonde,# ricorda,# grida profonde!#|
-
+*(La folla si# fa agitata e# irrequieta.)#_*Che accidenti è# quella roccia col# cappello?!#|
 *Mi hai chiamato?#|
 *È così, allora?# Ciao!#|
 *Ti servono soldi,# vero?#|
@@ -195,177 +195,177 @@ Errore di sistema!!!#|
 *Io sono un uomo# dimenticato. Non# sono davvero qui.#_*Non dovevi notarmi...#_*Non fare a caso a me.#|
 *Io sono un uomo# inesistente.#_*Sei così gentile# quando mi parli, non# so che fare.#_*Se gli altri mi# mancassero non potrei# più vivere da solo.#|
 *Le mie conversazioni# sono sempre# monologhi.#_*Sono solo dal# momento in cui# sono nato...#|
-
-
-
-
-
+*Fortuna, sfortuna...# Per me non fa# differenza.#_*A volte anche# respirare diventa# troppo per me.#|
+*Perché insisti nel# voler parlare# con me?#_*Sei anche tu un# uomo dimenticato?#|
+*Non dire# sciocchezze.# Lasciami in pace.#|
+*Proprio così.# È proprio così,# vero?#_*Vai pure avanti# e ignorami, come# tutti gli altri.#|
+*Proprio così.# Grazie.#|
 *Il tuo carico è# già al limite.# Torna un'altra volta.#|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Ho sentito che sono# successe cose strane# a Sperduzia.#|
+*Ho sentito che uno# zombi è stato# rapito...#_*gli animali vagavano# per le strade# della città...#_*roba da matti.#|
+*Benvenuti ad# Auguronia!!#_*Economica, rapida# e meravigliosa.#_*Il medico migliore# è Benny il Vecchio# Dottorone.#_*Approfitta ora# delle sue visite a# buonissimo prezzo!!#_*Siate morti o vivi,# proteggerà la vostra# vita.#|
+*Prima fammi vedere# i soldi. Poi mi# occuperò di te.#_*Allora... # Nel tuo caso,# mi serviranno#_*$³ª|§| per# curarti.#_*Questo è un# prezzo di favore# solo per te.#|
+*Grazie per i# $³ª|§|.#_*Ora sei a posto.#_*Fatti di nuovo male# e torna presto.# Eh-eh-eeh!#|
+*Va bene, muori# pure. Telefonerò# a un becchino.#|
+*Finché il coprifuoco# non viene revocato# nessuno può passare.#_*È un'ordinanza# del Sindaco.#_*Pss...# A proposito,#_*forse ti faranno# attraversare il ponte# a nord-est dello Zoo.#|
+*Che è successo alla# scuola? Dovresti# stare a scuola, no?#|
+*Ho trovato questo# nella fabbrica di# Duncan a nord.#|
+*Questa fabbrica è# proprietà privata del# sig. Duncan.#_*Vediamo un po' il# tuo Lasciapassare!#|
+*Questo Lasciapassare# è scaduto.# Devi averlo rubato!#_*Guardami negli# occhi.#_*Creatura# sospetta!!#|
+*Un'orribile creatura# mi ha pestato.#_*Sta' all'erta se# stai andando alla# stazione.#|
+*Ho sentito che il# coprifuoco a# Sperduzia è stato#_*revocato.# Sai che significa,# vero?#_*Che possiamo di# nuovo attraversare# il ponte!#|
+*Stavo prendendo in# giro quel pappamolle# di ¹x[.#_*Ma è scappato.#|
+*Ehi, ¹x[!# Pappamolle!#|
+*Stavamo prendendo in# giro quel pappamolle# di ¹x[, sai?.#|
+*Ti prendo in giro.#|
+*Ho visto ¹x[# rubare degli# esplosivi!!#_*Tremo al pensiero di# cosa dirà il signor# Maestro.#|
+*Ti sono scivolati# gli occhiali dal# naso.#|
 *Mi chiamo Suzy. Sono# Miss Auguronia.#_*Non sono bella?#|
 *Anche tu sei carino.#|
 *Tu sei brutto!# Mi sembri uno# zuccapoccione!#|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Purtroppo la porta# per il tetto è# chiusa a chiave.#_*Che ne dici di# unirti a me...?#_*Volevo sgattaiolare# fuori per giocare# col mio Game Boy.#|
+*Sei di poche parole,# vero?#|
+*Il maestro di# ginnastica mi ha di#_*nuovo fatto fare# flessioni in più.#_*Preferirei gli# addominali però.#|
+*Come fai a perderti# nel cortile di# una scuola?#_*Non riesco proprio# a crederci.#|
+*Ovvio che la porta# per il tetto è# chiusa a chiave!#_*Dobbiamo fare in# modo che gli non# studenti scappino#_*lì per giocare ai# videogiochi invece# di studiare, no?!#|
+*E poi quando si# alza va in giro# per negozi.#_*Fortuna che ho# nascosto la carta#_*di credito da# quella donna!#_*Non credi sia una# pessima moglie?#|
+*I bambini non# conoscono le# sofferenze della#_*vita vera...#|
+*Come ti permetti a# parlare così di mia# moglie, smamma!#|
+*Quando era più# giovane era# proprio bella,#_*e a pensarci non# è poi così male,# dopotutto.#_*Vorresti un tè?#|
+*Mi sembri un# bambino abbastanza# bravo.#_*Dicevi di voler# andare al tetto?# Seguimi.#|
+*I bricconcelli# dovrebbero mostrare# rispetto ai vecchi.#|
+*È pericoloso,# che ci fai con# quella cosa?#_*La terrò io# per te.#|
+*Tieni, tieni,# prendi pure un tè.#|
+*Anche che si chiama# corridoio è comunque# vietato correre!#|
+*Aspetta un attimo,# non mi pare di# averti mai visto.#_*Non sei di queste# parti, vero?#|
+*Capisco. Basta che# non corri nel# corridoio.#|
+*Fammi vedere# cos'hai.#_*Non porti nulla# di pericoloso,# vero?#|
+*Chi sei?!# Tanto non esco.#_*Perché sennò mi# prenderebbero tutti# in giro.#|
+*Vuoi diventare# mio amico?#_*Ho rubato degli# esplosivi, ma non# dirlo a nessuno.#|
+*Ora esco.#|
+*Ciao, io sono# ¹x[.#_*Volevo far volare# i razzetti prodotti#_*dalla Piccola Dolce# Fabbrica.#|
+*Sarai stanco.# Che ne dici di# restare qui stanotte?#|
+*Uao!  Questo# Razzetto farà di# sicuro un bel botto.#_*Forse potremmo# riuscire a farne# altri.#_*Seguimi nel# laboratorio.#|
+*(¹x[) Mira# la roccia...# OK! 1-2-3 Fuoco!!#|
+*(¹x[) Ora tocca# al pappamolle.#_*Resta qui e# aspetta!#|
+*Io sono il Maestro# Misterioso. Vivo# qui in segreto.#_*Mi servono fondi# per la ricerca.#_*Vorresti comprare# un'invenzione?#|
+*Bene, da'# un'occhiata alla# lista dei prezzi.#|
+*Ti servono i soldi# per le caramelle,# eh?#|
+*Passa quando vuoi,# mi troverai sempre#_*qui a lavorare su# una nuova invenzione.#|
+*Non ho fatto nessun# progresso dalla tua# ultima visita.#_*Vorresti riguardare# la vecchia lista?#|
+*Ho sentito alla# radio che è un# caos dappertutto.#_*Proteggerò questa# stazione a qualunque# costo.#|
+*Beh, non so fino a# dove arrivi il treno,#_*ma ti serve un# biglietto per salire.# Vuoi comprarne uno?#|
+*(L'arma di ¹£@ è# stata confiscata.)#|
+*Sono ³ª|§|# dollari, allora.#|
+*Ehi, quel Cappello# che stai tenendo# è proprio uguale a#_*a quello perso da# ¹8[ da# Pupazzo di Neve.#_*Se glielo restituisci# potrebbe darti una# ricompensa.#|
+*Possa tu vivere una# vita lunga e felice.#|
+*Ero diretto a# Bambinia in cerca# di mia moglie.#_*Ma come ci arrivo,# ora che il treno# non si muove più?#|
+*Fa' pure, ficca il# naso negli affari# altrui.#_*È questo che rende# il gioco così# divertente.#|
+*Ecco!#|
+*Hai visto l'uomo# coi baffi lisci?#|
+*Devo averlo perso.# Non posso farci# niente...#_*Comunque, ora devo# controllare le auto# in divieto di sosta.#|
+*È un truffatore!# Fammi sapere se# lo incontri.#|
+*Ehi Tu!# Tieni questi soldi# per me.#_*Non dirlo agli# sbirri o a nessun# altro!#|
+*Non scappare con# la mia grana!#|
+*Fa' come ti dico!#|
+*Lasciami stare!# Non vedi che sono# in incognito?#|
+*Hai visto una donna# con una grande# pancia?#|
+*Devo averla persa.# Non posso farci# niente...#_*Comunque, vado a# cercare pirati# della strada allora.#|
+*Si è mangiata# 5 porzioni# di ¹Ì×,#_*poi è scappata# senza pagare.#_*Se la vedi,# fammelo sapere!#|
+*Oh, quanto sono# piena!!#|
+*Questa città è# diventata pericolosa!#_*Ma resta comunque un# posto migliore di# Ennea.#|
+*Ah sì?# Sei pronto?# O-kay!!#|
+*Ehi!!# Vuoi sentire la# mia canzone!?#|
+*Va bene, aspetterò.#|
+*È ora di salutarci...#|
+*Hai sentito la ninna# nanna del Drago?#|
+*Da qualche parte# nella città di# Spettropoli...#_*Ho sentito che# c'è una casa#_*in...#_*infe..#_*infestata..# Una casa infestata!!#_*Non azzardarti ad# andare lì!!#|
+*Dammi qualcosa.# Non importa cosa,# basta che me lo dai.#_*Dammi dammi.#_*Per favore, dammelo.#_*Perché non vuoi# darmelo? Te l'ho# chiesto per favore...#|
+*Ti darò qualcosa# in cambio, lo giuro.#|
+*Sto pensando a# qualcosa di bello# da darti.#|
+*Cosa vuoi darmi?#|
+*Grazie mille.# Come segno di# gratitudine ti#_*darò questo Sacco# di Pulci.# Ecco, prendilo.#|
+*Circola l'influenza# da queste parti.# Coff, coff.#|
+*Sopra le montagne# abita una vecchio.#_*Leggende narrano che# da 300 anni non ha#_*mai preso un# raffreddore.#|
+*Mmm, mmh meh eh,# mmh, eh meh ah,# mmmh, eh mmmhmm!#|
+*Neanch'io capisco# una parola di quel# che dice il vecchio.#|
+*Che bello riavere# di nuovo la mia# Dentiera. Un premio?#_*Condividerò con te# il segreto per una# lunga, lunga vita.#_*Gargarismi frequenti.# Gargarismi fieri.# Gargarismi forti.#_*E se ti becchi un# raffreddore farli# ti aiuterà.#_*Ecco un Collutorio# che ho creato io# stesso. Prendi!#|
+*Un altro collutorio?# Ecco qui.# Avanti, prendilo.#_*Ma questa volta# ti costerà# $³ª|§|.#_*Garg garg garg...# Puh!#|
+*Ho sentito che# qualcuno è morto di# raffreddore.#_*Di semplice# raffreddore!#|
+*Hai sentito che c'è# una casa infestata# a Spettropoli?#|
+*Ho sentito una# storia spaventosa su# quella casa vuota...#_*si dice che il# pianoforte suoni# una melodia stregata.#|
+*Ehi, ragazzino, quel# che non conosci non# ti farà mai del male!#|
+*Aah - Ah ah ah...#|
+*Non c'è nessuno qui.# Ih ih ih...#|
+*Questo è il tuo# peggior incubo.# Non puoi scappare!#_*Ih ih ih...#|
+*V A T T E N E#|
+*Aaaaahhhhhhhhhh....#|
+*Non ce la farai# mai...# Ih ih ih ih.#|
+*Sono solo un# normale topo.#_*La stanza del# pianoforte...# Ih ih ih...#|
+*I proprietari della# casa infestata erano# i Rosemary.#|
+*È apparso un# fantasma anche# a casa mia.#_*Ma non ci è# rimasto a lungo.#_*Ha trovato la# mia camera troppo# piccola.#|
+*Io non vivo in# questa città. Sono# qui per aiutarti.#_*Per caso ti sei# scordato di annotare# delle cose?#_*Che ne dici di un# indizio per soli# ³ª|§| dollari?#|
+*Oh, tu non hai# bisogno di nessuno,# eh?#_*Ricevuto,# sparisco allora.#|
+*Posso vendere solo# 3 indizi. Scopri il# resto da te.#|
+*Sono l'unico# pagliaccio di# Spettropoli.#_*Tutti gli altri sono# così seri.#|
+*A dir la verità non# sono un tipo allegro# di natura.#|
+*Davvero?#_*Potrei essere io# quello pessimista.#|
+*La mia casa è piena# di mostri, perlopiù# fantasmi.#_*È per questo che# viviamo all'aria# aperta ora.#|
+*(¹x[) Il tuo# Razzetto e# il mio...#_*grande, vero?...# Cooooosa!?#|
 *Oh, l'oscurtità è# così fitta...#_*Non riesco a vederti# bene...#_*Possibile che?...#_*Sei per caso la# ragazzina di# Pupazzo di Neve?#_*¹8[, mi pare...#_*Fatti forza, la tua# mamma è rinchiusa da# qualche parte dietro.#_*Non tentare di# liberarci ora.#_*Prima bisogna# distruggere la# Nave Madre.#|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Oops! È andato# in orbita.#_*Un successo...#_*più o meno.#|
+*Oh, sembri un così# bravo ragazzo...#_*Solo guardarti mi# fa sentire al# sicuro.#_*Sono certa che# libererai quella# casa.#_*Ecco la Chiave.#|
+*Ehilà, mi chiamo# ¹÷[.#_*Il mio vecchio nome# era Buggerror# Rosemary.#|
+*¹÷[!# Tieni le tue piccole# luride...#_*No, tesoro, dicevo# a mio figlio.#|
+*I fantasmi ancora# non se ne sono# andati, ma...#_*sei un ragazzo così# coraggioso!#_*Ho cambiato il nome# di mio figlio in# ¹÷[, come te.#|
+*Questo è il# capolinea di# Pupazzo di Neve.#|
+*Ho sentito che a# Bambinia sono tutti# scomparsi.#|
+*La mamma era# partita per Bambinia.#_*È da giorni ormai# che non la sentiamo.#_*Papà ed io andremo# a cercarla.#|
+*Sei stato alla casa# infestata di# Spettropoli?#|
+*Più tardi potrai# raccontarmi tutta# la storia...#_*Adoro i racconti# dell'orrore.#|
+*Non voglio che tu# vada, ma se devi# va' pure.#|
+*Fa freddissimo qui# a Pupazzo di Neve.#_*Rischi un brutto# raffreddore se non# ti vesti bene.#_*Làvati i denti,# inoltre.#_*Coff coff uff...#|
+*La vita è un gioco.# Ma a volte devi# riposare.#|
+*¹8[ non è venuta# a scuola di recente,# sono preoccupato.#|
+*Sono in ansia per# ¹8[.#_*Sono talmente# preoccupato che non# riesco a dormire.#|
+*Non hai abbastanza# soldi.#|
+*Oh cielo, ti cola# il naso.#|
+*Scusami, vorrei# parlare con chi# sta giocando.#|
+*Ho cose molto# importanti di cui# parlare.#|
+*Ehilà...#_*Apprezzo molto la# tua gentilezza verso# ¹÷[.#_*Sono il Papà del# ragazzo...#_*Potrei sapere il tuo# nome, per piacere?#_*Grazie per la# collaborazione.#|
+*Grazie per il tuo# tempo.#_*Ho anch'io cose# urgenti da fare,#_*perciò è meglio# che vada.#|
+*Sei ¹£@?#|
+*Non fare lo# sciocchino ora.#|
+*Devo fare un viaggio# per trovare la mia# Mamma, e...#_*Avevo bisogno del# tuo aiuto...#_*Quindi ti ho# aspettato,# ¹£@.#_*Prima di tutto# andiamo a vedere che# succede a Bambinia.#|
+*Sei apparso.# Proprio come nel# mio sogno...#_*Il ragazzo del mio# sogno era proprio# uguale a te.#|
+*¹÷[....# Stai con me,# per favore.#|
+*No!!# Stai con me,# Ti prego!...#|
+*Che silenzio...# Ti andrebbe di# ballare?#|
+*Hai ragione.# Non è il momento.#_ L'ho detto senza# pensarci.#|
+*¹÷[?...# Mi ami?#|
+*Che succede,# ¹x[?#|
+*Il Drago dorme.#_*Il Potere Psichico# di ¹£@ è debole# per svegliarlo.#|
+*Avvertita la# presenza di ¹£@,# il Drago si svegliò.#_*Devi sconfiggermi# per ricevere la mia# nota musicale.#|
+*Mia figlia ¹8[# non è mai stata una# ragazza coraggiosa,#_*ma è di buon cuore# e ha un potere# segreto.#|
+*La vittoria sarà# tua alla fine.#_*Le nostre preghiere# verranno sicuramente# nel prossimo futuro.#_*Per adesso fatti# una bella dormita.#|
+*¹£@ ha trovato# un Lasciapassare# caduto a qualcuno.#|
+*Sono saliti sul# razzo.#|
+*Mio nonno vive nel# Deserto di Iucca.#_*Se lo vedi, salutalo# da parte mia.#|
+*Sono solo un cumulo# di ossa ormai.#_*Ero un bravo# ragazzo prima.#_*Quindi niente# paura, non intendo# attaccarti.#|
+*Potrei essere un# bel cartello, non# credi?#|
+*Fai conversazione# con un cadavere? Che# bambino coraggioso!#|
+*Sono le ossa di un# cammello.#_*Vuoi ssapere come# si cammina quando si# è nel deserto?#|
+*Muovi il piede# sinistro prima che# il destro sprofondi.#_*Muovi il piede# destro prima che il# sinistro sprofondi.#_*Mi ci sono voluti# 100 anni per capirlo.#|
+*Mi piacerebbe molto# dirtelo.#_*Non vuoi saperlo?#|
+*Il Deserto di Iucca# è la parte più# noiosa del gioco.#_*Ciononostante sta'# all'erta, l'area# è stata minata.#|
+*Visita il Deserto# di Iucca.#_*Voli privati# disponibili# tramite accordo.#|
+*Durante l'ultima# guerra ho disseminato# il deserto di mine.#_*Ne ho rimosse tutte# tranne una, quindi# fa' attenzione.#|
+*Oh, vuoi fare un# giro sull'aereo?#|
+*Il prezzo del# biglietto è di# $³ª|§| a volo.#_*Conserva le Matrici# dei Biglietti.#_*Se arrivi a 10# matrici potrai usare# il carrarmato.#_*L'idea sembra# piacerti.# Ah ah ah...#|
+*Beh, è piuttosto# costoso...# Non ti biasimo.#|
+*Grande! Vedo che# hai raccolto 10# matrici.#_*Ecco il mio# carrarmato. Sembri# proprio felice.#_*Ah ah ah...#|
+*Hai distrutto il# mio carrarmato,#_*la cosa più preziosa# che possedevo.#_*Ora ti toccherà# pagarmi $³ª|§|# per le riparazioni.#_*Vuoi restituirmeli# adesso?#|
+*Grazie e# arrivederci.#|
 *Che rabbia.# Arrrrrrrrr!!#|
 *Dov'è Mami?#*Dov'è Papi?#|
 *Alt, chi va là?#|
@@ -385,257 +385,257 @@ Errore di sistema!!!#|
 *Guh gah...#|
 *Sì, sebbene il mio# corpo sia quello# di un bebè,#_*posseggo abilità# psichiche, come te.#_*Conosco il potere# del Teletrasporto.#_*Usa questo potere per# tornare in un posto# che hai già visitato.#_*(Il bebè ha insegnato# loro il potere del# Teletrasporto)#|
 *Ho sentito la voce# di mio Papà venire# dalle montagne.#_*Ma le montagne sono# oltre la città di# Ennea.#_*È così lontana che# non posso fare un# viaggio del genere.#|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Aspetta un attimo...# Non posso darti nulla# se non hai spazio.#|
+*È passato del tempo,# hai più esperienza e# si spera anche un#_*po' più di saggezza,# ma resti comunque# un ragazzino.#|
+*Dovresti guardarti# bene intorno da# queste parti. Eeh....#|
+*I membri della banda# B.B. sono proprio# terribili...#|
+*Per abbreviare# chiamiamo "B.B."# i membri della# Banda Bla-Bla.#|
+*Ehi, tu! Non sei# un Bla-Bla, vero?#|
+*Le nubi nere che# sovrastano le# montagne...#_*Stanno facendo# impazzire tutti# la cittadinanza.#|
+*Ehi, voi due.# Piccioncini, eh!?#|
+*Amore e pace,# sì!#|
+*Le profondità dei# vostri cuori ardono# d'amore, vero?#|
+*Ho ottenuto un# Biglietto per il Vivo# dello Spettacolo.#_*Saprai già che al# Negozio c'è il# tutto esaurito.#_*Ma potrei separarmi# da questo per soli# $³ª|§|...#|
+*Ecco qui! No, ora# non andare al# Negozio però.#|
+*Bimbetti avidi...#|
+*È un segreto...# Prometti di non dire# che te l'ho detto io?#|
+*Il vero nome di# ¹¡], il Capo# dei Bla-Bla, è...#_*¹¡] Junior III.# Ah.#_*È solo una voce,# però#|
+*Sarai tu a# pentirtene,# te l'assicuro.#|
+*Non sbirciare dietro# le quinte. Le# prenderai di sicuro.#|
+*Uao, sei adorabile.# Posso offrirti da# bere?#|
+*Hai paura degli# sbirri?# Eddai!#|
+*Nient'altro da bere# da parte mia.#|
+*Ora hai capito di# di aver sbagliato?#|
+*Se prometti di non# farlo più potrai# tornare a casa.#_*Dovrai lasciare# qui quell'arma# pericolosa, però.#|
+*Scusa, dovrai# restare un'altra# notte e calmare# i bollenti spiriti.#|
+*Eeh eeh eeh...#_*Ho finalmente# messo le mani su# ¹%`!#_*Vuoi comprare# quest'arma per# soli $³ª|§|?#|
+*Non hai abbastanza# soldi.#_*Sigh sob sob.# Ah, ah, ah...#|
+*I genitori di ¹¡]# sono stati uccisi da# creature dei monti.#_*Prima di allora era# un ragazzo gentile.#|
+*Vorrei che ¹¡]# tornasse a essere# come prima.#|
+*Volete cantare anche# voi?#|
+*Allora fatevi avanti# e improvvisate,# ragazzi!#|
+*Non siate timidi!#|
+*Ehi, ¹8[ cara!!# Beh, ho letto il nome# sul tuo cappello.#|
+*La ragazza era# carinissima.#|
+*Grazie per la# bella canzone.#_*Comunque, voi# avete picchiato# i miei amici.#|
+*Vi spacco la faccia!#|
+*Lo so che siete# stati voi!#|
+*Aah ah ah...# Sei proprio un tipo# tosto.#_*Ti chiami ¹÷[?#_*Facciamo che è un# pareggio, allora...# Ehm...#_*Voglio vendicare# i miei genitori.# Sulle montagne!!#|
+*Ti prego, ¹÷[,# accetta il mio aiuto.#|
 *¹£@ ha USAto la# Scheda Telefonica.#|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Sono certo che saremo# una bella squadra.# Andiamo!#|
+*Ti prego...# Ti sarò di# grande aiuto.#|
+*Pronto...# Sono Papà.#_*Non vorrei proprio# impicciarmi ora come# ora, ma...#_*Che aspetti!??#_*Prendi subito quel# pulsante "A"!#|
+*Ehi, tu,# con gli occhiali...#_*Non sei molto bravo# a combattere, vero?#_*Riposati qui mentre# prendo in prestito# i tuoi Oggetti. OK?#|
+*La forza bruta non# basta per batterli.#_*Ora so che riportare# la pace da noi è# possibile.#_*Io ci credo.#|
+*(¹¡])# Perché siete# arrossiti?#_*Usciamo di qui,# svelti!#|
+*Questo è il mio# camerino, uscite# da qui!!#|
+*Sono il padre di# ¹x[.#_*Credo che il Papà# di ¹÷[ te# l'abbia già chiesto,#_*ma gli hai detto# il tuo nome?#|
+*Va bene, perfetto.#_*Bada a ¹x[, per# favore. È molto# mingherlino...#|
+*Fammi registrare# il tuo nome# un'altra volta.#|
+*Al Porto prima del# Monte Itoi.#_*Dico sul serio.#|
+*Hai mai assaggiato# il Tofu alla# Fragola?#|
+*Se ne trovi un po',# portamelo, per# favore.#_*Ti darò qualcosa di# bello in cambio.#|
+*Non c'è modo di# comprare cose del# genere qui.#|
+*Oh!  Quello è Tofu# alla Fragola!# Grazie!#_*In cambio, ecco# qualcosa di bello# per te.#|
+*Se mai ti facessi# male, vieni da me.#_*Ho cibo, medicine# e un letto che puoi# usare.#|
+*Ehi! ¹x[!...#_*È giunta l'ora di# batterti per te# stesso.#|
+*Avanti, bambini,# che vi serve?#|
 *MI CHIAMO EVE.#_ TI STAVO ASPETTANDO.#_*MI HA CREATO#_ GEORGE...#_*È STATO PORTATO#_ AI CONFINI#_ DELL'UNIVERSO...#_*E IN SEGUITO#_ RIPORTATO A CASA.#_*SONO QUI PER#_ PROTEGGERTI.#_*È IL MIO SCOPO.#|
 *Quegli zaini devono# pesare molto.#|
 *¹÷[! ¹÷[!..#_*La battaglia sembra# averti stremato.# Ancora una volta?#|
 *Riprese le forze...#_*¹÷[ è tornato di# nuovo in campo.#_*Fai del tuo meglio,# ¹÷[!#|
 *¹÷[ si è accorto# che era stato solo# un brutto sogno.#_*Fai del tuo meglio,# ¹÷[!#|
-
-
-
-
-
+*A chi?#|
+*Il tuo carico è# troppo pesante.#_*Do l'oggetto a# qualcun altro?#|
+*Torna di nuovo se# vuoi prendere il# resto degli Oggetti.#|
+*Tu e ¹÷[ siete# amici?#_*Capisco...# Ma non posso comunque# darti i suoi Oggetti.#|
+*Quel pappamolle di# ¹x[ è fuggito# via da te?#|
 *  Benvenuti a#    Sperduzia#|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*   Zoo Cittadino#     Ufficio del#   Sovrintendente#|
+*Panorama sull'Oceano#  Turisti Benvenuti#|
+*Qui non c'è nessuno# che corrisponda alla# descrizione, ma...#|
+*Quando posizionata# nella fontana,#_*l'Erba Rossa diventa# Erbe Magiche.#|
+*Dove pensi di# trovarlo un uomo# così?!#|
+*Vuoi il ¹%`,# giusto? Grazie.# Sei di grande aiuto.#|
+*State entrando nel# Triangolo dello# Smarrimento.#_*State attenti!#|
+*Qualcuno ha perso# la sua Dentiera# proprio sotto# questo cartello!#|
+*Capisco...# Non ti senti molto# bene. Un attimo...#|
+*Vieni al mio# laboratorio,# per favore.#|
+*Il fenomeno ha# smesso.# Per il momento...#|
+*Ecco, ti faccio# vedere come. Trova# l'interruttore e...#_*Oh no!# L'ho premuto per# sbaglio!#|
+*Preparerò un po' di# ¹Ì×.#_*Fai cena e riposa# qui stanotte.#|
+*Oh, che posso fare?# Che dovrei fare?#_*Dove posso andare?# A chi posso chiedere?#_*Che dovrei fare?# Che dovrei fare?#_*La mia piccola# Pippi è sparita.#_*Se sei diretto a# Sperduzia...#_*Va' a dirlo al# Sindaco, ti prego.#_*Ahimè, ahimè!#|
+*Cosa?#|
+*Posso darti# $³ª|§| per# ¹%`.#_*Ti va bene?#|
+*¹£@ trova# un'annotazione nel# Diario del Bisnonno#_*e la legge ad alta# voce...#_*L'essere dimenticato# della nave che# percorre il cosmo.#|
+*So che menti. Non# puoi ingannarmi.#|
+*(Dalla folla# comincia ad alzarsi# un leggero brusio)#_*Abbiamo pagato per# vedere un trio!# Quelli lì sul palco#_*non sono tre!# Umpf umpf...#|
+*Quale vuoi che# tenga?#|
+*Il Drago stava# facendo un lungo,# lungo sonno.#!
 *Cosa posso fare# per te?#|
 *Bene, terrò# ¹%` con la# massima cura.#_*Vuoi che tenga# qualcos'altro?#|
 *Ci vediamo,# fratello...# Prenditi cura di te!#|
-
-
+*Vuoi prendere# ¹%`?#_*Perfetto! C'è altro# che vorresti# prendere?#|
+*C'è stata una frana# vicino alla Stazione# Unita.#_*Il treno non può# passare se i massi# non vengono rimossi.#|
 *Hai detto# ¹%`?#|
-
+*Mi dispiace, ma temo# tu non possa tenere# tutto quanto.#| 
 *Oh?  Pare tu non# abbia abbastanza# soldi.#|
-
+*Oh?  Pare tu stia# portando troppa# roba.#|
 *Non hai abbastanza# soldi. Torna quando# li avrai.#|
 *Arrivederci!# Fa' attenzione.#|
-
-
-
+*Non puoi portare# nient'altro.# Ciao...#|
+*Ecco la tua# medicina.#|
+*Spero abbia dormito# bene.#|
 *Quanto vorresti# prelevare?#|
 *Quanto vorresti# depositare?#|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Torniamo in città,# ora.#|
+*Scusa, ma temo che# tu non possa portare# tutto quanto.#|
+*Non hai spazio?# Che peccato!#|
+*Se ti manca lo# spazio torna# un'altra volta.#|
+*Quale itinerario di# volo desideri?#|
+*Non riesco a parlare# molto bene senza la# mia Dentiera.#|
+*No, non sono# abbastanza.#|
+*Sei in difficoltà?# Sono tanto# preoccupata.#|
+*Buona fortuna!#|
+*Chi è il capo?# Gli darò una bella# lezione!#|
+*I membri della# Banda Bla-Bla se la# cavano più che bene.#|
+*Ti consiglio di non# farmi arrabbiare.#|
+*¹£@ ha raccolto# il Lasciapassare.#|
+*Mmh...# Non hai abbastanza# soldi.#|
+*Vediamo...# A quanto pare il tuo# carico pesa troppo.#|
+*Sono Alfio,# l'assistente del# Dottore.#_*Vorrei assaggiare# pure io il Tofu# alla Fragola.#|
+*Grazie, Sembra# proprio buono!#_*Ti darò delle# informazioni# importanti.#_*Vicino alla cima# del Monte Itoi...#_*In fondo al lago,# c'è un robot# fantastico.#_*Penso che funzioni# ancora.#|
+*Sembro uguale ad# Alfio, ma sono# Betto.#_*Voglio portare# anch'io il Tofu# alla Fragola.#|
+*Oh! Quanto sono# felice. Prendi# queste Parole Dure.#|
+  PiùVita  Dormi|
 *Il tuo carico è# troppo pesante?#_*Ricordati di tornare# a prenderla.#|
 *Sei qui per prendere# la Sacca Grande?# Eccoti il mio dono.#|
 *Ora ti do la# Sacca Grande.# Un dono per te.#|
-
-
-
-
-
-
-
+*Non è un problema# poi così grosso.#_*Mia moglie è un# problema ben più# grande.#_*Non si alza# mai dal letto#_*prima di# mezzogiorno.#_*Neanche mi prepara# il cestino col# pranzo!#_*Non è terribile?#|
+*Oh! no!# ¹8[ è svenuta!#|
+*Grazie per la tua# gentilezza.# Per ringraziarti...#_*Punterò sulla tua# vittoria.#|
+*Io sono Laura.#|
+*Che sorpresa! Il# nostro eroe ¹÷[# è tornato da solo!#_*Perchè non ti fermi# un attimo a riposare?#|
+*Ragazzina! Questo# non è posto per una# bambina come te.#|
+*Salve, ¹£@!# Come va?#|
 *Buongiorno!# Dormito bene,# stanotte?#|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Torna ancora.# Promettimi che# tornerai ancora!#|
+*Buongiorno!#|
+*La maggior parte# delle scimmie qua# ti mentiranno.#_*Non fidarti!#|
+*Ehm come?# Ti sembro una# scimmia?#|
+*...In realtà sono un# procione che finge di# essere una scimmia.#|
+*Hai una buona# vista.# Tanto di cappello...#|
+*Prendila calma# fratello...#_*Sei così serio# tutto il tempo?#|
+*Beh amico...# Non capisci quando# è ora di staccare.#_*Fa' una pausa# compare...#|
+*Per fortuna.# È solo un gioco!#|
+*Mi hai raggiunto.# Devo ammettere che# è notevole.#_*Tieni, ecco una# cosa bella.#|
+*Gira a destra, poi# a sinistra, per# trovare una bella# cosa.#|
+*C'è troppo silenzio# qui, ma è troppo# per me, credo.#|
+*Continua dritto!# Troverai la verità# alla fine del# sentiero.#|
+*Sono una signora...# Non parlarmi in modo# così informale.#|
+*La verità è che...# io sono un uomo.#|
+*La la la, la la ...# Non preoccuparti,# questa canzone non# è per te.#|
+*Quanto ti ci è# voluto per arrivare# qui?#|
+*Ho una bella storia# da raccontarti.# Vuoi sentirla?#|
+*Beh... Dovresti# essere gentile con# gli amici.#_*È tutto ciò che# ho da dire.#|
+*Non hai nessuna# ambizione# intellettuale?#|
+*Non proseguire# oltre!#|
+*Non mi fido di# queste scimmie.# Sono tutte bugiarde.#_*Comunque sia, vai a# destra, a sinistra, a# sinistra e a destra.#|
+*Arretra!# E se non vuoi# farlo...#_*Va' indietro!#_*Oh, scusa.# Va' avanti!#|
+*Nella città lungo# il mare conoscerai# un nuovo amico.#|
 *Sono una scimmia# silenziosa.#_*Non parlo molto.#_*vedi...#_*............#|
-
-
-
-
+*Oh ¹8[ tesoro,# Perdinci, che# bel bocconcino.#|
+*Non pensare che# tutte le scimmie# siano bugiarde.#_*Non sarebbe altro# che una bugia.#|
+*Sono la scimmia# capo.#_*Mi dà proprio# fastidio che gli#_*altri dicano tutte# quelle bugie.#_*Vai sempre dritto,# Troverai un'uscita# alla tua destra.#|
+*Grande errore...# Non sarei proprio# dovuto venire qui.#|
 *Aiuto!#|
 *Telefono!# Vai a rispondere,# ¹÷[!#|
 *Io non sono il# Sindaco, ma Abbott,# il suo assistente.#_*Il signor Sindaco# è là.#|
-
+*Più tardi ti# svelerò il segreto.#|
 *Vuoi di nuovo stare# qui per la notte?#|
 *Oh, viaggiatore!#|
-
-
-
-
-
-*”Attestato”#_*¹°[#_*Siamo a conoscenza# del fatto che hai#_*calpestato la mina# nel Deserto Iucca.#_*Tieni questo luogo# per te, per favore.#_*firmato...# Shigesato Itoi.#|
+*La casa infestata# non è un luogo per# sconfiggere mostri.#_*C'è una...# melodia, ih-ih, una# melodia spettrale.#_*Ih-ih-ih.#|
+*Credo che ritroverai# di nuovo ¹8[ da# qualche parte.#|
+*Sei minorenne.# Devo portarti# in centrale.#|
+*Ho sentito che# hai pestato una# mina.#_*Io una volta ho# pestato una cacca# di cane.#_*E c'è dell'altro# ragazzino...#_*Neanche a me è# piaciuto molto!#|
+*È vero che hai# pestato una cacca# di cane a Iucca?#_*Non è una cosa# molto forte amico.#|
+*”Attestato”#_*¹°[#_*Siamo a conoscenza# del fatto che hai#_*calpestato la mina# nel Deserto di Iucca.#_*Tieni questo luogo# per te, per favore.#_*firmato...# Shigesato Itoi.#|
 *Dormito bene?# Fai buon viaggio!#|
 *Oh! non sei qui per# far visita a un# paziente?#_*Se sei il paziente,# sei pregato di# tornare nel retro.#|
 *Mi spiace, qui non# c'è nessun paziente# che si chiama così.#|
-
-
-
-
-
-
-
-
-
-
+*L'influenza di# quest'anno è brutta.#_*Ho perso un sacco# di peso.#|
+*Non sono raffreddato.# Coff, coff, arrgh.#_*Sto solo parlando# da solo.# Coff, arrgh arrgh.#|
+*Se ti stanchi passa# dalla nostra Locanda.#|
+*Ciao ¹£@, ci# becchiamo più tardi,#_*sono un po'# occupato ora.#|
+*Un ristorante, te,# te, te...# Che ristorante,#_*te, te, te...# Ti piace?#|
+*Tutti i ristoratori# amano le commedie# musicali!#|
+*Anche per me niente# supera un bel po'# di ¹Í×.#|
+*L'Albergo di questa# città non è affatto# migliore di quello#_*di Sperduzia, ma# è comunque molto# costoso...#|
+*La tariffa di questo# Albergo è molto# conveniente...#_*E non è nemmeno# l'unica cosa# a buon prezzo.#|
+*La ferrovia è# bloccata da grossi# macigni.#_*Il treno non può# passare.#|
 *Puoi parlare con# gli animali.#_*Ti dico un segreto.# Perché non provi a# GUARDArmi meglio?#_*Bau bau!#|
 *Non hai abbastanza# soldi. Mi spiace,# torna un'altra volta.#|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Posso aiutarti?# Usa pure questo# menù.#|
+*Molte grazie.#_*Un ordine di# ¹%`# in arrivo!#|
+*Temo che non tornerà# mai più...#| 
+*Ti auguro buon# divertimento.#|
+*Ehi, cameriere...# Sto ancora aspettando# di essere servito.#|
+*Vorrei provare# ¹Ì×.#|
+*Vorrei fermare gli# zombi cattivi, ma...#_*Non mi ascoltano,# e nemmeno mi# parlano...#_*Ora ho troppa paura# per scappare da qui.#|
+*Sono io Pippi!# Ci incontriamo di# nuovo ¹£@!#_*Non direi niente,# ma mia Mamma non sa# che sono venuta qui.#|
+*Accidenti!# Ma tu sei quel# moccioso di ¹£@#_*che avevo di fianco# all'asilo!#|
+*Sono contanti,# portali da queste# parti, ragazzo...#_*Non è che non mi# fidi di te, ma...#|
+*Sembri avere un# certo appetito.#|
+*I treni si sono# fermati. Il binario# si è rovinato.#_*È la fine del mondo,# e tu vieni a farmi# delle domande.#_*Smettila con tutte# queste domande o mi# metterò a piangere.#|
+*Non fermarti...# Continua a camminare!#|
+*Sembra tu abbia# avuto una lunga# giornata.#_*Prenditi il tuo# tempo, pensa a quel# che hai fatto.#|
+*Ho sentito delle# tue magnifiche# avventure.#_*Sei proprio# coraggioso, vero?#|
 *Il Villaggio# Canarino è a# nord-ovest da qui.#_*È un bel posto# da visitare e# l'ingresso è libero!#|
 *L'addetta al# ricevimento del# Municipio è# bellissima.
 *Ehi, ¹÷[, come# va con la tua asma?#_*La mia è migliorata,# ma i gas di scarico# me la fanno tornare.#|
-*Ho detto ai bambini# che prima si studia#_*e poi si usano i# giochi Nintendo.#_*Sono queste le regole# a casa mia!#|
+*Ho detto ai bambini# che prima si studia#_*e poi si gioca# alla Nintendo.#_*Sono queste le regole# a casa mia!#|
 *Sembri felice tutto# il tempo!#|
 *Le Imprese Duncan# hanno in progetto di#_*costruire un locale# di spogliarello qui.#_*A nessuno in città# piace l'idea!#|
 *Vorrei fare il# dottore per aiutare# le persone malate...#_*e guadagnare un sacco# di soldi nel farlo.#|
 *Davvero? Guarda che# è un sondaggio# serio...#|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Vai a scuola!# Sei uno scolaro, no?#|
+*Come facciamo a# togliere quei massi# dalla ferrovia?#_*Sono sicuro che il# Sindaco ce li#_*lascerà fino alle# prossime elezioni.#|
+*Ho sentito che alla# Fabbrica di Duncan# a nord si sono messi#_*a costruire degli# enormi razzi.#|
+*Non prendermi per# un uomo qualunque.#_*Nonostante io sia# un uomo qualunque.#|
+*Penso...# Penso...#_*Che i macigni sui# binari della# ferrovia...#_*Potrebbero saltare# con un Razzo della# Fabbrica di Duncan.#|
+*Mio marito è un uomo# importante nella# Scuola Scintilla.#_*Non fa mai pranzo.#|
+*Hai visitato la# Piccola Dolce# Fabbrica?#|
+*Ho sentito che molti# mostri spaventosi si# annidano fuori città.#_*Temo tantissimo che# possano prendermi# i soldi.#|
+*Laa, la laaa....#_*I semi di soffione# volano su nel ciel,# laa, la laaa...#_*Amo la musica più# di ogni altra cosa.#|
+*Il bidello ha la# chiave per il# tetto.#_*Ma non me la# darebbe mai.#|
+*Il vecchio della# montagna è davvero# generoso...#_*Ti darà qualunque# cosa tu possa# portare.#|
+*Mi ricordo che# andavo dentro la# galleria da piccola.#_*Volevo vedere cosa# c'era dall'altra# parte.#|
+*Questa è un'area# residenziale,# fa' silenzio.#|
+*Hai mai lanciato il# cibo in mezzo ai# campi?#_*Beh, è un gioco,# anche se più che# altro uno spreco.#|
+*Gasp!! Mi hai# spaventato.#_*Studio architettura# interna per i# crediti universitari.#_*È la sacrosanta# verità!!#|
+*Vorrei avere una# bicicletta.#|
+*Pensavi che stessi# per chiedere del# cibo in giro, vero?#_*Non lo farei mai,# anche se ho sempre# un sacco di fame.#|
+*Adoro la vita di# città!#_*Sono così bella con# questi vestiti!#|
+*Non credo nei# Poteri Psichici.#|
+*Sono un uomo la# cui esistenza è# irrilevante.#_*La mia importanza# è così minuscola#_*che se sparissi# nessuno lo noterebbe,# probabilmente.#|
+*Adoro questa città!# Non andrei a# Spettropoli manco#_*morta! Ah ah!#|
+*Vorresti fare una# donazione al mio# fondo di carità?#|
+*Il negozio comprerà# buoni medicinali# per bei soldi.#|
+*Sono l'allegro# postino,# laa laaa, la la.#_*Sai qual è il nuovo# indirizzo dei# Rosemary?#_*La la la laaa.#|
+*Di' al postino che# cerca l'indirizzo#_*che i Rosemary si# sono trasferiti# molto lontano.#_*La la la laaa.#|
+*La piccola figlia# dei Rosemary non# mi piace!#|
+*Le strade sono# piene di mostri.#_*Sono tutti scappati# via.#|
+*Che vuoi?#|
+*Sono ancora un# chiaroveggente in# apprendistato.#_*Tuttavia, riesco# comunque a vedere# che...#_*Dovresti tornare di# nuovo alla Stazione# Unita.#_*Sebbene non ne sia# del tutto certo.#|
+*La casa di ¹8[# è un villino, non# una magione.#_*Ma sono sicuro lo# sapessi già.#|
+*C'è un villino nelle# montagne a est.#_*Coff coff# coff coff...#|
+*Voi ragazzini siete# pazzi. Andate in# giro solo con la#_*maglietta.# Coff coff# coff coff...#|
+*Saluta le ossa del# cammello nel# Deserto di Iucca.#_*Conoscevo quel# cammello molto# tempo fa.#|
+*Le piccole ferite# posso essere# curate qui,#_*ma le malattie vere# vanno curate in# ospedale.#|
+*Credo che ¹x[# da grande diventerà#_*un ingegnere# informatico.#|
+*Fa' silenzio nella# biblioteca!#_*Ee--ciùù!!#|
+*Mi credi il miglior# pescatore al mondo?#_*Beh, non sono poi# così bravo. Ma se#_*hai un attimo posso# raccontarti alcune#_*delle mie storie# di pesca.#|
 *Sei tra i piedi,# moccioso!#|
 *Ehi!#|
 *Avrò anche pochi PS,# ma darò il# meglio di me!#|
@@ -664,7 +664,7 @@ Errore di sistema!!!#|
 *Lieta di vederti di# nuovo in forma,# ¹|`.#_*Torna pure!#|
 *Lasceresti il tuo# migliore amico sul# letto di morte?#|
 *Bene bene, mi# occuperò di tutti voi# per ³ª|§| ciascuno.#|
-*Davvero non ti# servono trattamenti?# Va beh...#|
+*Davvero non ti# servono cure?# Va beh...#|
 *Sembra che tu# stia già bene.#|
 *Bene,# ora sei di# nuovo in forma.#|
 *Che ci creda o no,# sono un Guaritore.# Cosa posso fare?#|
@@ -690,7 +690,7 @@ Errore di sistema!!!#|
 *Non ci sono# abbastanza soldi.#|
 *Spiacente,#_*la transazione# richiesta va oltre# il tuo limite.#|
 *Molte grazie.#|
-*¹£@ ha trovato# un vecchio carillon# dentro la bambola.#_*Appena il carillon# viene caricato...#_*Una melodia inizia# a suonare.#|
+*¹£@ ha trovato# un vecchio carillon# dentro la bambola.#_*Appena dopo essere# stato caricato...#_*Ha iniziato a# suonare una melodia.#|
 *?#|
 *Grazie.#|
 *Ho una fonte di# armi fantastica.#_*Torna da me più# tardi...#_*E forse avrò tra le# mani un'arma# favolosa o due.#|
@@ -725,58 +725,58 @@ Errore di sistema!!!#|
 *Nessuno ti ha# pietrificato.#|
 *Vengono prodotti# Razzetti là dentro.#|
 *Mia moglie è stata la# prima Miss Auguronia# della storia.#|
-
-
-
-
-
-
-
-
-
+*Ecco, ho aperto il# tetto. Quando sarai# lassù...#_*Assicurati di# goderti il panorama.# È indimenticabile.#|
+*Dovremmo andare alla# Fabbrica Duncan,# più tardi...#_*Ho sentito dire che# stanno costruendo un# razzo incredibile.#|
+*Vengo chiamato con# molti nomignoli,#_*pappamolle,# quattrocchi,# o anche peggio...#_*Sicuramente li hai# già sentiti.#|
+*Nel frattempo,# sorge l'alba# sul porto...#|
+*Perdonatemi,# piccoli discoli...#_*Non intendevo# parlare tutta la# notte, ma...#|
+*Giovane piccolo...# Non parlare con# me in quel modo!#|
+*Ho sentito di un#_*gioco chiamato#  ”EARTH#   BOUND”...#_*non so perché,# di preciso...#_*perché non ha# importanza.#_*Così come non si# giudica un libro# dalla copertina...#_*Non si dovrebbe# giudicare un gioco# dal titolo.#|
+*Una signora alla# Stazione di Renna# ha qualcosa per te...#_*Ci sei già andato?#|
+*Nonostante tutto,# l'indizio più#_*importante da# tenere a mente è...#_*A prescindere dal# dolore che patiranno# le tue orecchie...#_*Ascolta le parole# nella canzone del#_*chitarrista di# Magicandia.#|
 *Se trovi qualcosa# di strano assicùrati#_*di GUARDArlo bene# ogni volta.#|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*La Scimmia Canterina# ha cantato con# passione.#|
+*Il Cactus cantò...#_*e per chissà quale# motivo continuò# a cantare.#|
+*Il Pianoforte iniziò# a suonare da solo...#|
+*Il Drago iniziò a# canticchiare senza# molta esitazione.#_*La canzone faceva# qualcosa tipo...#|
+*Il robot Eve è stata# demolita e ha smesso# di muoversi.#_*Esaminandone i resti# una musica iniziò# a suonare...#|
+*Unica nel suo genere!# Ammirate la favolosa# Scimmia Canterina!#|
+*C'è un lucchetto# sulla porta in cima# alla scale.#|
+*Io devo rimanere qui# con la gente di# Pupazzo di Neve.#_*Fa' attenzione...#|
+*Non hai abbastanza# soldi.#|
+*Per favore, vai# prima tu, ¹÷[.# Ho troppa paura.#|
+*La serratura era# rotta. ¹£@ ha# aperto la porta.#|
+*Ciao! ¹¡]!# Come va?#|
+*Fai tornare ¹¡]# presto!#|
+*No, no. Non posso# tenere ¹%`# con me.#_*Devo andare per la# mia strada, qualunque# cosa tu dica.#|
+*Il fedele e leale# servo di ¹÷[,#_*Il prode soldato,# Uomo Volante,# qui riposa in pace.#|
+*Il forte e possente# alleato di ¹÷[,#_*Il prode soldato,# Uomo Volante,# qui riposa in pace.#|
+*Il benevolo# compagno di ¹÷[,#_*Il prode soldato,# Uomo Volante,# qui riposa in pace.#|
+*Con grande# cordoglio di ¹÷[,#_*Il prode soldato,# Uomo Volante,# qui riposa in pace.#|
+*Con orrore e# sgomento di ¹÷[,#_*Il prode soldato,# Uomo Volante,# riposa in pace qui.#|
+*Il proclama del# Sindaco recita...#_*Sarà vietato passare# finché il caso dello# Zoo non sarà risolto.#_*Davvero un approccio# a senso unico, se# vuoi sapere la mia.#_*Non deve piacermi,# devo solo farlo# rispettare.#|
+*Nelle profondità di# una caverna c'è una# specie di roccia.#_*È davvero strana,# dovresti proprio# darle un'occhiata.#|
+*Mi è giunta voce# che puoi comunicare# con la Telepatia.#_*Hai sentito che# tutte le persone# parlano di te?#_*Ma probabilmente tu# non hai bisogno di# 'ascoltarle'!#|
+*Stai andando a# Pupazzo di Neve?#|
+*Ho trovato questo# Cappello. Credo# appartenga a una#_*ragazza che vive lì.# Riportalo da lei,# per favore.#|
+*Beh, volevo# chiederti una cosa.#|
+*Il bel ragazzo ha# cantato un canzone# piuttosto peculiare.#_*¹£@ non ha voluto# memorizzare la# strana melodia.#|
 *Scusami...# potresti rispondere a# questo questionario?#|
 *Credi che i bigletti# del treno siano# troppo costosi?#|
 *Hai mai USAto# il Megafono?#|
 *Grazie per la# collaborazione.# In cambio...#_*ecco a te questa# Scheda Telefonica,# per il tuo tempo.#|
 *Scusami, potresti# rispondere a questo# questionario?#_*Oh! Scusami tanto,# ti avevo già fatto# queste domande.#|
 *Appena udite le grida# profonde il Benevolo#_*Vecchietto si è fatto# vivo.#|
-
-
-
-
-
-
+*¹£@ ha aperto# il coperchio. Fuori# dalla bara...!!#|
+*¹£@ ha guardato# nel telescopio.#|
+*Lo scintillante# oceano azzurro si#_*stendeva verso# l'orizzonte.#|
+*In lontananza,# sull'isola,# qualcosa brilla!#|
+*All'improvviso,# dall'interno della# capsula...#|
+*(¹8[)# Papà...# Ciao...#_*Quando ci rivedremo# ci sarà anche Mamma# con me!#_*Credi in noi!#|
 *A chi staresti# parlando?#|
 *Cosa?!?#|
 *Nulla degno di nota.#|
-
+*(La voce della# Regina Mary parla)#_*Io sono la coscienza# di Maria.#_*Usa il mio ultimo# potere, ¹÷[!#_*Dopodiché, quando la# voce divenne fievole# quanto un fruscio...#_*La roccia si# disintegrò.#_*Lasciando al di# sotto solo un mucchio# di finissima sabbia.#|
 *Ti diamo il benvenuto# nel nostro negozio.# Vendiamo armi, qui.#|
 *¹°` ha USAto# ¹⁴`.#|
 *¹°` non può# USAre ¹⁴`.#|
@@ -803,37 +803,37 @@ Errore di sistema!!!#|
 * Casa del Guaritore#        OVEST#_* Oltre il ponte...#      Cimitero#_*Lasciate ogni# speranza o voi# ch'entrate!#|
 *    Sperduzia#       OVEST#_*    Auguronia#        EST#|
 *    Zoo Cittadino#       700 metri#         OVEST#|
-
+*Villino di# Pupazzo di Neve# Sempre dritto#|
 *      Ennea#       OVEST#_*     Palude#        SUD#|
 * Scuola Elementare#     Scintilla#        SUD#|
 *Casa di ¹÷[#|
-*Benvenuti ad# Auguronia!#_*    Sperduzia#       OVEST#_*  Stazione Unità#        NORD#|
+*Benvenuti ad# Auguronia!#_*    Sperduzia#       OVEST#_*  Stazione Unita#        NORD#|
 *Casa del Guaritore#       OVEST#_*Stazione di Renna#        EST#_*  Città di Renna#        SUD#|
 * Spettropoli Centro#        OVEST#_*    Spettropoli#  Area Residenziale#         EST#|
 *   Palude - EST#|
-
-
-
-
-
-
-
-
-
-
+*PROPRIETÀ PRIVATA# (firmato)-# Famiglia Rosemary#|
+*Stazione di Polizia# Comune di Ennea#|
+*In arrivo ad autunno-# Centro Debuttanti# di Duncan#_*Finaziato da,# Progettato da,# Costruito da,#_*The Duncan# Company Inc.#|
+*Ho sentito che mio# fratello è morto# lottando con onore.#_*Con tutto il nostro# amore è stato sepolto# nel nostro cimitero.#_*Con grande orgoglio,# prenderò il suo posto# e ti accompagnerò.#|
+*Non vedo l'ora# di servirti.#|
+*Sono l'Uomo Volante.# Il mio destino è# di aiutarti.#!
+*Il coprifuoco è# stato revocato.#_*Anche se non so come# mai il passaggio# fosse limitato.#|
+*Vecchio razzo# arruginito.#|
+*Rivuoi i tuoi# Oggetti?# Eccoli qua.#|
+*Ti ho ridato tutti# gli Oggetti. Torna# quando vuoi.#|
 *Io sono Minnie.#|
   Rigenera Ammorbida|
-
-
-
-
-
-
-
-
+*(¹¡]) Di certo# vorrete essere# lasciati soli.#_*Andrò a fare qualche# telefonata mentre# vi aspetto.#|
+*Oh cavolo!# L'ho mancato!#|
+*Oh, ¹÷[, ti amo# da tantissimo# tempo.#_*Ti amo da quando# ti ho visto nel# mio sogno.#|
+*(¹¡])# Mi spiace avervi# interrotto...#_*ma avete sentito# anche voi dei# forti rumori?#|
+*(¹¡])# I rumori vengono# da fuori,#_*non da qui, scemo.#|
+*Il motore della# barca sembra# essere rotto.#|
+*A quanto pare ¹£@# non è capace di# ripararla.#|
+*Ma ¹x[ l'ha messa# in moto in un baleno.#|
 *Spedirò ¹%`# a casa di ¹÷[.#_*C'è altro che vuoi# darmi?#|
 *Non che sia# claustrofobico...#_*ma non riesco a# sopportare gli spazi# piccoli e chiusi!#|
-
+*  Piccola Dolce#      Fabbrica#|
 *Sono stato rapito# dalla Nave Madre.# Ti prego, aiutami!#|
 *Confermi che si# scrive così?#|
 *Lo strano suono che# aveva fatto impazzire# gli animali ha smesso#_*e lo Zoo è tornato# a essere un posto# sicuro.#|
@@ -924,7 +924,7 @@ Errore di sistema!!!#|
 ”Pillola Combattiva”#*Prenderla aumenta# la LOTTA.#|
 ”Chiave della Cantina”#*USA questa Chiave per# aprire la porta della# cantina.#|
 ”Chiave dello Zoo”#*Questa Chiave apre il# cancello principale# dello Zoo Cittadino.#|
-”Chiave della Casa# Infestata”#_*Questa è la Chiave# per la casa di# Rosemary.#|
+”Chiave della Casa# Infestata”#_*Questa è la Chiave# per la casa dei# Rosemary.#|
 ”Diario del Bisnonno”#*È vecchio,# logoro e pieno# di annotazioni.#|
 ”Lasciapassare”#*Sopra c'è scritto:# ”Impiegato alla# Fabbrica Duncan”.#|
 ”Biglietto”#*Sopra c'è scritto:#_*”Rock'n Roll tutta# la notte e tutti i#_*giorni da Il Vivo# Dello Spettacolo”.#|
@@ -935,7 +935,7 @@ Errore di sistema!!!#|
 ”Matrice di Biglietto”#*Sopra c'è scritto:#_*”Conservane dieci per# un giro omaggio sul# carrarmato”.#|
 ”Ocarina”#*Può suonare un# motivo orecchiabile.#|
 ”Medaglia Franklin”#*Secondo una leggenda# Benjamin Franklin#_*indossava questa# medaglia riflettente#_*nei suoi esperimenti# con i fulmini.#|
-”Becco di Onice”#*Finché lo terrai con# te potrai viaggiare# verso Magicandia.#|
+”Uncino d'Onice”#*Finché lo terrai con# te potrai viaggiare# verso Magicandia.#|
 ”Arma Finale”#*???#|
 ”Righello”#*Da 30 centimetri.#|
 ”Carta di debito# di ¹÷[”#*Per tutte le tue# necessità economiche.#|
