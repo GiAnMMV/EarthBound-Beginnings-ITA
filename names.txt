@@ -78,7 +78,7 @@ Circuito|
 Ocarina|
 M.Franklin|
 Anel.Amiciz|
-Becco Onice|
+UncinoOnice|
 Arma Finale|
 Righello|
 CartaDebito|
@@ -86,9 +86,9 @@ Erba Rossa|
 Megafono|
 Mappa|
 Debug|
-PianoVolo A|
-PianoVolo B|
-PianoVolo C|
+ItinerarioA|
+ItinerarioB|
+ItinerarioC|
 Indizio 1|
 Indizio 2|
 Indizio 3|
@@ -104,7 +104,7 @@ Bambinia|
 Ennea|
 Stazione|
 Telepatia|
-Teletraspor|
+T.trasporto|
 Più Vita α|
 Più Vita β|
 Più Vita γ|
