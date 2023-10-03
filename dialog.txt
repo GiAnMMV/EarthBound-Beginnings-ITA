@@ -592,7 +592,7 @@ Errore di sistema!!!#|
 *Sembra tu abbia# avuto una lunga# giornata.#_*Prenditi il tuo# tempo, pensa a quel# che hai fatto.#|
 *Ho sentito delle# tue magnifiche# avventure.#_*Sei proprio# coraggioso, vero?#|
 *Il Villaggio# Canarino è a# nord-ovest da qui.#_*È un bel posto# da visitare e# l'ingresso è libero!#|
-*L'addetta al# ricevimento del# Municipio è# bellissima.
+*L'addetta al# ricevimento del# Municipio è# bellissima.#|
 *Ehi, ¹÷[, come# va con la tua asma?#_*La mia è migliorata,# ma i gas di scarico# me la fanno tornare.#|
 *Ho detto ai bambini# che prima si studia#_*e poi si gioca# alla Nintendo.#_*Sono queste le regole# a casa mia!#|
 *Sembri felice tutto# il tempo!#|
@@ -1244,8 +1244,8 @@ La battaglia si#interrompe.#|
 *¹°` ha spremuto# il Sasso dai# Poteri PSI.#|
 *Il Sasso dai Poteri# PSI è diventato un# normale sasso.#|
 *¹°` ha provato# ¹⁴`.#|
-*Non rimane abbastanza# potere per provarlo.#_
-*¹°` è# tornato/a in# scena.#_
+*Non rimane abbastanza# potere per provarlo.#|
+*¹°` è# tornato/a in# scena.#|
 *Il Diario era# difficile da leggere,#_*ma aprendolo a# questa pagina...#_*(PAROLA D'ORDINE)#_*.... colui che ha# perso la coda.#_*... dimenticato...# ...nave che# percorre...#|
 *¹a|` si è# ammorbidito/a.#|
 *L'Ocarina ha# iniziato a suonare# senza sosta...#|
