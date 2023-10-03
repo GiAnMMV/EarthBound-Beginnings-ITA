@@ -41,16 +41,12 @@ pointers = b''
 for n in range(2000):
     pointers += to_pointer(strings_len[t[n]] + strings_start)
 
-if len(strings) <= strings_end:
+if len(strings) <= strings_end - strings_start:
     rom = rom[:strings_start] + strings + b'\xff'*(strings_end-strings_start-len(strings)) + rom[strings_end:]
     rom = rom[:pointers_start] + pointers + rom[pointers_end:]
+    input('Success!')
 else:
-    print('Error!')
-
-
-#f = open('dialog.txt','w',encoding='utf-8')
-#f.write(convert(rom[0x60010:0x74010]))
-#f.close()
+    input('Error!')
 
 
 f = open(rom_name,'wb')
