@@ -47,12 +47,13 @@ for a in pointer_pos:
     for i in range(a[2]):
         pointers.append(a[0]+i*a[3])
 
-if len(strings) <= strings_end:
+if len(strings) <= strings_end - strings_start:
     rom = rom[:strings_start] + strings + b'\x00'*(strings_end-strings_start-len(strings)) + rom[strings_end:]
     for n in range(len(pointers)):
         rom = rom[:pointers[n]] + to_pointer(strings_len[t[n]] + strings_start) + rom[pointers[n] + 2:]
+    input('Success!')
 else:
-    print('Error!')
+    input('Error!')
 
 f = open(rom_name,'wb')
 f.write(rom)
