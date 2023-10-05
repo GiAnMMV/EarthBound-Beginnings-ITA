@@ -47,7 +47,7 @@ Errore di sistema!!!#|
 *La bambina che# si è smarrita nel#_*cimitero è # stata salvata?#|
 *Stai...# S-stai veramente# andando al cimitero?#|
 *Pensavo che fossi# un bimbo ragionevole.#|
-*Gli animali sembrano# impazziti, sono# fuori controllo.#_*I morti sono diventati# zombi e stanno# attaccando la gente.#_*Che possiamo fare?#|
+*Gli animali sembrano# impazziti, sono# fuori controllo.#_*I morti sono# diventati zombi e#_*stanno attaccando# la gente.#_*Che possiamo fare?#|
 *Sei grandioso!#|
 *Per caso uno spettro# è venuto a casa tua?#_*A me l'ha distrutta.#|
 *Gli animali sono# impazziti e stanno# scappando,#_*per cui lo Zoo# è stato chiuso.#|
