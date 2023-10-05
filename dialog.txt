@@ -115,7 +115,7 @@ Errore di sistema!!!#|
 *Il misterioso suono# della fontana ha# un effetto calmante.#|
 *Tutto a sud.# Ti sei perso?#_*Scusa...Ti stavo# guidando verso i# servizi igienici.#_*La Fontana della# Regina Mary è a# ovest del castello.#|
 *Ho piegato il mio# cucchiaio e ora non# riesco più ad usarlo.#_*Saresti in grado# di aggiustarlo in# qualche modo?#|
-*Aggiustalo in# fretta, per favore.#_*(¹÷[ ha aggiustato# il cucchiaio coi# Poteri PSI.)#_*Grazie tantissime!# Gnam, gnam...#_*Ehi, che ne dici# di passare qui# la notte?#|
+*Aggiustalo in# fretta, per favore.#_*(¹÷[ ha riparato# il cucchiaio coi# Poteri PSI.)#_*Grazie tantissime!# Gnam, gnam...#_*Ehi, che ne dici# di passare qui# la notte?#|
 *Perché no? Potresti# aggiustarlo senza# alcuno sforzo fisico!#|
 *Sei una strana# persona...#_*ma mi piaci, per# qualche ragione.#|
 *Molto bene.#|
@@ -875,7 +875,7 @@ Errore di sistema!!!#|
 ”Mazza di Alluminio”#*Con quest'arma# ¹÷[ può#_*facilmente lottare# contro nemici più# forti.#|
 ”Mazza di Hank”#*Questa straordinaria#_*mazza è stata# autografata di# persona.#|
 ”Padella”#*¹8[ può USAre# quest'arma al meglio.#|
-”Padella Antiaderente”#*Un'arma buona per# ¹8[, senza sporco da# lavar via.#|
+”Padella Antiaderente”#*Un'arma buona per# ¹8[, senza sporco# da lavar via.#|
 ”Padella di Ferro”#*¹8[ può USAre# questa pesante#_*padella di metallo# per percuotere i# nemici forti.#|
 ”Fionda”#*Un'arma pratica che# potrebbe USAre# chiunque.#|
 ”Bumerang”#*Fa' attenzione,# non è un giocattolo.#_*Tutti possono USArlo# come arma.#|
