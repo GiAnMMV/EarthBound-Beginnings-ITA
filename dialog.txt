@@ -371,7 +371,7 @@ Errore di sistema!!!#|
 *Alt, chi va là?#|
 *Ragazzi sospetti.# Vi fermerò.# Arrghh!#|
 *C'è qualcosa di# con il piccolo dei# Garrickson.#_*Qualcosa di strano# davvero.#|
-*Dunque...# 2 più 3 uguale 5,# 8 meno 4 uguale 4.#_*Studio tutto# il tempo.#
+*Dunque...# 2 più 3 uguale 5,# 8 meno 4 uguale 4.#_*Studio tutto# il tempo.#|
 *Mamma!!# Mi manchi!!!#|
 *Papà!!# Mi manchi!!!#|
 *Una grande nave# venuta dal cielo ha# preso Mamma e Papà.#|
@@ -379,7 +379,7 @@ Errore di sistema!!!#|
 *Prendimi in braccio,# per favore!#|
 *Prendi in braccio# anche me!#|
 *Prendimi in braccio!#|
-*Ti prego, riportaci# Mamma e Papà.# Ti supplico.
+*Ti prego, riportaci# Mamma e Papà.# Ti supplico.#|
 *Oh, sì.  Mi chiamo# Tom Garrickson.#_*Mi piace presentarmi.# È la mia passione.#|
 *Mamma mi ha detto che# questo bebè ha poteri# mistici.#|
 *Guh gah...#|
@@ -389,7 +389,7 @@ Errore di sistema!!!#|
 *È passato del tempo,# hai più esperienza e# si spera anche un#_*po' più di saggezza,# ma resti comunque# un ragazzino.#|
 *Dovresti guardarti# bene intorno da# queste parti. Eeh....#|
 *I membri della banda# B.B. sono proprio# terribili...#|
-*Per abbreviare# chiamiamo "B.B."# i membri della# Banda Bla-Bla.#|
+*Per abbreviare# chiamiamo ”B.B.”# i membri della# Banda Bla-Bla.#|
 *Ehi, tu! Non sei# un Bla-Bla, vero?#|
 *Le nubi nere che# sovrastano le# montagne...#_*Stanno facendo# impazzire tutti# la cittadinanza.#|
 *Ehi, voi due.# Piccioncini, eh!?#|
@@ -425,7 +425,7 @@ Errore di sistema!!!#|
 *¹£@ ha USAto la# Scheda Telefonica.#|
 *Sono certo che saremo# una bella squadra.# Andiamo!#|
 *Ti prego...# Ti sarò di# grande aiuto.#|
-*Pronto...# Sono Papà.#_*Non vorrei proprio# impicciarmi ora come# ora, ma...#_*Che aspetti!??#_*Prendi subito quel# pulsante "A"!#|
+*Pronto...# Sono Papà.#_*Non vorrei proprio# impicciarmi ora come# ora, ma...#_*Che aspetti!??#_*Prendi subito quel# pulsante ”A”!#|
 *Ehi, tu,# con gli occhiali...#_*Non sei molto bravo# a combattere, vero?#_*Riposati qui mentre# prendo in prestito# i tuoi Oggetti. OK?#|
 *La forza bruta non# basta per batterli.#_*Ora so che riportare# la pace da noi è# possibile.#_*Io ci credo.#|
 *(¹¡])# Perché siete# arrossiti?#_*Usciamo di qui,# svelti!#|
@@ -472,14 +472,14 @@ Errore di sistema!!!#|
 *So che menti. Non# puoi ingannarmi.#|
 *(Dalla folla# comincia ad alzarsi# un leggero brusio)#_*Abbiamo pagato per# vedere un trio!# Quelli lì sul palco#_*non sono tre!# Umpf umpf...#|
 *Quale vuoi che# tenga?#|
-*Il Drago stava# facendo un lungo,# lungo sonno.#!
+*Il Drago stava# facendo un lungo,# lungo sonno.#|
 *Cosa posso fare# per te?#|
 *Bene, terrò# ¹%` con la# massima cura.#_*Vuoi che tenga# qualcos'altro?#|
 *Ci vediamo,# fratello...# Prenditi cura di te!#|
 *Vuoi prendere# ¹%`?#_*Perfetto! C'è altro# che vorresti# prendere?#|
 *C'è stata una frana# vicino alla Stazione# Unita.#_*Il treno non può# passare se i massi# non vengono rimossi.#|
 *Hai detto# ¹%`?#|
-*Mi dispiace, ma temo# tu non possa tenere# tutto quanto.#| 
+*Mi dispiace, ma temo# tu non possa tenere# tutto quanto.#|
 *Oh?  Pare tu non# abbia abbastanza# soldi.#|
 *Oh?  Pare tu stia# portando troppa# roba.#|
 *Non hai abbastanza# soldi. Torna quando# li avrai.#|
@@ -578,7 +578,7 @@ Errore di sistema!!!#|
 *Non hai abbastanza# soldi. Mi spiace,# torna un'altra volta.#|
 *Posso aiutarti?# Usa pure questo# menù.#|
 *Molte grazie.#_*Un ordine di# ¹%`# in arrivo!#|
-*Temo che non tornerà# mai più...#| 
+*Temo che non tornerà# mai più...#|
 *Ti auguro buon# divertimento.#|
 *Ehi, cameriere...# Sto ancora aspettando# di essere servito.#|
 *Vorrei provare# ¹Ì×.#|
@@ -706,7 +706,7 @@ Errore di sistema!!!#|
 *Spiacente, ma non# hai abbastanza# denaro.#|
 *Oh no, non hai# tutti quei soldi.#|
 *Non puoi portare# più di quello che# hai già.#_*O perlomeno credo# che non dovresti.#|
-*Ecco a te!# Ho sistemato tutto# come un vero esperto.#
+*Ecco a te!# Ho sistemato tutto# come un vero esperto.#|
 *Spiacente, ma non# posso comprare# ¹%` da te.#|
 *Felicissima per# l'incontro, Laura ha# iniziato a cantare.#|
 *¹£@ ha# memorizzato la# melodia.#|
@@ -816,7 +816,7 @@ Errore di sistema!!!#|
 *In arrivo ad autunno-# Centro Debuttanti# di Duncan#_*Finaziato da,# Progettato da,# Costruito da,#_*The Duncan# Company Inc.#|
 *Ho sentito che mio# fratello è morto# lottando con onore.#_*Con tutto il nostro# amore è stato sepolto# nel nostro cimitero.#_*Con grande orgoglio,# prenderò il suo posto# e ti accompagnerò.#|
 *Non vedo l'ora# di servirti.#|
-*Sono l'Uomo Volante.# Il mio destino è# di aiutarti.#!
+*Sono l'Uomo Volante.# Il mio destino è# di aiutarti.#|
 *Il coprifuoco è# stato revocato.#_*Anche se non so come# mai il passaggio# fosse limitato.#|
 *Vecchio razzo# arruginito.#|
 *Rivuoi i tuoi# Oggetti?# Eccoli qua.#|
@@ -1147,7 +1147,7 @@ L'energia di#¹à& è scorsa#in ¹É&!|
 ¹à& non può#USAre ¹®&!|
 ¹à& sta#pensando alle#circostanze.|
 ¹à& ha fatto#qualcosa di strano.|
-¹à& sta# dormendo in piedi.|
+¹à& sta#dormendo in piedi.|
  Scudo di# ¹É&# distrutto.|
 ¹à& ha ESAMINAto#¹É&.|
 > Forte contro#  PK Fuoco.|
@@ -1160,7 +1160,7 @@ L'energia di#¹à& è scorsa#in ¹É&!|
  ”Ti voglio bene.”|
  ”Ti detesto.”|
  ¹É& ha avuto# un attacco d'asma.|
-¹®& si è# rotta.|
+ ¹®& si è# rotta.|
 ¹à& ha usato#il Seme Maligno!|
 ¹à& ha usato#un gas paralizzante!|
  ¹®& si è# pietrificato/a.|
