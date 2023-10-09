@@ -55,9 +55,9 @@ Errore di sistema!!!#|
 *Cittadino, so# che vorresti soltanto# aiutare la città.#|
 *Dunque...# Una bimba si è# persa nel cimitero.#_*Ed io... mi sto# candidando per le# prossime elezioni.#_*Devi aiutarmi!# Ti prego!#|
 *Uh!?# Andrai lì# per salvarla?#|
-*Ma lei è la ragazza# perduta, Pippi?#_*Beh ma è# favoloso.#_*Sapevo che avresti# compiuto il tuo# dovere da cittadino.#_*Applausi,# applausi...#_*Ora piccola Pippi,# non dimenticare...#_*di dire a mamma# che il Sindaco# ti ha salvata.#_*Ecco, ti do# ¹£@ un premio di# ³ª|§|.#|
+*Ma lei è la ragazza# perduta, Pippi?#_*Beh ma è# favoloso.#_*Sapevo che avresti# compiuto il tuo# dovere civico.#_*Applausi,# applausi...#_*Ora piccola Pippi,# non dimenticare...#_*di dire a mamma# che il Sindaco# ti ha salvata.#_*Ecco, do a# ¹£@ un premio di# ³ª|§|.#|
 *A proposito, eroe,#_*forse ti piacerebbe# andare a vedere# che succede allo Zoo?#|
-*Sì, ci andrai?# Fantastico, mitico# grandioso!#_*Assicurati di# prendere una Chiave# dal mio assistente,#_*Abbott.#|
+*Sì, ci andrai?# Fantastico, mitico# grandioso!#_*Assicùrati di# prendere una Chiave# dal mio assistente,#_*Abbott.#|
 *Questa Chiave apre# il cancello dello# Zoo. Non perderla.#|
 *Riportamela viva,# e sicuramente# sarò un eroe...#_*Ehm, uhm, voglio# dire sarai un eroe.#|
 *Chi altri, se non il# nostro eroe ¹£@,#_*avrebbe sterco di# tigre sui suoi# vestiti?#_*Ah-ah, sto solo# scherzando. Fila via# adesso.#|
@@ -216,7 +216,7 @@ Errore di sistema!!!#|
 *Ho sentito che il# coprifuoco a# Sperduzia è stato#_*revocato.# Sai che significa,# vero?#_*Che possiamo di# nuovo attraversare# il ponte!#|
 *Stavo prendendo in# giro quel pappamolle# di ¹x[.#_*Ma è scappato.#|
 *Ehi, ¹x[!# Pappamolle!#|
-*Stavamo prendendo in# giro quel pappamolle# di ¹x[, sai?.#|
+*Stavamo prendendo in# giro quel pappamolle# di ¹x[, sai?#|
 *Ti prendo in giro.#|
 *Ho visto ¹x[# rubare degli# esplosivi!!#_*Tremo al pensiero di# cosa dirà il signor# Maestro.#|
 *Ti sono scivolati# gli occhiali dal# naso.#|
@@ -227,7 +227,7 @@ Errore di sistema!!!#|
 *Sei di poche parole,# vero?#|
 *Il maestro di# ginnastica mi ha di#_*nuovo fatto fare# flessioni in più.#_*Preferirei gli# addominali però.#|
 *Come fai a perderti# nel cortile di# una scuola?#_*Non riesco proprio# a crederci.#|
-*Ovvio che la porta# per il tetto è# chiusa a chiave!#_*Dobbiamo fare in# modo che gli non# studenti scappino#_*lì per giocare ai# videogiochi invece# di studiare, no?!#|
+*Ovvio che la porta# per il tetto è# chiusa a chiave!#_*Dobbiamo fare in# modo che gli# studenti non scappino#_*lì per giocare ai# videogiochi invece# di studiare, no?!#|
 *E poi quando si# alza va in giro# per negozi.#_*Fortuna che ho# nascosto la carta#_*di credito da# quella donna!#_*Non credi sia una# pessima moglie?#|
 *I bambini non# conoscono le# sofferenze della#_*vita vera...#|
 *Come ti permetti a# parlare così di mia# moglie, smamma!#|
@@ -443,7 +443,7 @@ Errore di sistema!!!#|
 *Avanti, bambini,# che vi serve?#|
 *MI CHIAMO EVE.#_ TI STAVO ASPETTANDO.#_*MI HA CREATO#_ GEORGE...#_*È STATO PORTATO#_ AI CONFINI#_ DELL'UNIVERSO...#_*E IN SEGUITO#_ RIPORTATO A CASA.#_*SONO QUI PER#_ PROTEGGERTI.#_*È IL MIO SCOPO.#|
 *Quegli zaini devono# pesare molto.#|
-*¹÷[! ¹÷[!..#_*La battaglia sembra# averti stremato.# Ancora una volta?#|
+*¹÷[! ¹÷[!..#_*La battaglia sembra# averti stremato.# Provi di nuovo?#|
 *Riprese le forze...#_*¹÷[ è tornato di# nuovo in campo.#_*Fai del tuo meglio,# ¹÷[!#|
 *¹÷[ si è accorto# che era stato solo# un brutto sogno.#_*Fai del tuo meglio,# ¹÷[!#|
 *A chi?#|
@@ -455,7 +455,7 @@ Errore di sistema!!!#|
 *   Zoo Cittadino#     Ufficio del#   Sovrintendente#|
 *Panorama sull'Oceano#  Turisti Benvenuti#|
 *Qui non c'è nessuno# che corrisponda alla# descrizione, ma...#|
-*Quando posizionata# nella fontana,#_*l'Erba Rossa diventa# Erbe Magiche.#|
+*Dopo esser stata# posizionata nella# fontana,#_*l'Erba Rossa si è# trasformata in# Erbe Magiche.#|
 *Dove pensi di# trovarlo un uomo# così?!#|
 *Vuoi il ¹%`,# giusto? Grazie.# Sei di grande aiuto.#|
 *State entrando nel# Triangolo dello# Smarrimento.#_*State attenti!#|
@@ -570,7 +570,7 @@ Errore di sistema!!!#|
 *Ciao ¹£@, ci# becchiamo più tardi,#_*sono un po'# occupato ora.#|
 *Un ristorante, te,# te, te...# Che ristorante,#_*te, te, te...# Ti piace?#|
 *Tutti i ristoratori# amano le commedie# musicali!#|
-*Anche per me niente# supera un bel po'# di ¹Í×.#|
+*Anche per me niente# supera un bel po'# di ¹Ì×.#|
 *L'Albergo di questa# città non è affatto# migliore di quello#_*di Sperduzia, ma# è comunque molto# costoso...#|
 *La tariffa di questo# Albergo è molto# conveniente...#_*E non è nemmeno# l'unica cosa# a buon prezzo.#|
 *La ferrovia è# bloccata da grossi# macigni.#_*Il treno non può# passare.#|
@@ -632,7 +632,7 @@ Errore di sistema!!!#|
 *C'è un villino nelle# montagne a est.#_*Coff coff# coff coff...#|
 *Voi ragazzini siete# pazzi. Andate in# giro solo con la#_*maglietta.# Coff coff# coff coff...#|
 *Saluta le ossa del# cammello nel# Deserto di Iucca.#_*Conoscevo quel# cammello molto# tempo fa.#|
-*Le piccole ferite# posso essere# curate qui,#_*ma le malattie vere# vanno curate in# ospedale.#|
+*Le piccole ferite# possono essere# curate qui,#_*ma le malattie vere# vanno curate in# ospedale.#|
 *Credo che ¹x[# da grande diventerà#_*un ingegnere# informatico.#|
 *Fa' silenzio nella# biblioteca!#_*Ee--ciùù!!#|
 *Mi credi il miglior# pescatore al mondo?#_*Beh, non sono poi# così bravo. Ma se#_*hai un attimo posso# raccontarti alcune#_*delle mie storie# di pesca.#|
@@ -725,7 +725,7 @@ Errore di sistema!!!#|
 *Nessuno ti ha# pietrificato.#|
 *Vengono prodotti# Razzetti là dentro.#|
 *Mia moglie è stata la# prima Miss Auguronia# della storia.#|
-*Ecco, ho aperto il# tetto. Quando sarai# lassù...#_*Assicurati di# goderti il panorama.# È indimenticabile.#|
+*Ecco, ho aperto il# tetto. Quando sarai# lassù...#_*Assicùrati di# goderti il panorama.# È indimenticabile.#|
 *Dovremmo andare alla# Fabbrica Duncan,# più tardi...#_*Ho sentito dire che# stanno costruendo un# razzo incredibile.#|
 *Vengo chiamato con# molti nomignoli,#_*pappamolle,# quattrocchi,# o anche peggio...#_*Sicuramente li hai# già sentiti.#|
 *Nel frattempo,# sorge l'alba# sul porto...#|
@@ -790,7 +790,7 @@ Errore di sistema!!!#|
 *¹|` non può# portare altro.#|
 *Non è successo# nulla.#|
 *¹£@ ha aperto# il regalo.#|
-*Dentro ha trovato# ¹%`.#|
+*Hai trovato# ¹%`.#|
 *¹£@ ha ottenuto# ¹%`.#|
 *Non puoi portare# nient'altro.#|
 *Era vuoto.#|
@@ -855,7 +855,7 @@ Errore di sistema!!!#|
 *L'armadio è pieno.#|
 *Dopo aver raccontato# la storia a ¹÷[,#_*la Regina Mary# svanì, con un# colpo di vento.#_*Allo stesso modo,# anche Magicandia# scomparve.#_*Magicandia era# un miraggio...#_*Un miraggio nato# dalla coscienza# di Maria.#|
 *Sono io che vi# ho chiamato.#_*¹÷[, ¹8[,# ¹x[ e# ¹¡]!#_*Tutti i bambini# coraggiosi.#_*È il momento!#|
-*Cosa stai fissando?#_*Qui a Magicandia# funziona come nel# mondo esterno.#_*Dammi i contanti e# li scambierò ”con# tanti” begli oggetti.#_*Ih Ih Ih.#|
+*Che hai da# guardare?#_*Qui a Magicandia# funziona come nel# mondo esterno.#_*Dammi i contanti e# li scambierò ”con# tanti” begli oggetti.#_*Ih Ih Ih.#|
 *Sali sul treno,# sennò finirai# come me.|
 *Ti serve altro?#|
 *Benvenuto,# ¹÷[...#_*Ho sempre saputo che# saresti riuscito ad# arrivare fin qui.#_*L'amore della tua# bisnonna Maria è# stato frammentato,#_*frammentato sotto# forma di melodie.#_*Ho una melodia per# te. Ascolta e# ricorda...#|
@@ -904,7 +904,7 @@ Errore di sistema!!!#|
 ”Ciondolo Mare”#*USArlo ti difenderà# da qualsiasi# attacco PSI.|
 ”Succo d'arancia”#*La vitamina C va# sempre bene per# un po' di PS.#|
 ”Patatine Fritte”#*Alzeranno i tuoi PS# se MANGIAte, sia# con che senza salsa.#|
-”Erbe Magiche”#*Se sei stanco o# ferito, USAla.#|
+”Erbe Magiche”#*Se sei stanco o# ferito, USAle.#|
 ”Hamburger”#*Pasto veloce per# PS veloci.#|
 ”Bibita Sportiva”#*Per quanto tu sia# stanco, una bottiglia# ti rinvigorirà.#|
 ”Pomata della Vita”#*USAta per curare# le ferite.#|
@@ -1135,7 +1135,7 @@ L'energia di#¹à& è scorsa#in ¹É&!|
 ¹à& è pronto#all'attacco.|
 ¹à& ha cantato#la canzone!|
 ¹à& sta#in guardia.|
-¹à& si è#avvicinato lentamente!|
+¹à& è#avanzato/a lentamente!|
  Il veleno nel corpo# di ¹É& si è# dissolto.|
  ¹É& è# tornato/a in sé.|
  A ¹É& è# venuto prurito# dappertutto.|
