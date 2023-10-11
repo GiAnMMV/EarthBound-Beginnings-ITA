@@ -628,7 +628,7 @@ Errore di sistema!!!#|
 *Le strade sono# piene di mostri.#_*Sono tutti scappati# via.#|
 *Che vuoi?#|
 *Sono ancora un# chiaroveggente in# apprendistato.#_*Tuttavia, riesco# comunque a vedere# che...#_*Dovresti tornare di# nuovo alla Stazione# Unita.#_*Sebbene non ne sia# del tutto certo.#|
-*La casa di ¹8[# è un villino, non# una magione.#_*Ma sono sicuro lo# sapessi già.#|
+*La casa di ¹8[# è un villino, non# una magione.#_*Ma sono sicura lo# sapessi già.#|
 *C'è un villino nelle# montagne a est.#_*Coff coff# coff coff...#|
 *Voi ragazzini siete# pazzi. Andate in# giro solo con la#_*maglietta.# Coff coff# coff coff...#|
 *Saluta le ossa del# cammello nel# Deserto di Iucca.#_*Conoscevo quel# cammello molto# tempo fa.#|
