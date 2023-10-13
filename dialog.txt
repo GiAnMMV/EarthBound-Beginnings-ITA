@@ -1188,7 +1188,7 @@ Hai preso ¹%`!#_§
 ¹à& si è#svegliato/a.|
 ZAP!!!|
  Ma...# non ha avuto effetto!|
-¹®&# si è svuotata.|
+ ¹®&# si è svuotata.|
 La battaglia si#interrompe.#|
 (¹£@ sente la voce#della Regina Mary)#_Giegue non può essere#sconfitto con la#forza...#_Non potete sconfiggere#Giegue con nessun#tipo di arma.#_Dovete CANTAre la mia#ninna nanna, con tutta#la vostra passione...#_CANTAte la mia ninna#nanna con tutto il#cuore.#_§
  ¹÷[!#_ Sono grato alla# tua famiglia.#_§
