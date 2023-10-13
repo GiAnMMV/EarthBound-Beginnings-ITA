@@ -370,7 +370,7 @@ Errore di sistema!!!#|
 *Dov'è Mami?#*Dov'è Papi?#|
 *Alt, chi va là?#|
 *Ragazzi sospetti.# Vi fermerò.# Arrghh!#|
-*C'è qualcosa di# con il piccolo dei# Garrickson.#_*Qualcosa di strano# davvero.#|
+*Il piccolo dei# Garrickson ha# qualcosa di strano.#_*Qualcosa di strano# davvero.#|
 *Dunque...# 2 più 3 uguale 5,# 8 meno 4 uguale 4.#_*Studio tutto# il tempo.#|
 *Mamma!!# Mi manchi!!!#|
 *Papà!!# Mi manchi!!!#|
