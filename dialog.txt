@@ -742,7 +742,7 @@ Errore di sistema!!!#|
 *Il robot Eve è stata# demolita e ha smesso# di muoversi.#_*Esaminandone i resti# una musica iniziò# a suonare...#|
 *Unica nel suo genere!# Ammirate la favolosa# Scimmia Canterina!#|
 *C'è un lucchetto# sulla porta in cima# alla scale.#|
-*Io devo rimanere qui# con la gente di# Pupazzo di Neve.#_*Fa' attenzione...#|
+*Io devo rimanere qui# con la gente di# Pupazzo di Neve.#_*Fate attenzione...#|
 *Non hai abbastanza# soldi.#|
 *Per favore, vai# prima tu, ¹÷[.# Ho troppa paura.#|
 *La serratura era# rotta. ¹£@ ha# aperto la porta.#|
