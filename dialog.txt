@@ -1048,7 +1048,7 @@ Il più forte degli#Astruomini.|
 °^«² ¿°^»² ¿|
 ¹à&#si avvicina!|
 ¹à& attacca!|
-¹à& ha#sparato dal suo#cannone!|
+¹à& ha#sparato dal cannone#del carrarmato!|
  ¹É& ha# schivato rapidamente.|
 Attacco ripetuto!|
 ¹à& ha morso#¹É&!|
