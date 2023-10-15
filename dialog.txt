@@ -16,7 +16,7 @@ Errore di sistema!!!#|
 *Tac.#|
 *Pronto? Sono Papà.#|
 *Ho trasferito# $³=[_|# sul tuo conto.#_*Sottraendo le# tue spese,#_*il saldo ammonta# a $³+[_|.#_*Spendi i tuoi soldi# con saggezza.#|
-*Forse non è affar# mio, figliolo, ma# che ne dici di# fare una pausa?#|
+*Forse non è affar# mio, figliolo, ma#_*che ne dici di# fare una pausa?#|
 *Capisco.# Meglio SALVAre i# tuoi progressi.#|
 *Capisco.# La Terra è in grave# pericolo, d'altronde.#|
 *Va bene...Stavo per# andare a letto,# comunque.#_*Ho SALVAto i tuoi# progressi fino a# questo punto.#_*Buonanotte.#|
@@ -364,7 +364,7 @@ Errore di sistema!!!#|
 *Il prezzo del# biglietto è di# $³ª|§| a volo.#_*Conserva le Matrici# dei Biglietti.#_*Se arrivi a 10# matrici potrai usare# il carrarmato.#_*L'idea sembra# piacerti.# Ah ah ah...#|
 *Beh, è piuttosto# costoso...# Non ti biasimo.#|
 *Grande! Vedo che# hai raccolto 10# matrici.#_*Ecco il mio# carrarmato. Sembri# proprio felice.#_*Ah ah ah...#|
-*Hai distrutto il# mio carrarmato,#_*la cosa più preziosa# che possedevo.#_*Ora ti toccherà# pagarmi $³ª|§|# per le riparazioni.#_*Vuoi restituirmeli# adesso?#|
+*Hai rotto il# mio carrarmato,#_*la cosa più preziosa# che possedevo.#_*Ora ti toccherà# pagarmi $³ª|§|# per le riparazioni.#_*Vuoi restituirmeli# adesso?#|
 *Grazie e# arrivederci.#|
 *Che rabbia.# Arrrrrrrrr!!#|
 *Dov'è Mami?#*Dov'è Papi?#|
@@ -383,7 +383,7 @@ Errore di sistema!!!#|
 *Oh, sì.  Mi chiamo# Tom Garrickson.#_*Mi piace presentarmi.# È la mia passione.#|
 *Mamma mi ha detto# che questo bebè ha# poteri mistici.#|
 *Guh gah...#|
-*Già, sebbene il mio# corpo sia quello# di un bebè,#_*posseggo abilità# psichiche, come te.#_*Conosco il potere# del Teletrasporto.#_*Usa questo potere per# tornare in un posto# che hai già visitato.#_*(Il bebè ha insegnato# loro il potere del# Teletrasporto)#|
+*Sì, sebbene il mio# corpo sia quello# di un bebè,#_*posseggo abilità# psichiche, come te.#_*Conosco il potere# del Teletrasporto.#_*Usa questo potere per# tornare in un posto# che hai già visitato.#_*(Il bebè ha insegnato# loro il potere del# Teletrasporto)#|
 *Ho sentito la voce# di mio Papà venire# dalle montagne.#_*Ma le montagne sono# oltre la città di# Ennea.#_*È così lontana che# non posso fare un# viaggio del genere.#|
 *Aspetta un attimo...# Non posso darti nulla# se non hai spazio.#|
 *È passato del tempo,# hai più esperienza e# si spera anche un#_*po' più di saggezza,# ma resti comunque# un ragazzino.#|
@@ -391,7 +391,7 @@ Errore di sistema!!!#|
 *I membri della banda# B.B. sono proprio# terribili...#|
 *Per abbreviare# chiamiamo ”B.B.”# i membri della# Banda Bla-Bla.#|
 *Ehi, tu! Non sei# un Bla-Bla, vero?#|
-*Le nubi nere che# sovrastano le# montagne...#_*Stanno facendo# impazzire tutti# la cittadinanza.#|
+*Le nubi nere che# sovrastano le# montagne...#_*Stanno facendo# impazzire tutta# la cittadinanza.#|
 *Ehi, voi due.# Piccioncini, eh!?#|
 *Amore e pace,# sì!#|
 *Le profondità dei# vostri cuori ardono# d'amore, vero?#|
@@ -485,8 +485,8 @@ Errore di sistema!!!#|
 *Non hai abbastanza# soldi. Torna quando# li avrai.#|
 *Arrivederci!# Fa' attenzione.#|
 *Non puoi portare# nient'altro.# Ciao...#|
-*Ecco la tua# medicina.#|
-*Spero abbia dormito# bene.#|
+*Ecco la vostra# medicina.#|
+*Dormite bene.#|
 *Quanto vorresti# prelevare?#|
 *Quanto vorresti# depositare?#|
 *Torniamo in città,# ora.#|
@@ -506,7 +506,7 @@ Errore di sistema!!!#|
 *Vediamo...# A quanto pare il tuo# carico pesa troppo.#|
 *Sono Alfio,# l'assistente del# Dottore.#_*Vorrei assaggiare# pure io il Tofu# alla Fragola.#|
 *Grazie, Sembra# proprio buono!#_*Ti darò delle# informazioni# importanti.#_*Vicino alla cima# del Monte Itoi...#_*In fondo al lago,# c'è un robot# fantastico.#_*Penso che funzioni# ancora.#|
-*Sembro uguale ad# Alfio, ma sono# Betto.#_*Voglio portare# anch'io il Tofu# alla Fragola.#|
+*Sembro uguale ad# Alfio, ma sono# Betto.#_*Voglio provare# anch'io il Tofu# alla Fragola.#|
 *Oh! Quanto sono# felice. Prendi# queste Parole Dure.#|
   PiùVita  Dormi|
 *Il tuo carico è# troppo pesante?#_*Ricordati di tornare# a prenderla.#|
@@ -532,7 +532,7 @@ Errore di sistema!!!#|
 *Mi hai raggiunto.# Devo ammettere che# è notevole.#_*Tieni, ecco una# cosa bella.#|
 *Gira a destra, poi# a sinistra, per# trovare una bella# cosa.#|
 *C'è troppo silenzio# qui, ma è troppo# per me, credo.#|
-*Continua dritto!# Troverai la verità# alla fine del# sentiero.#|
+*Continua dritto!#_*Troverai la verità# alla fine del# sentiero.#|
 *Sono una signora...# Non parlarmi in modo# così informale.#|
 *La verità è che...# io sono un uomo.#|
 *La la la, la la ...# Non preoccuparti,# questa canzone non# è per te.#|
@@ -715,7 +715,7 @@ Errore di sistema!!!#|
 *Il robot era vecchio# e arrugginito.#|
 *Avvertendo la# presenza di ¹÷[,# il robot è tornato# in vita.#|
 *³ª|§| a# ¹|`.#|
-*Fai del tuo meglio.#|
+*Fate del vostro# meglio.#|
 *La tua forza si è# ripristinata dopo#_*aver toccato le acque# misteriose della# fontana.#|
 *Oh cielo, piccola# Pippi!  Sei tornata# sana e salva!#_*Grazie per averla# trovata, ¹÷[!#_*A proposito, il# Sindaco ti sta# aspettando...#_*Vai con ¹÷[,# Pippi, e aiutalo con# questa faccenda.#|
 *Sono occupato, E# quindi non posso# aiutarti al momento.#_*Dovrai tornare più# tardi.#|
@@ -1230,7 +1230,7 @@ La battaglia si#interrompe.#|
 *¹°` ha guadagnato#*³ª|§| di SAGGEZZA.#|
 *¹°` ha guadagnato#*³ª|§| di VIGORE.#|
 *¹°` ha guadagnato#*³ª|§| di FORZA.#|
-*¹°` ha tirato# fuori dell'Erba#_*Magica dalla Sacca# Grande e l'ha USAta.#|
+*¹°` ha tirato# fuori delle Erbe#_*Magiche dalla Sacca# Grande e le ha USAte.#|
 *¹°` ha iniziato# a seminare# le Molliche.#|
 *Non puoi USAre il# Pane finché le#_*vecchie Briciole# non sono finite.#|
 *¹£@ ha raggiunto# l'inizio della# pista...#_*seguendo le Briciole# che erano state# seminate.#|
