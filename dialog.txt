@@ -425,7 +425,7 @@ Errore di sistema!!!#|
 *¹£@ ha USAto la# Scheda Telefonica.#|
 *Sono certo che saremo# una bella squadra.# Andiamo!#|
 *Ti prego...# Ti sarò di# grande aiuto.#|
-*Pronto...# Sono Papà.#_*Non vorrei proprio# impicciarmi ora come# ora, ma...#_*Che aspetti!??#_*Prendi subito quel# pulsante ”A”!#|
+*Pronto...# Sono Papà.#_*Non vorrei proprio# impicciarmi ora# come ora, ma...#_*Che aspetti!??#_*Muoviti e premi# quel pulsante ”A”!#|
 *Ehi, tu,# con gli occhiali...#_*Non sei molto bravo# a combattere, vero?#_*Riposati qui mentre# prendo in prestito# i tuoi Oggetti. OK?#|
 *La forza bruta non# basta per batterli.#_*Ora so che riportare# la pace da noi è# possibile.#_*Io ci credo.#|
 *(¹¡])# Perché siete# arrossiti?#_*Usciamo di qui,# svelti!#|
