@@ -257,6 +257,6 @@ Zombi|
 ZombiSporco|
 Lupo Grigio|
 R7037|
-OrsoGrizzly|
+Orso Grigio|
 R7038XX|
 Ult. A.uomo|
