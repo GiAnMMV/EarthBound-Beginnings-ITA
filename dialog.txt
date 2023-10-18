@@ -95,10 +95,10 @@ Errore di sistema!!!#|
 *Non serviva che tu# rispondessi, tesoro.#|
 *IIH, UH-UHH, UH-AHH!#|
 *¹£@ ha sentito# questa domanda# nella sua mente.#_*”Chi si è perso# la coda?”#|
-*Cielo! Che strani# vestiti che indossi!#_*Di certo i mostri ti# daranno la caccia con# quegli indumenti!!#|
-*Sei turbato di# essere perseguitato#_*dalla disgrazia# e dallo sconforto?#|
+*Cielo! Che strani# vestiti che indossi!#_*Di certo i mostri ti# daranno la caccia con# quegli <biti!!#|
+*Sei preoccupato# perché lo sconforto#_*e la disgrazia ti# perseguitano?#|
 *Se desideri non# trovarti mai# nei guai...#_*RESTATENE A CASA!!#|
-*È vero?# I problemi# ti inseguono?#_*Mmh, che# peccato.#|
+*È così?# I problemi# ti inseguono?#_*Mmh, che# peccato.#|
 *Allora, ammetti che# ho un buon gusto.#_*Come?# Vuoi anche tu# un soprannome fico?#|
 *D'accordo, ce l'ho!# D'ora in poi sarai# Zuccapoccione!#_*Suona proprio bene,# eh?#|
 *Davvero?# Che peccato.#|
@@ -150,7 +150,7 @@ Errore di sistema!!!#|
 *Corretto.# La risposta era# ”due alligatori”.#_*Anche se non ti# ho ancora detto# l'indovinello.#|
 *A più tardi!#|
 *Vorrei poter sentire# la Regina Mary# cantare di nuovo.#|
-*Salve! Non ti ho# sentito arrivare.#_*Quella chitarra fa# proprio un sacco di# chiasso...#_*Non riesco neanche a# pensare.#_*Che? Sono io che la# sto suonando!?#_*Avrei dovuto saperlo.#_*..........#_*La storia che ti dico# ora è un vero# segreto.#_*Torna da me, quando# sarai più forte.#_*Scrivitelo da qualche# parte, per non# scordartelo.#_*Io mi scordo sempre# le cose se non me# le scrivo.#|
+*Salve! Non ti ho# sentito arrivare.#_*Quella chitarra fa# proprio un sacco di# chiasso...#_*Non riesco neanche# a pensare.#_*Che? Sono io a# suonarla!?#_*Avrei dovuto saperlo.#_*..........#_*La storia che ti# dico ora è un vero# segreto.#_*Torna da me, quando# sarai più forte.#_*Scrivitelo da qualche# parte, per non# scordartelo.#_*Io mi scordo sempre# le cose se non me# le scrivo.#|
 *Hai provato ad# ignorarmi, vero?#_*Sono così solo# quassù, senza nessuno# a farmi compagnia.#_*Farò tutto ciò# che posso.# Ecco!#|
 *Sono proprio felice# di ricevere visite!#_*So cosa volete che# faccia. Ecco!#|
 *Ascolta, o ¹£@# amante della musica,# la mia canzone!#_*Perché piangi,# o dolce bambola?#_*È colpa del Canarin# mesto cantare?#_*La scimmia canta,# il pianoforte pure,#_*forse sonato da# spettral figure.#_*Del Cactus del# Deserto, tanto solo,#_*riecheggia ogni notte# il tristo assolo.#_*Il Drago dorme,# la nota immane.#_*E d'Eve la canzone# alfin rimane.#_*La cima del monte# dal nome di Itoi#_*devi raggiungere,# o giovane, poi.#_*Vai alla Pietra XX# per l'ultim tono#_*e dalla Regina Mary,# innanzi al trono!#_*Ninna ninna nanna...# Strana ninna nanna...#_*Ciao ciao ciao...# Addio.#_*Proprio una bella# canzone, vero?#|
@@ -1288,7 +1288,7 @@ KEIZOH KATOH|
 MOTOHIRO ISHII|
 AKIHITO TODA|
 YUKARI SAITOH|
-GIAN MMV|
+GIAMMARIA ANGELONI|
 TOSHIKO WATSON|
 YUKA NAKATA|
 HIROKO FAULKNER|
