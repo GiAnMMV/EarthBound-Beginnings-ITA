@@ -15,7 +15,7 @@ Errore di sistema!!!#|
 *Beh...#_*A quanto pare la# nostra casa è# infestata.#_*Non so di# preciso come...#_*Ma il tuo# bisnonno ha# studiato PSI.#_*Potresti trovare# qualcosa di utile# in cantina.#_*Ma ho lasciato la# Chiave della Cantina# da qualche parte...#_*...non ricordo dove,# di preciso...#_*Comunque, figliolo,# sei la mia unica# speranza.#_*È ora che tu parta# per una piccola# avventura,#_*e che esplori le# potenzialità dei# tuoi poteri.#_*I poteri non vanno# presi con leggerezza.#_*Metticela tutta,# ¹÷[!!#_*Ma ricorda anche di# tornare a trovare# la tua famiglia.#_*Ciao.#_*Oh... telefonami e# mi assicurerò di#_*SALVAre i tuoi# progressi.#_*Chiamami per# qualunque cosa.#|
 *Tac.#|
 *Pronto? Sono Papà.#|
-*Ho trasferito# $³=[_|# sul tuo conto.#_*Sottraendo le# tue spese,#_*il saldo ammonta# a $³+[_|.#_*Spendi i tuoi soldi# con saggezza.#|
+*Ho trasferito# ³=[_| $# sul tuo conto.#_*Sottraendo le# tue spese,#_*il saldo ammonta# a ³+[_| $.#_*Spendi i tuoi soldi# con saggezza.#|
 *Forse non è affar# mio, figliolo, ma#_*che ne dici di# fare una pausa?#|
 *Capisco.# Meglio SALVAre i# tuoi progressi.#|
 *Capisco.# La Terra è in grave# pericolo, d'altronde.#|
@@ -65,7 +65,7 @@ Errore di sistema!!!#|
 *Le chiavi dello Zoo# te le tirano dietro,# prendine un'altra.#|
 *Dai un'occhiata,# tutti gli animali# sono scappati.#|
 *È rimasto solo questo# Pulcino di Canarino.# Vuoi comprarlo?#|
-*Uhm, che ne dici di# $³ª|§|?#|
+*Uhm, che ne dici di# ³ª|§| $?#|
 *OK ragazzo, siamo# in un paese libero,# d'altronde.#|
 *Prenditene cura.# Torna a trovarci!#|
 *Se è gratis,# lo vuoi?# Prenditelo e basta!#|
@@ -189,7 +189,7 @@ Errore di sistema!!!#|
 *È così, allora?# Ciao!#|
 *Ti servono soldi,# vero?#|
 *Ti è tornata utile,# alla fine?#|
-*Bene, il tuo saldo# è di $³+[_|.#_*Quanto vuoi# prelevare?#|
+*Bene, il tuo saldo# è di ³+[_| $.#_*Quanto vuoi# prelevare?#|
 *Ecco...# Prendi qui.#|
 *Ahi, non ci sono# tutti quei soldi# sul tuo conto.#|
 *Io sono un uomo# dimenticato. Non# sono davvero qui.#_*Non dovevi notarmi...#_*Non fare a caso a me.#|
@@ -204,8 +204,8 @@ Errore di sistema!!!#|
 *Ho sentito che sono# successe cose strane# a Sperduzia.#|
 *Ho sentito che uno# zombi è stato# rapito...#_*gli animali vagavano# per le strade# della città...#_*roba da matti.#|
 *Benvenuti ad# Auguronia!!#_*Economica, rapida# e meravigliosa.#_*Il medico migliore# è Benny il Vecchio# Dottorone.#_*Approfitta ora# delle sue visite a# buonissimo prezzo!!#_*Siate morti o vivi,# proteggerà la vostra# vita.#|
-*Prima fammi vedere# i soldi. Poi mi# occuperò di te.#_*Allora... # Nel tuo caso,# mi serviranno#_*$³ª|§| per# curarti.#_*Questo è un# prezzo di favore# solo per te.#|
-*Grazie per i# $³ª|§|.#_*Ora sei a posto.#_*Fatti di nuovo male# e torna presto.# Eh-eh-eeh!#|
+*Prima fammi vedere# i soldi. Poi mi# occuperò di te.#_*Allora... # Nel tuo caso,# mi serviranno#_*³ª|§| $ per# curarti.#_*Questo è un# prezzo di favore# solo per te.#|
+*Grazie per i# ³ª|§| $.#_*Ora sei a posto.#_*Fatti di nuovo male# e torna presto.# Eh-eh-eeh!#|
 *Va bene, muori# pure. Telefonerò# a un becchino.#|
 *Finché il coprifuoco# non viene revocato# nessuno può passare.#_*È un'ordinanza# del Sindaco.#_*Pss...# A proposito,#_*forse ti faranno# attraversare il ponte# a nord-est dello Zoo.#|
 *Che è successo alla# scuola? Dovresti# stare a scuola, no?#|
@@ -290,7 +290,7 @@ Errore di sistema!!!#|
 *Mmm, mmh meh eh,# mmh, eh meh ah,# mmmh, eh mmmhmm!#|
 *Neanch'io capisco# una parola di quel# che dice il vecchio.#|
 *Che bello riavere# di nuovo la mia# Dentiera. Un premio?#_*Condividerò con te# il segreto per una# lunga, lunga vita.#_*Gargarismi frequenti.# Gargarismi fieri.# Gargarismi forti.#_*E se ti becchi un# raffreddore farli# ti aiuterà.#_*Ecco un Collutorio# che ho creato io# stesso. Prendi!#|
-*Un altro collutorio?# Ecco qui.# Avanti, prendilo.#_*Ma questa volta# ti costerà# $³ª|§|.#_*Garg garg garg...# Puh!#|
+*Un altro collutorio?# Ecco qui.# Avanti, prendilo.#_*Ma questa volta# ti costerà# ³ª|§| $.#_*Garg garg garg...# Puh!#|
 *Ho sentito che# qualcuno è morto di# raffreddore.#_*Di semplice# raffreddore!#|
 *Hai sentito che c'è# una casa infestata# a Spettropoli?#|
 *Ho sentito una# storia spaventosa su# quella casa vuota...#_*si dice che il# pianoforte suoni# una melodia stregata.#|
@@ -361,10 +361,10 @@ Errore di sistema!!!#|
 *Visita il Deserto# di Iucca.#_*Voli privati# disponibili# tramite accordo.#|
 *Durante l'ultima# guerra ho disseminato# il deserto di mine.#_*Ne ho rimosse tutte# tranne una, quindi# fa' attenzione.#|
 *Oh, vuoi fare un# giro sull'aereo?#|
-*Il prezzo del# biglietto è di# $³ª|§| a volo.#_*Conserva le Matrici# dei Biglietti.#_*Se arrivi a 10# matrici potrai usare# il carrarmato.#_*L'idea sembra# piacerti.# Ah ah ah...#|
+*Il prezzo del# biglietto è di# ³ª|§| $ a volo.#_*Conserva le Matrici# dei Biglietti.#_*Se arrivi a 10# matrici potrai usare# il carrarmato.#_*L'idea sembra# piacerti.# Ah ah ah...#|
 *Beh, è piuttosto# costoso...# Non ti biasimo.#|
 *Grande! Vedo che# hai raccolto 10# matrici.#_*Ecco il mio# carrarmato. Sembri# proprio felice.#_*Ah ah ah...#|
-*Hai rotto il# mio carrarmato,#_*la cosa più preziosa# che possedevo.#_*Ora ti toccherà# pagarmi $³ª|§|# per le riparazioni.#_*Vuoi restituirmeli# adesso?#|
+*Hai rotto il# mio carrarmato,#_*la cosa più preziosa# che possedevo.#_*Ora ti toccherà# pagarmi ³ª|§| $# per le riparazioni.#_*Vuoi restituirmeli# adesso?#|
 *Grazie e# arrivederci.#|
 *Che rabbia.# Arrrrrrrrr!!#|
 *Dov'è Mami?#*Dov'è Papi?#|
@@ -395,7 +395,7 @@ Errore di sistema!!!#|
 *Ehi, voi due.# Piccioncini, eh!?#|
 *Amore e pace,# sì!#|
 *Le profondità dei# vostri cuori ardono# d'amore, vero?#|
-*Ho ottenuto un# Biglietto per il Vivo# dello Spettacolo.#_*Saprai già che al# Negozio c'è il# tutto esaurito.#_*Ma potrei separarmi# da questo per soli# $³ª|§|...#|
+*Ho ottenuto un# Biglietto per il Vivo# dello Spettacolo.#_*Saprai già che al# Negozio c'è il# tutto esaurito.#_*Ma potrei separarmi# da questo per soli# ³ª|§| $...#|
 *Ecco qui! No, ora# non andare al# Negozio però.#|
 *Bimbetti avidi...#|
 *È un segreto...# Prometti di non dire# che te l'ho detto io?#|
@@ -408,7 +408,7 @@ Errore di sistema!!!#|
 *Ora hai capito di# di aver sbagliato?#|
 *Se prometti di non# farlo più potrai# tornare a casa.#_*Dovrai lasciare# qui quell'arma# pericolosa, però.#|
 *Scusa, dovrai# restare un'altra# notte e calmare# i bollenti spiriti.#|
-*Eeh eeh eeh...#_*Ho finalmente# messo le mani su# ¹%`!#_*Vuoi comprare# quest'arma per# soli $³ª|§|?#|
+*Eeh eeh eeh...#_*Ho finalmente# messo le mani su# ¹%`!#_*Vuoi comprare# quest'arma per# soli ³ª|§| $?#|
 *Non hai abbastanza# soldi.#_*Sigh sob sob.# Ah, ah, ah...#|
 *I genitori di ¹¡]# sono stati uccisi da# creature dei monti.#_*Prima di allora era# un ragazzo gentile.#|
 *Vorrei che ¹¡]# tornasse a essere# come prima.#|
@@ -467,7 +467,7 @@ Errore di sistema!!!#|
 *Preparerò un po' di# ¹Ì×.#_*Fai cena e riposa# qui stanotte.#|
 *Oh, che posso fare?# Che dovrei fare?#_*Dove posso andare?# A chi posso chiedere?#_*Che dovrei fare?# Che dovrei fare?#_*La mia piccola# Pippi è sparita.#_*Se sei diretto a# Sperduzia...#_*Va' a dirlo al# Sindaco, ti prego.#_*Ahimè, ahimè!#|
 *Cosa?#|
-*Posso darti# $³ª|§| per# ¹%`.#_*Ti va bene?#|
+*Posso darti# ³ª|§| $ per# ¹%`.#_*Ti va bene?#|
 *¹£@ trova# un'annotazione nel# Diario del Bisnonno#_*e la legge ad alta# voce...#_*L'essere dimenticato# della nave che# percorre il cosmo.#|
 *So che menti. Non# puoi ingannarmi.#|
 *(Dalla folla# comincia ad alzarsi# un leggero brusio)#_*Abbiamo pagato per# vedere un trio!# Quelli lì sul palco#_*non sono tre!# Umpf umpf...#|
@@ -669,12 +669,12 @@ Errore di sistema!!!#|
 *Bene,# ora sei di# nuovo in forma.#|
 *Che ci creda o no,# sono un Guaritore.# Cosa posso fare?#|
 *D'accordo, fa'# come vuoi.#|
-*Dammi $³ª|§|,# allora.#|
-*Ti do il benvenuto!# $³ª|§| a notte.# Vuoi restare?#|
+*Dammi ³ª|§| $,# allora.#|
+*Ti do il benvenuto!# ³ª|§| $ a notte.# Vuoi restare?#|
 *Mi spiace molto.# Torna a trovarci.#|
 *Buonanotte...# e sogni d'oro# zecchino.#|
 *Buongiorno!# Torna a trovarci.#|
-*Hanno appena# ricoverato ¹|`#_*qui, ma ancora non# ha ripreso i sensi.#_*Le cure mediche# per le sue ferite# costano $³ª|§|.#|
+*Hanno appena# ricoverato ¹|`#_*qui, ma ancora non# ha ripreso i sensi.#_*Le cure mediche# per le sue ferite# costano ³ª|§| $.#|
 *A chi vuoi far# visita?#|
 *Beh, Papà non è a# casa e non mi# servono soldi.#_*Perciò se hai# bisogno di un posto#_*in cui stare puoi# passare la notte qui.#|
 *Buongiorno!# Torna pure quando# vuoi.#_*Così magari mi# sentirei un po'# meno solo, qui.#|
@@ -696,7 +696,7 @@ Errore di sistema!!!#|
 *Ho una fonte di# armi fantastica.#_*Torna da me più# tardi...#_*E forse avrò tra le# mani un'arma# favolosa o due.#|
 *¹£@ ha vinto# la battaglia.#|
   Preleva  Deposita|
-*Il tuo conto mostra# un totale di# $³+[_|.#|
+*Il tuo conto mostra# un totale di# ³+[_| $.#|
 *La porta è chiusa# a chiave.#|
 *Quella Chiave non# entra in quella# serratura.#|
 *¹£@ ha aperto la# porta e ha messo# piede all'interno.#|
