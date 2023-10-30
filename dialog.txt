@@ -1231,7 +1231,7 @@ La battaglia si#interrompe.#|
 *¹°` ha guadagnato#*³ª|§| di VIGORE.#|
 *¹°` ha guadagnato#*³ª|§| di FORZA.#|
 *¹°` ha tirato# fuori delle Erbe#_*Magiche dalla Sacca# Grande e le ha USAte.#|
-*¹°` ha iniziato# a seminare# le Molliche.#|
+*¹°` ha iniziato# a seminare# le Briciole.#|
 *Non puoi USAre il# Pane finché le#_*vecchie Briciole# non sono finite.#|
 *¹£@ ha raggiunto# l'inizio della# pista...#_*seguendo le Briciole# che erano state# seminate.#|
 *¹°` si è legata# il Fiocco tra# i capelli.#|
