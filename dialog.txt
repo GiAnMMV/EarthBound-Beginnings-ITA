@@ -1247,7 +1247,7 @@ La battaglia si#interrompe.#|
 *Non rimane abbastanza# potere per provarlo.#|
 *¹°` è# tornato/a in# scena.#|
 *Il Diario era# difficile da leggere,#_*ma aprendolo a# questa pagina...#_*(PAROLA D'ORDINE)#_*.... colui che ha# perso la coda.#_*... dimenticato...# ...nave che# percorre...#|
-*¹a|` si è# ammorbidito/a.#|
+*¹|` si è# ammorbidito/a.#|
 *L'Ocarina ha# iniziato a suonare# senza sosta...#|
 *L'hai sentita?#|
 *Questo posto non è# sulla mappa.#|
