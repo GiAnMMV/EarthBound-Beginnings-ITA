@@ -1245,7 +1245,7 @@ La battaglia si#interrompe.#|
 *Il Sasso dai Poteri# PSI è diventato un# normale sasso.#|
 *¹°` ha provato# ¹⁴`.#|
 *Non rimane abbastanza# potere per provarlo.#|
-*¹°` è# tornato/a in# scena.#|
+*¹°` è# di nuovo in# scena.#|
 *Il Diario era# difficile da leggere,#_*ma aprendolo a# questa pagina...#_*(PAROLA D'ORDINE)#_*.... colui che ha# perso la coda.#_*... dimenticato...# ...nave che# percorre...#|
 *¹|` si è# ammorbidito/a.#|
 *L'Ocarina ha# iniziato a suonare# senza sosta...#|
