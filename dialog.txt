@@ -80,7 +80,7 @@ Errore di sistema!!!#|
 *Grazie per aver# fatto acquisti# da noi.#|
 *È comodo che lo# sportello automatico#_*sia qui accanto# al bancone, ma tanto#_*a me non interessa.# Non ho nemmeno una# carta da usare.#|
 *Oggi il cielo# è sereno.# Però, non m'importa.#|
-*Ooh! Quel Canarino# è il Pulcino di# Laura canterina.#_**Vuoi ridarle il# suo piccolo?#|
+*Ooh! Quel Canarino# è il Pulcino di# Laura canterina.#_*Vuoi ridarle il# suo piccolo?#|
 *Un momento...#_*Ti sei appena perso# qualcosa di molto# importante.#|
 *Dove sarà Laura?...#|
 *Laura si è ricordata# la sua canzone#_*e ha ricominciato di# nuovo a cantarla.#_*Hai appreso la# melodia?#|
@@ -95,7 +95,7 @@ Errore di sistema!!!#|
 *Non serviva che tu# rispondessi, tesoro.#|
 *IIH, UH-UHH, UH-AHH!#|
 *¹£@ ha sentito# questa domanda# nella sua mente.#_*”Chi si è perso# la coda?”#|
-*Cielo! Che strani# vestiti che indossi!#_*Di certo i mostri ti# daranno la caccia con# quegli <biti!!#|
+*Cielo! Che strani# vestiti che indossi!#_*Di certo i mostri ti# daranno la caccia con# quegli abiti!!#|
 *Sei preoccupato# perché lo sconforto#_*e la disgrazia ti# perseguitano?#|
 *Se desideri non# trovarti mai# nei guai...#_*RESTATENE A CASA!!#|
 *È così?# I problemi# ti inseguono?#_*Mmh, che# peccato.#|
