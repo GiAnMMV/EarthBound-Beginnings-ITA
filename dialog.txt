@@ -236,7 +236,7 @@ Errore di sistema!!!#|
 *I bricconcelli# dovrebbero mostrare# rispetto ai vecchi.#|
 *È pericoloso,# che ci fai con# quella cosa?#_*La terrò io# per te.#|
 *Tieni, tieni,# prendi pure un tè.#|
-*Anche che si chiama# corridoio è comunque# vietato correre!#|
+*Anche se si chiama# corridoio è comunque# vietato correre!#|
 *Aspetta un attimo,# non mi pare di# averti mai visto.#_*Non sei di queste# parti, vero?#|
 *Capisco. Basta che# non corri nel# corridoio.#|
 *Fammi vedere# cos'hai.#_*Non porti nulla# di pericoloso,# vero?#|
@@ -1301,3 +1301,4 @@ HIKONORI SUZUKI|
 TAKAO SHIMIZU|
 SHIGERU MIYAMOTO|
 HIROSHI YAMAUCHI|
+
