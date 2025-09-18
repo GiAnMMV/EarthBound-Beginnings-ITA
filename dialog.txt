@@ -286,7 +286,7 @@ Errore di sistema!!!#|
 *Cosa vuoi darmi?#|
 *Grazie mille.# Come segno di# gratitudine ti#_*darò questo Sacco# di Pulci.# Ecco, prendilo.#|
 *Circola l'influenza# da queste parti.# Coff, coff.#|
-*Sopra le montagne# abita una vecchio.#_*Leggende narrano che# da 300 anni non ha#_*mai preso un# raffreddore.#|
+*Sopra le montagne# abita un vecchio.#_*Leggende narrano che# da 300 anni non ha#_*mai preso un# raffreddore.#|
 *Mmm, mmh meh eh,# mmh, eh meh ah,# mmmh, eh mmmhmm!#|
 *Neanch'io capisco# una parola di quel# che dice il vecchio.#|
 *Che bello riavere# di nuovo la mia# Dentiera. Un premio?#_*Condividerò con te# il segreto per una# lunga, lunga vita.#_*Gargarismi frequenti.# Gargarismi fieri.# Gargarismi forti.#_*E se ti becchi un# raffreddore farli# ti aiuterà.#_*Ecco un Collutorio# che ho creato io# stesso. Prendi!#|
@@ -1301,4 +1301,5 @@ HIKONORI SUZUKI|
 TAKAO SHIMIZU|
 SHIGERU MIYAMOTO|
 HIROSHI YAMAUCHI|
+
 
